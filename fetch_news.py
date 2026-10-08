@@ -147,10 +147,51 @@ def main():
 
     articles = list(unique.values())
 
-    # Keep the latest headlines for the OBS ticker.
-    save_json(NEWS_FILE, {
-        "updated": datetime.now(timezone.utc).isoformat(),
-        "articles": articles[:MAX_HEADLINES]
+    
+# Balance headlines across available news sources.
+from collections import defaultdict
+from itertools import cycle
+
+grouped = defaultdict(list)
+
+for article in articles:
+    grouped[article["source"]].append(article)
+
+# Rotate the starting source each day for variety.
+sources = sorted(grouped.keys())
+
+if sources:
+    day_number = datetime.now(timezone.utc).toordinal()
+    offset = day_number % len(sources)
+    sources = sources[offset:] + sources[:offset]
+
+balanced_articles = []
+positions = {source: 0 for source in sources}
+
+while len(balanced_articles) < MAX_HEADLINES:
+    added = False
+
+    for source in sources:
+        position = positions[source]
+
+        if position < len(grouped[source]):
+            balanced_articles.append(
+                grouped[source][position]
+            )
+            positions[source] += 1
+            added = True
+
+            if len(balanced_articles) >= MAX_HEADLINES:
+                break
+
+    if not added:
+        break
+
+save_json(NEWS_FILE, {
+    "updated": datetime.now(timezone.utc).isoformat(),
+    "articles": balanced_articles
+})
+
     })
 
     webhook = os.getenv("DISCORD_WEBHOOK_URL", "")
