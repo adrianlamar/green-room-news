@@ -167,14 +167,14 @@ for source, source_articles in grouped.items():
 # Shuffle headlines into a random order.
 random.shuffle(selected_articles)
 
-# Limit the ticker to 30 headlines.
-ticker_articles = selected_articles[:MAX_HEADLINES]
 
-save_json(NEWS_FILE, {
-    "updated": datetime.now(timezone.utc).isoformat(),
-    "articles": ticker_articles
-})
+    # Limit the ticker to 30 headlines.
+    ticker_articles = selected_articles[:MAX_HEADLINES]
 
+    save_json(NEWS_FILE, {
+        "updated": datetime.now(timezone.utc).isoformat(),
+        "articles": ticker_articles
+    })
 
     webhook = os.getenv("DISCORD_WEBHOOK_URL", "")
     previous = load_json(SEEN_FILE, {"urls": []})
@@ -187,6 +187,7 @@ save_json(NEWS_FILE, {
         })
         print("First run: initialized article history.")
         return
+
 
     new_articles = [
         article for article in articles
