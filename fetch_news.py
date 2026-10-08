@@ -176,32 +176,6 @@ save_json(NEWS_FILE, {
 })
 
 
-while len(balanced_articles) < MAX_HEADLINES:
-    added = False
-
-    for source in sources:
-        position = positions[source]
-
-        if position < len(grouped[source]):
-            balanced_articles.append(
-                grouped[source][position]
-            )
-            positions[source] += 1
-            added = True
-
-            if len(balanced_articles) >= MAX_HEADLINES:
-                break
-
-    if not added:
-        break
-
-save_json(NEWS_FILE, {
-    "updated": datetime.now(timezone.utc).isoformat(),
-    "articles": balanced_articles
-})
-
-    })
-
     webhook = os.getenv("DISCORD_WEBHOOK_URL", "")
     previous = load_json(SEEN_FILE, {"urls": []})
     seen = set(previous.get("urls", []))
