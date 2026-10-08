@@ -1,13 +1,185 @@
-
 {
-  "updated": null,
+  "updated": "2026-10-08T01:15:27.118845+00:00",
   "articles": [
     {
-      "title": "Welcome to The Green Room Gaming News!",
-      "url": "https://www.ign.com",
-      "source": "GREEN ROOM",
-      "published": ""
+      "title": "The 2026 LG Evo B6 4K 120Hz OLED TV Drops to Under $1,000 for Prime Day, Plus Get a Free Soundbar",
+      "url": "https://www.ign.com/articles/lg-evo-b6-4k-oled-tv-deal-amazon-october-prime-day-sale",
+      "source": "IGN",
+      "published": "Thu, 8 Oct 2026 00:30:00 +0000"
+    },
+    {
+      "title": "Amazon Prime Big Deal Days 2026: Today Is the Last Day to Score the Best October Sales",
+      "url": "https://www.ign.com/articles/amazon-prime-big-deal-days-sale-2026",
+      "source": "IGN",
+      "published": "Thu, 8 Oct 2026 00:15:00 +0000"
+    },
+    {
+      "title": "The 8BitDo Ultimate 2C Wireless PC Gaming Controller Drops to $23.99 for Prime Day",
+      "url": "https://www.ign.com/articles/8bitdo-ultimate-2c-pc-gaming-controller-deal-amazon-october-prime-day-sale-2026",
+      "source": "IGN",
+      "published": "Thu, 8 Oct 2026 00:15:00 +0000"
+    },
+    {
+      "title": "10 Last-Minute Deals to Grab Before Prime Big Deal Days End",
+      "url": "https://www.ign.com/articles/10-last-minute-deals-prime-big-deal-days-2026",
+      "source": "IGN",
+      "published": "Thu, 8 Oct 2026 00:05:00 +0000"
+    },
+    {
+      "title": "Save $500 Off the Powerful Skytech Ryzen X3D GeForce RTX 5070 Prebuilt Gaming PC at Walmart",
+      "url": "https://www.ign.com/articles/skytech-geforce-rtx-5070-prebuilt-gaming-pc-deal-october-2026",
+      "source": "IGN",
+      "published": "Wed, 7 Oct 2026 23:10:00 +0000"
+    },
+    {
+      "title": "Bit Reactor CEO Welcomes Return of Some Furloughed Staff for 'Continued Support' of Star Wars Zero Company",
+      "url": "https://www.ign.com/articles/bit-reactor-ceo-welcomes-return-of-some-furloughed-staff-for-continued-support-of-star-wars-zero-company",
+      "source": "IGN",
+      "published": "Wed, 7 Oct 2026 22:52:00 +0000"
+    },
+    {
+      "title": "C4 Has Its Bombsicle Energy Drinks Discounted Still Today at Amazon for October Prime Day",
+      "url": "https://www.ign.com/articles/c4-has-its-bombsicle-energy-drinks-discounted-still-today-at-amazon-for-october-prime-day",
+      "source": "IGN",
+      "published": "Wed, 7 Oct 2026 22:48:06 +0000"
+    },
+    {
+      "title": "The Legend of Zelda: Ocarina of Time Manga Is on Sale at Amazon Today",
+      "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-manga-is-on-sale-for-prime-big-deal-days-2026",
+      "source": "IGN",
+      "published": "Wed, 7 Oct 2026 22:33:23 +0000"
+    },
+    {
+      "title": "The Razer Iskur V2 X Gaming Chair Dips Below $200 For the First Time During the Prime Day Sale",
+      "url": "https://www.ign.com/articles/razer-iskur-v2-x-gaming-chair-deal-amazon-october-prime-day-sale-2026",
+      "source": "IGN",
+      "published": "Wed, 7 Oct 2026 22:20:00 +0000"
+    },
+    {
+      "title": "Samuel L. Jackson Confirms Nick Fury Will Return in Avengers: Secret Wars",
+      "url": "https://www.ign.com/articles/samuel-l-jackson-confirms-nick-fury-will-return-in-avengers-secret-wars",
+      "source": "IGN",
+      "published": "Wed, 7 Oct 2026 22:02:54 +0000"
+    },
+    {
+      "title": "Dragon's Dogma 2: Dark Arisen Review",
+      "url": "https://www.ign.com/articles/dragons-dogma-2-dark-arisen-review",
+      "source": "IGN",
+      "published": "Wed, 7 Oct 2026 22:00:00 +0000"
+    },
+    {
+      "title": "PS5 Adding Dedicated Crunchyroll Hub Next Spring",
+      "url": "https://www.ign.com/articles/ps5-adding-dedicated-crunchyroll-hub-next-spring",
+      "source": "IGN",
+      "published": "Wed, 7 Oct 2026 21:49:19 +0000"
+    },
+    {
+      "title": "Top 5 Robot Vacuum Deals for Prime Big Deal Days",
+      "url": "https://www.ign.com/articles/robot-vacuum-deals-october-prime-big-deal-days-2026",
+      "source": "IGN",
+      "published": "Wed, 7 Oct 2026 21:38:21 +0000"
+    },
+    {
+      "title": "Last Chance to Pick up a Pair of Apple AirPods Pro 3 Wireless Noise Canceling Earbuds for $179",
+      "url": "https://www.ign.com/articles/apple-airpods-pro-3-deal-amazon-october-prime-day-sale",
+      "source": "IGN",
+      "published": "Wed, 7 Oct 2026 21:30:00 +0000"
+    },
+    {
+      "title": "IGN Fan Fest 2026: Fall Edition – How to Watch and What to Expect",
+      "url": "https://www.ign.com/articles/ign-fan-fest-2026-fall-edition-how-to-watch-and-what-to-expect",
+      "source": "IGN",
+      "published": "Wed, 7 Oct 2026 21:15:00 +0000"
+    },
+    {
+      "title": "Castlevania: Belmont's Curse Demo Hides Fighting Game Easter Eggs Behind Secret Weapon",
+      "url": "https://www.ign.com/articles/castlevania-belmonts-curse-demo-hides-fighting-game-easter-eggs-behind-secret-weapon",
+      "source": "IGN",
+      "published": "Wed, 7 Oct 2026 21:14:11 +0000"
+    },
+    {
+      "title": "This Fanatical Deal Drops Marathon on PC to $19.39, Cheaper Than Steam's Autumn Sale",
+      "url": "https://www.ign.com/articles/marathon-pc-steam-deal-fanatical-october-2026",
+      "source": "IGN",
+      "published": "Wed, 7 Oct 2026 21:11:56 +0000"
+    },
+    {
+      "title": "Save $150 Off the BowFlex SelectTech Adjustable Dumbbells for Prime Day",
+      "url": "https://www.ign.com/articles/bowflex-selecttech-adjustable-dumbbell-deal-amazon-october-prime-day-sale-2026",
+      "source": "IGN",
+      "published": "Wed, 7 Oct 2026 21:10:00 +0000"
+    },
+    {
+      "title": "The Dungeon Crawler Carl Graphic Novels Are Buy 2, Get 1 Free at Target",
+      "url": "https://www.ign.com/articles/the-dungeon-crawler-carl-graphic-novels-are-buy-2-get-1-free-at-target-october-2026",
+      "source": "IGN",
+      "published": "Wed, 7 Oct 2026 20:09:06 +0000"
+    },
+    {
+      "title": "Guillermo del Toro on Blade 2, Working With Kojima, and Lots of Red Bull",
+      "url": "https://www.ign.com/articles/guillermo-del-toro-on-blade-2-working-with-kojima-and-lots-of-red-bull",
+      "source": "IGN",
+      "published": "Wed, 7 Oct 2026 19:55:22 +0000"
+    },
+    {
+      "title": "Should You Play Dragon’s Dogma 2 On Switch 2?",
+      "url": "https://www.gamespot.com/videos/should-you-play-dragons-dogma-2-on-switch-2/",
+      "source": "GameSpot",
+      "published": "Wed, 07 Oct 2026 22:00:00 +0000"
+    },
+    {
+      "title": "Controversial Horror Series Ropes Me Back In With Silent Hill’s Original Composer And Lady Dimitrescu",
+      "url": "https://www.gamespot.com/articles/controversial-horror-series-ropes-me-back-in-with-silent-hills-original-composer-and-lady-dimitrescu/",
+      "source": "GameSpot",
+      "published": "Wed, 07 Oct 2026 20:45:00 +0000"
+    },
+    {
+      "title": "Three Years Later, The Outlast Trials Just Smashed Its Concurrent-Player Record",
+      "url": "https://www.gamespot.com/articles/three-years-later-the-outlast-trials-just-smashed-its-concurrent-player-record/",
+      "source": "GameSpot",
+      "published": "Wed, 07 Oct 2026 20:00:15 +0000"
+    },
+    {
+      "title": "The New Guitar Hero-Like Game, Stage Tour, Has A Pretty Excellent Soundtrack",
+      "url": "https://www.gamespot.com/articles/the-new-guitar-hero-err-stage-tour-reveals-its-first-songs/",
+      "source": "GameSpot",
+      "published": "Tue, 09 Jun 2026 19:12:31 +0000"
+    },
+    {
+      "title": "Resident Evil Movie Will Become Zach Cregger’s Biggest Ever, Surpassing Weapons",
+      "url": "https://www.gamespot.com/articles/resident-evil-movie-will-become-zach-creggers-biggest-ever-surpassing-weapons/",
+      "source": "GameSpot",
+      "published": "Wed, 07 Oct 2026 19:14:22 +0000"
+    },
+    {
+      "title": "What’s Next For Halo Under Activision? Probably Not The Endless",
+      "url": "https://www.gamespot.com/articles/whats-next-for-halo-under-activision-probably-not-the-endless/",
+      "source": "GameSpot",
+      "published": "Wed, 07 Oct 2026 18:54:45 +0000"
+    },
+    {
+      "title": "007 First Light Players Unlock A Very Good Boy",
+      "url": "https://www.gamespot.com/articles/007-first-light-players-unlock-a-very-good-boy/",
+      "source": "GameSpot",
+      "published": "Wed, 07 Oct 2026 18:25:13 +0000"
+    },
+    {
+      "title": "14 Horror Games It Would Be Terrifying Not To Wishlist",
+      "url": "https://www.gamespot.com/articles/14-new-horror-games-it-would-be-terrifying-not-to-wishlist-on-steam/",
+      "source": "GameSpot",
+      "published": "Wed, 07 Oct 2026 18:00:00 +0000"
+    },
+    {
+      "title": "Star Wars Zero Company Developer Sees Portion Of Furloughed Workers Return",
+      "url": "https://www.gamespot.com/articles/star-wars-zero-company-developer-sees-portion-of-furloughed-workers-return/",
+      "source": "GameSpot",
+      "published": "Wed, 07 Oct 2026 17:56:10 +0000"
+    },
+    {
+      "title": "Cities: Skylines Announced For Switch 2 While Sequel’s Console Ports Are Still MIA",
+      "url": "https://www.gamespot.com/articles/cities-skylines-announced-for-switch-2-while-sequels-console-ports-are-still-mia/",
+      "source": "GameSpot",
+      "published": "Wed, 07 Oct 2026 17:47:17 +0000"
     }
   ]
 }
-
