@@ -189,10 +189,15 @@ def main():
         return
 
 
+    
     new_articles = [
         article for article in articles
         if article["url"] not in seen
     ]
+
+    # Randomize new articles from all publishers.
+    random.shuffle(new_articles)
+
 
     if webhook:
         for article in new_articles[:MAX_DISCORD_POSTS]:
