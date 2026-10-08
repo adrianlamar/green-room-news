@@ -1,1 +1,22 @@
 
+{
+  "feeds": [
+    {
+      "name": "IGN",
+      "url": "https://feeds.ign.com/ign/all"
+    },
+    {
+      "name": "GameSpot",
+      "url": "https://www.gamespot.com/feeds/mashup/"
+    },
+    {
+      "name": "PC Gamer",
+      "url": "https://www.pcgamer.com/rss/"
+    },
+    {
+      "name": "Eurogamer",
+      "url": "https://www.eurogamer.net/feed"
+    }
+  ]
+}
+
