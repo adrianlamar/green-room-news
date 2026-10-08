@@ -40,24 +40,38 @@ jobs:
           import os
           import urllib.request
 
+          
+      - name: Test Discord webhook
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          import urllib.request
+
           webhook = os.environ["DISCORD_WEBHOOK_URL"]
 
           payload = {
               "username": "Green Room News",
-              "content": "🟢 Green Room News is connected! Automated gaming headlines are coming soon.",
+              "content": "Green Room News webhook test!",
               "allowed_mentions": {"parse": []}
           }
 
           request = urllib.request.Request(
               webhook,
               data=json.dumps(payload).encode("utf-8"),
-              headers={"Content-Type": "application/json"},
+              headers={
+                  "Content-Type": "application/json",
+                  "User-Agent": "GreenRoomNews/1.0"
+              },
               method="POST"
           )
 
           with urllib.request.urlopen(request, timeout=20) as response:
-              print(f"Discord webhook response: {response.status}")
+              print(f"Discord response: {response.status}")
           PY
+
 
       - name: Save updated headlines and history
         run: |
