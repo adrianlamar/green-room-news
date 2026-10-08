@@ -1,4 +1,7 @@
 
+import random
+from collections import defaultdict
+
 import json
 import os
 import re
@@ -148,25 +151,30 @@ def main():
     articles = list(unique.values())
 
     
-# Balance headlines across available news sources.
-from collections import defaultdict
-from itertools import cycle
 
+# Randomize headlines while keeping sources balanced.
 grouped = defaultdict(list)
 
 for article in articles:
     grouped[article["source"]].append(article)
 
-# Rotate the starting source each day for variety.
-sources = sorted(grouped.keys())
+# Take up to 8 headlines from each source.
+selected_articles = []
 
-if sources:
-    day_number = datetime.now(timezone.utc).toordinal()
-    offset = day_number % len(sources)
-    sources = sources[offset:] + sources[:offset]
+for source, source_articles in grouped.items():
+    selected_articles.extend(source_articles[:8])
 
-balanced_articles = []
-positions = {source: 0 for source in sources}
+# Shuffle headlines into a random order.
+random.shuffle(selected_articles)
+
+# Limit the ticker to 30 headlines.
+ticker_articles = selected_articles[:MAX_HEADLINES]
+
+save_json(NEWS_FILE, {
+    "updated": datetime.now(timezone.utc).isoformat(),
+    "articles": ticker_articles
+})
+
 
 while len(balanced_articles) < MAX_HEADLINES:
     added = False
