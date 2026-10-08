@@ -1,1 +1,223 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Green Room | Gaming News</title>
+
+<style>
+  :root {
+    --green: #39ff14;
+    --background: #080b09;
+    --text: #f5fff5;
+    --height: 64px;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  body {
+    margin: 0;
+    overflow: hidden;
+    background: transparent;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .ticker {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: var(--height);
+    overflow: hidden;
+    background: var(--background);
+    border-top: 2px solid var(--green);
+    border-bottom: 2px solid var(--green);
+  }
+
+  .ticker-label {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    height: 100%;
+    padding: 0 24px;
+    background: var(--green);
+    color: #071007;
+    font-weight: 900;
+    font-size: 19px;
+    letter-spacing: 1px;
+    white-space: nowrap;
+    z-index: 2;
+  }
+
+  .ticker-window {
+    flex: 1;
+    min-width: 0;
+    overflow: hidden;
+  }
+
+  .ticker-track {
+    display: flex;
+    align-items: center;
+    width: max-content;
+    white-space: nowrap;
+    animation: scroll 90s linear infinite;
+  }
+
+  .headline {
+    display: inline-flex;
+    align-items: center;
+    padding: 0 32px;
+    color: var(--text);
+    font-size: 21px;
+    font-weight: 600;
+  }
+
+  .source {
+    margin-right: 12px;
+    color: var(--green);
+    font-weight: 800;
+  }
+
+  .separator {
+    margin-left: 32px;
+    color: var(--green);
+  }
+
+  @keyframes scroll {
+    from {
+      transform: translateX(0);
+    }
+    to {
+      transform: translateX(-50%);
+    }
+  }
+</style>
+</head>
+
+<body>
+  <div class="ticker">
+    <div class="ticker-label">
+      GAMING NEWS
+    </div>
+
+    <div class="ticker-window">
+      <div class="ticker-track" id="ticker-track">
+        <div class="headline">
+          Welcome to The Green Room Gaming News
+        </div>
+      </div>
+    </div>
+  </div>
+
+<script>
+  const track = document.getElementById("ticker-track");
+
+  const REFRESH_INTERVAL = 5 * 60 * 1000;
+  const SCROLL_SPEED = 85;
+
+  let currentSignature = "";
+
+  function createHeadline(article) {
+    const item = document.createElement("span");
+    item.className = "headline";
+
+    const source = document.createElement("span");
+    source.className = "source";
+    source.textContent = `[${article.source || "NEWS"}]`;
+
+    const title = document.createElement("span");
+    title.textContent = article.title || "Gaming News";
+
+    const separator = document.createElement("span");
+    separator.className = "separator";
+    separator.textContent = "◆";
+
+    item.append(source, title, separator);
+
+    return item;
+  }
+
+  function renderTicker(articles) {
+    track.replaceChildren();
+
+    const group = document.createElement("div");
+    group.style.display = "flex";
+    group.style.alignItems = "center";
+    group.style.flexShrink = "0";
+
+    articles.forEach(article => {
+      group.appendChild(createHeadline(article));
+    });
+
+    track.appendChild(group);
+
+    const firstWidth = group.getBoundingClientRect().width;
+    const windowWidth =
+      document.querySelector(".ticker-window").clientWidth;
+
+    // Ensure the repeated sequence is wider than the window.
+    while (group.getBoundingClientRect().width < windowWidth) {
+      articles.forEach(article => {
+        group.appendChild(createHeadline(article));
+      });
+    }
+
+    track.appendChild(group.cloneNode(true));
+
+    const distance = group.getBoundingClientRect().width;
+    const duration = Math.max(15, distance / SCROLL_SPEED);
+
+    track.style.animation = "none";
+    void track.offsetWidth;
+
+    track.style.animation =
+      `scroll ${duration}s linear infinite`;
+  }
+
+  async function loadNews() {
+    try {
+      const response = await fetch(
+        `news.json?t=${Date.now()}`,
+        { cache: "no-store" }
+      );
+
+      if (!response.ok) {
+        throw new Error(`HTTP ${response.status}`);
+      }
+
+      const data = await response.json();
+      const articles = (data.articles || []).filter(
+        article => article.title
+      );
+
+      if (!articles.length) {
+        throw new Error("No headlines available");
+      }
+
+      const signature = JSON.stringify(articles);
+
+      if (signature !== currentSignature) {
+        currentSignature = signature;
+        renderTicker(articles);
+      }
+    } catch (error) {
+      console.error("News update failed:", error);
+
+      if (!currentSignature) {
+        renderTicker([{
+          source: "GREEN ROOM",
+          title: "Gaming news headlines are loading..."
+        }]);
+      }
+    }
+  }
+
+  loadNews();
+  setInterval(loadNews, REFRESH_INTERVAL);
+</script>
+</body>
+</html>
+
