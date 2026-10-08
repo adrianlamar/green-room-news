@@ -1,35 +1,11 @@
 {
-  "updated": "2026-10-08T12:26:37.819079+00:00",
+  "updated": "2026-10-08T12:56:04.907673+00:00",
   "articles": [
     {
-      "title": "Below Review",
-      "url": "https://www.ign.com/articles/below-netflix-review",
-      "source": "IGN",
-      "published": "Thu, 8 Oct 2026 07:01:00 +0000"
-    },
-    {
-      "title": "Wizards of the Coast Confirms Reprints for Popular MTG Warhammer 40K Commander Decks",
-      "url": "https://www.ign.com/articles/magic-the-gathering-warhammer-40k-commander-decks-reprint-confirmed",
-      "source": "IGN",
-      "published": "Thu, 8 Oct 2026 11:20:17 +0000"
-    },
-    {
-      "title": "GTA 6 Leaks Aren’t Over Yet, As New 25-Minute Gameplay Footage Appears",
-      "url": "https://www.gamespot.com/articles/gta-6-leaks-arent-over-yet-as-new-25-minute-gameplay-footage-appears/",
+      "title": "Clive Barker’s Hellraiser: Revival Review",
+      "url": "https://www.gamespot.com/videos/clive-barkers-hellraiser-revival-review/",
       "source": "GameSpot",
-      "published": "Thu, 08 Oct 2026 11:54:16 +0000"
-    },
-    {
-      "title": "With Grand Theft Auto 6 poised to take over the world, I reached out to Jack Thompson and it did not go well",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/with-grand-theft-auto-6-poised-to-take-over-the-world-i-reached-out-to-jack-thompson-and-it-did-not-go-well/",
-      "source": "PC Gamer",
-      "published": "Wed, 07 Oct 2026 22:41:23 +0000"
-    },
-    {
-      "title": "Google and Unity unveil gen-AI game-making platforms, and demonstrate one of them with depressingly rubbish \"dream game\" Space Corridor",
-      "url": "https://www.eurogamer.net/google-playground-unity-spark-gen-ai-game-creators",
-      "source": "Eurogamer",
-      "published": "Thu, 08 Oct 2026 11:33:09 +0000"
+      "published": "Thu, 08 Oct 2026 12:00:00 +0000"
     },
     {
       "title": "Here's the Dragon's Dogma 2: Dark Arisen release time for your region",
@@ -38,100 +14,10 @@
       "published": "Thu, 08 Oct 2026 00:00:00 +0000"
     },
     {
-      "title": "Wardogs Streamer Banned for Exploiting the Game's Building Mechanics to Get Rich",
-      "url": "https://www.ign.com/articles/wardogs-streamer-banned-for-exploits",
-      "source": "IGN",
-      "published": "Thu, 8 Oct 2026 09:29:19 +0000"
-    },
-    {
-      "title": "Xbox Is Going Bigger On Movies, TV, And More With New XP Division",
-      "url": "https://www.gamespot.com/articles/xbox-is-going-bigger-on-movies-tv-and-more-with-new-xp-division/",
-      "source": "GameSpot",
-      "published": "Thu, 08 Oct 2026 12:15:56 +0000"
-    },
-    {
-      "title": "Following Nintendo and Sony's lead, Xbox is setting up a division exclusively dedicated to movies and non-games partnerships",
-      "url": "https://www.eurogamer.net/xbox-xp-product-partnerships-places-productions",
-      "source": "Eurogamer",
-      "published": "Thu, 08 Oct 2026 12:12:45 +0000"
-    },
-    {
-      "title": "PC Gamer magazine's new issue is on sale now: World of Warcraft: Forever",
-      "url": "https://www.pcgamer.com/games/pc-gamer-magazines-new-issue-is-on-sale-now-world-of-warcraft-forever/",
+      "title": "Where to find the Ruined Homestead in Arc Raiders",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-ruined-homestead-location/",
       "source": "PC Gamer",
-      "published": "Thu, 08 Oct 2026 09:11:18 +0000"
-    },
-    {
-      "title": "Clive Barker’s Hellraiser: Revival Review",
-      "url": "https://www.gamespot.com/videos/clive-barkers-hellraiser-revival-review/",
-      "source": "GameSpot",
-      "published": "Thu, 08 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Clive Barker’s Hellraiser: Revival Is The Best Entry In The Franchise Since The Original Film",
-      "url": "https://www.gamespot.com/reviews/clive-barkers-hellraiser-revival-is-the-best-entry-in-the-franchise-since-the-original-film/",
-      "source": "GameSpot",
-      "published": "Thu, 08 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Gameplay footage from cancelled Xbox Perfect Dark game leaks online, and it looks pretty good",
-      "url": "https://www.eurogamer.net/perfect-dark-reboot-gameplay-footage-leak",
-      "source": "Eurogamer",
-      "published": "Thu, 08 Oct 2026 08:57:13 +0000"
-    },
-    {
-      "title": "Blood Bowl 3 is being replaced by Warhammer Blood Bowl: What will happen to everyone's unspent currency?",
-      "url": "https://www.pcgamer.com/games/strategy/blood-bowl-3-is-being-replaced-by-warhammer-blood-bowl-what-will-happen-to-everyones-unspent-currency/",
-      "source": "PC Gamer",
-      "published": "Wed, 07 Oct 2026 22:34:55 +0000"
-    },
-    {
-      "title": "Jeremy Clarkson Will Return to His Automotive Roots for One-Off Special ‘Jeremy Grows a Car’",
-      "url": "https://www.ign.com/articles/jeremy-clarkson-will-return-to-his-automotive-roots-for-one-off-special-jeremy-grows-a-car",
-      "source": "IGN",
-      "published": "Thu, 8 Oct 2026 05:35:34 +0000"
-    },
-    {
-      "title": "Call of Duty: Modern Warfare 4 reveals pricey spawn options for DMZ, which offer rich players an enormous advantage over poor players spawning on foot",
-      "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-paid-infil-spawn-options",
-      "source": "Eurogamer",
-      "published": "Thu, 08 Oct 2026 12:17:13 +0000"
-    },
-    {
-      "title": "Full-frontal nudity, dirt-biking, and a dev menu: GTA 6's infamous leaker is back with the most X-rated look at the game yet",
-      "url": "https://www.eurogamer.net/gta-6-frontal-nudity-dirt-biking-dev-menu-leak",
-      "source": "Eurogamer",
-      "published": "Thu, 08 Oct 2026 12:09:17 +0000"
-    },
-    {
-      "title": "\"What's the point of this if you're not feeling something?\" Star Wars: Galactic Racer devs on how they bottled Burnout's magic 'game feel'",
-      "url": "https://www.eurogamer.net/star-wars-galactic-racer-devs-interview-game-feel-burnout-board-game",
-      "source": "Eurogamer",
-      "published": "Thu, 08 Oct 2026 11:21:47 +0000"
-    },
-    {
-      "title": "Blizzard is changing the appearance of WoW: Forever's new Skyborne race in response to community feedback",
-      "url": "https://www.eurogamer.net/world-of-warcraft-forever-skyborne-character-model",
-      "source": "Eurogamer",
-      "published": "Thu, 08 Oct 2026 11:35:03 +0000"
-    },
-    {
-      "title": "Should You Play Dragon’s Dogma 2 On Switch 2?",
-      "url": "https://www.gamespot.com/videos/should-you-play-dragons-dogma-2-on-switch-2/",
-      "source": "GameSpot",
-      "published": "Wed, 07 Oct 2026 22:00:00 +0000"
-    },
-    {
-      "title": "Three Years Later, The Outlast Trials Just Smashed Its Concurrent-Player Record",
-      "url": "https://www.gamespot.com/articles/three-years-later-the-outlast-trials-just-smashed-its-concurrent-player-record/",
-      "source": "GameSpot",
-      "published": "Wed, 07 Oct 2026 20:00:15 +0000"
-    },
-    {
-      "title": "Muramasa: Revenant Blades has 108 swords, and its definitive update for PC wants to make sure you use them all",
-      "url": "https://www.pcgamer.com/games/action/muramasa/",
-      "source": "PC Gamer",
-      "published": "Thu, 08 Oct 2026 04:00:00 +0000"
+      "published": "Thu, 08 Oct 2026 11:30:21 +0000"
     },
     {
       "title": "The Australian Government Helps Workers Know Their Rights for Taking Time Off for GTA 6",
@@ -140,16 +26,76 @@
       "published": "Thu, 8 Oct 2026 11:20:38 +0000"
     },
     {
+      "title": "Google and Unity unveil gen-AI game-making platforms, and demonstrate one of them with depressingly rubbish \"dream game\" Space Corridor",
+      "url": "https://www.eurogamer.net/google-playground-unity-spark-gen-ai-game-creators",
+      "source": "Eurogamer",
+      "published": "Thu, 08 Oct 2026 11:33:09 +0000"
+    },
+    {
+      "title": "Blizzard is changing the appearance of WoW: Forever's new Skyborne race in response to community feedback",
+      "url": "https://www.eurogamer.net/world-of-warcraft-forever-skyborne-character-model",
+      "source": "Eurogamer",
+      "published": "Thu, 08 Oct 2026 11:35:03 +0000"
+    },
+    {
+      "title": "Muramasa: Revenant Blades has 108 swords, and its definitive update for PC wants to make sure you use them all",
+      "url": "https://www.pcgamer.com/games/action/muramasa/",
+      "source": "PC Gamer",
+      "published": "Thu, 08 Oct 2026 04:00:00 +0000"
+    },
+    {
       "title": "Controversial Horror Series Ropes Me Back In With Silent Hill’s Original Composer And Lady Dimitrescu",
       "url": "https://www.gamespot.com/articles/controversial-horror-series-ropes-me-back-in-with-silent-hills-original-composer-and-lady-dimitrescu/",
       "source": "GameSpot",
       "published": "Wed, 07 Oct 2026 20:45:00 +0000"
     },
     {
-      "title": "Where to find the Ruined Homestead in Arc Raiders",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-ruined-homestead-location/",
+      "title": "Now we know the prices of the new RTX Spark laptops and they're as expensive as I'm sure you feared",
+      "url": "https://www.pcgamer.com/hardware/gaming-laptops/now-we-know-the-prices-of-the-new-rtx-spark-laptops-and-theyre-as-expensive-as-im-sure-you-feared/",
       "source": "PC Gamer",
-      "published": "Thu, 08 Oct 2026 11:30:21 +0000"
+      "published": "Thu, 08 Oct 2026 02:42:32 +0000"
+    },
+    {
+      "title": "Three Years Later, The Outlast Trials Just Smashed Its Concurrent-Player Record",
+      "url": "https://www.gamespot.com/articles/three-years-later-the-outlast-trials-just-smashed-its-concurrent-player-record/",
+      "source": "GameSpot",
+      "published": "Wed, 07 Oct 2026 20:00:15 +0000"
+    },
+    {
+      "title": "GTA 6 Leaks Aren’t Over Yet, As New 25-Minute Gameplay Footage Appears",
+      "url": "https://www.gamespot.com/articles/gta-6-leaks-arent-over-yet-as-new-25-minute-gameplay-footage-appears/",
+      "source": "GameSpot",
+      "published": "Thu, 08 Oct 2026 11:54:16 +0000"
+    },
+    {
+      "title": "Blizzard promises to make the blue elves in World of Warcraft: Forever look worse (positive)",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/blizzard-promises-to-make-the-blue-elves-in-world-of-warcraft-forever-look-worse-positive/",
+      "source": "PC Gamer",
+      "published": "Wed, 07 Oct 2026 22:42:17 +0000"
+    },
+    {
+      "title": "Full-frontal nudity, dirt-biking, and a dev menu: GTA 6's infamous leaker is back with the most X-rated look at the game yet",
+      "url": "https://www.eurogamer.net/gta-6-frontal-nudity-dirt-biking-dev-menu-leak",
+      "source": "Eurogamer",
+      "published": "Thu, 08 Oct 2026 12:09:17 +0000"
+    },
+    {
+      "title": "PC Gamer magazine's new issue is on sale now: World of Warcraft: Forever",
+      "url": "https://www.pcgamer.com/games/pc-gamer-magazines-new-issue-is-on-sale-now-world-of-warcraft-forever/",
+      "source": "PC Gamer",
+      "published": "Thu, 08 Oct 2026 09:11:18 +0000"
+    },
+    {
+      "title": "Wardogs Streamer Banned for Exploiting the Game's Building Mechanics to Get Rich",
+      "url": "https://www.ign.com/articles/wardogs-streamer-banned-for-exploits",
+      "source": "IGN",
+      "published": "Thu, 8 Oct 2026 09:29:19 +0000"
+    },
+    {
+      "title": "With Grand Theft Auto 6 poised to take over the world, I reached out to Jack Thompson and it did not go well",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/with-grand-theft-auto-6-poised-to-take-over-the-world-i-reached-out-to-jack-thompson-and-it-did-not-go-well/",
+      "source": "PC Gamer",
+      "published": "Wed, 07 Oct 2026 22:41:23 +0000"
     },
     {
       "title": "CBS News Amazed by Accuracy of GTA 6, Highlights Miami Similarities in New Report",
@@ -158,10 +104,22 @@
       "published": "Thu, 8 Oct 2026 11:00:15 +0000"
     },
     {
-      "title": "Shadow Of War And All Of Its DLC Is 92% Off, So Now’s Your Chance To Ruin Sauron’s Day",
-      "url": "https://www.gamespot.com/articles/shadow-of-war-and-all-of-its-dlc-is-92-off-so-nows-your-chance-to-ruin-saurons-day/",
-      "source": "GameSpot",
-      "published": "Thu, 08 Oct 2026 11:30:00 +0000"
+      "title": "Call of Duty: Modern Warfare 4 reveals pricey spawn options for DMZ, which offer rich players an enormous advantage over poor players spawning on foot",
+      "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-paid-infil-spawn-options",
+      "source": "Eurogamer",
+      "published": "Thu, 08 Oct 2026 12:17:13 +0000"
+    },
+    {
+      "title": "Wizards of the Coast Confirms Reprints for Popular MTG Warhammer 40K Commander Decks",
+      "url": "https://www.ign.com/articles/magic-the-gathering-warhammer-40k-commander-decks-reprint-confirmed",
+      "source": "IGN",
+      "published": "Thu, 8 Oct 2026 11:20:17 +0000"
+    },
+    {
+      "title": "Xbox Announces New XP Entertainment Division to Make Movies, TV, and More",
+      "url": "https://www.ign.com/articles/xbox-announces-new-xp-entertainment-division-to-make-movies-tv-and-more",
+      "source": "IGN",
+      "published": "Thu, 8 Oct 2026 12:00:22 +0000"
     },
     {
       "title": "Hellraiser: Revival review",
@@ -170,16 +128,58 @@
       "published": "Thu, 08 Oct 2026 12:00:32 +0000"
     },
     {
-      "title": "Tom Cruise’s Digger Reportedly Positioned to Lose $250 Million",
-      "url": "https://www.ign.com/articles/tom-cruises-digger-reportedly-positioned-to-lose-250-million",
-      "source": "IGN",
-      "published": "Thu, 8 Oct 2026 06:34:25 +0000"
+      "title": "Clive Barker’s Hellraiser: Revival Is The Best Entry In The Franchise Since The Original Film",
+      "url": "https://www.gamespot.com/reviews/clive-barkers-hellraiser-revival-is-the-best-entry-in-the-franchise-since-the-original-film/",
+      "source": "GameSpot",
+      "published": "Thu, 08 Oct 2026 12:00:00 +0000"
     },
     {
-      "title": "Star Wars: Galactic Racer Multiplayer Party Limit Will Be Doubled Via Update",
-      "url": "https://www.ign.com/articles/star-wars-galactic-racer-multiplayer-party-limit-will-be-doubled-via-update",
+      "title": "How to complete Clean Hands in Arc Raiders",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-clean-hands-walkthrough/",
+      "source": "PC Gamer",
+      "published": "Thu, 08 Oct 2026 12:38:22 +0000"
+    },
+    {
+      "title": "GTA 6 Leaker Returns With New 24-Minute Gameplay Video, Sparking Spoiler Concern",
+      "url": "https://www.ign.com/articles/gta-6-leaker-returns-with-new-24-minute-gameplay-video-sparking-spoiler-concern",
       "source": "IGN",
-      "published": "Thu, 8 Oct 2026 04:17:47 +0000"
+      "published": "Thu, 8 Oct 2026 12:08:10 +0000"
+    },
+    {
+      "title": "Should You Play Dragon’s Dogma 2 On Switch 2?",
+      "url": "https://www.gamespot.com/videos/should-you-play-dragons-dogma-2-on-switch-2/",
+      "source": "GameSpot",
+      "published": "Wed, 07 Oct 2026 22:00:00 +0000"
+    },
+    {
+      "title": "Shadow Of War And All Of Its DLC Is 92% Off, So Now’s Your Chance To Ruin Sauron’s Day",
+      "url": "https://www.gamespot.com/articles/shadow-of-war-and-all-of-its-dlc-is-92-off-so-nows-your-chance-to-ruin-saurons-day/",
+      "source": "GameSpot",
+      "published": "Thu, 08 Oct 2026 11:30:00 +0000"
+    },
+    {
+      "title": "Xbox Is Going Bigger On Movies, TV, And More With New XP Division",
+      "url": "https://www.gamespot.com/articles/xbox-is-going-bigger-on-movies-tv-and-more-with-new-xp-division/",
+      "source": "GameSpot",
+      "published": "Thu, 08 Oct 2026 12:15:56 +0000"
+    },
+    {
+      "title": "Below Review",
+      "url": "https://www.ign.com/articles/below-netflix-review",
+      "source": "IGN",
+      "published": "Thu, 8 Oct 2026 07:01:00 +0000"
+    },
+    {
+      "title": "Gameplay footage from cancelled Xbox Perfect Dark game leaks online, and it looks pretty good",
+      "url": "https://www.eurogamer.net/perfect-dark-reboot-gameplay-footage-leak",
+      "source": "Eurogamer",
+      "published": "Thu, 08 Oct 2026 08:57:13 +0000"
+    },
+    {
+      "title": "\"What's the point of this if you're not feeling something?\" Star Wars: Galactic Racer devs on how they bottled Burnout's magic 'game feel'",
+      "url": "https://www.eurogamer.net/star-wars-galactic-racer-devs-interview-game-feel-burnout-board-game",
+      "source": "Eurogamer",
+      "published": "Thu, 08 Oct 2026 11:21:47 +0000"
     }
   ]
 }
