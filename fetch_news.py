@@ -152,21 +152,21 @@ def main():
 
     
 
-# Randomize headlines while keeping sources balanced.
-grouped = defaultdict(list)
 
-for article in articles:
-    grouped[article["source"]].append(article)
+    # Randomize headlines while keeping sources balanced.
+    grouped = defaultdict(list)
 
-# Take up to 8 headlines from each source.
-selected_articles = []
+    for article in articles:
+        grouped[article["source"]].append(article)
 
-for source, source_articles in grouped.items():
-    selected_articles.extend(source_articles[:8])
+    # Select up to 8 headlines from each source.
+    selected_articles = []
 
-# Shuffle headlines into a random order.
-random.shuffle(selected_articles)
+    for source, source_articles in grouped.items():
+        selected_articles.extend(source_articles[:8])
 
+    # Shuffle the headlines.
+    random.shuffle(selected_articles)
 
     # Limit the ticker to 30 headlines.
     ticker_articles = selected_articles[:MAX_HEADLINES]
