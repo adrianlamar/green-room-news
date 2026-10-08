@@ -106,7 +106,7 @@ def save_json(path, data):
 
 def post_to_discord(article, webhook):
     payload = {
-        "username": "Green Room News",
+        "username": "Green Room Gaming News",
         "allowed_mentions": {"parse": []},
         "embeds": [{
             "title": article["title"][:256],
