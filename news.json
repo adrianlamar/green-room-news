@@ -1,11 +1,41 @@
 {
-  "updated": "2026-10-09T16:50:30.053736+00:00",
+  "updated": "2026-10-09T17:17:59.695790+00:00",
   "articles": [
     {
-      "title": "More Cox in video games as Daredevil and Clair Obscur star says he's in an unannounced Sega title",
-      "url": "https://www.eurogamer.net/charlie-cox-unannounced-sega-game-clair-obscur-daredevil",
+      "title": "Wardogs Dev Says PS6 and Xbox Project Helix Ports Should Be Relatively Straightforward",
+      "url": "https://www.ign.com/articles/wardogs-dev-says-ps6-and-xbox-project-helix-ports-should-be-relatively-straightforward",
+      "source": "IGN",
+      "published": "Fri, 9 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "title": "It's official: Forza Horizon 6 delayed to 2027 on PS5, and the game's first expansion has been announced",
+      "url": "https://www.eurogamer.net/forza-horizon-6-ps5-release-date-delay",
       "source": "Eurogamer",
-      "published": "Fri, 09 Oct 2026 13:27:34 +0000"
+      "published": "Fri, 09 Oct 2026 14:42:23 +0000"
+    },
+    {
+      "title": "Street Fighter Was On Death’s Door, And Its Players Weren’t Getting Any Younger",
+      "url": "https://www.gamespot.com/articles/street-fighter-was-on-deaths-door-and-its-players-werent-getting-any-younger/",
+      "source": "GameSpot",
+      "published": "Fri, 09 Oct 2026 15:42:21 +0000"
+    },
+    {
+      "title": "Phantom Blade 0 Has A Really Cool Detail That Hasn’t Been Explained",
+      "url": "https://www.gamespot.com/articles/phantom-blade-0-has-a-really-cool-detail-that-hasnt-been-explained/",
+      "source": "GameSpot",
+      "published": "Fri, 09 Oct 2026 16:30:00 +0000"
+    },
+    {
+      "title": "PS5, Xbox, and Switch Gift Cards Are on Sale Today Only",
+      "url": "https://www.ign.com/articles/ps5-xbox-and-switch-gift-cards-are-on-sale-today-only-october-2026",
+      "source": "IGN",
+      "published": "Fri, 9 Oct 2026 16:12:08 +0000"
+    },
+    {
+      "title": "WoW: Forever dev says 'there's a real longing for that slower, more deliberate pace' in MMOs: 'A deliberate pushback on this go go go nature'",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-dev-says-theres-a-real-longing-for-that-slower-more-deliberate-pace-in-mmos-a-deliberate-pushback-on-this-go-go-go-nature/",
+      "source": "PC Gamer",
+      "published": "Fri, 09 Oct 2026 15:13:04 +0000"
     },
     {
       "title": "Valve is telling devs how well their games actually run on Steam Deck with real world data",
@@ -14,22 +44,28 @@
       "published": "Fri, 09 Oct 2026 15:26:22 +0000"
     },
     {
-      "title": "First Look: Andy Weir Teases New Sci-Fi Audio Project Exoplanet",
-      "url": "https://www.ign.com/articles/exoplanet-andy-weir-audible-original-first-look",
+      "title": "Wardogs Season 2 Adds a New Gambling Mechanic That Lets You Bet on Yourself",
+      "url": "https://www.ign.com/articles/wardogs-season-2-adds-a-new-gambling-mechanic-that-lets-you-bet-on-yourself",
       "source": "IGN",
-      "published": "Fri, 9 Oct 2026 13:00:00 +0000"
+      "published": "Fri, 9 Oct 2026 16:00:00 +0000"
     },
     {
-      "title": "Peacemaker Taking a Backseat as James Gunn Builds Out the DCU, John Cena Says",
-      "url": "https://www.ign.com/articles/peacemaker-taking-a-backseat-as-james-gunn-builds-out-the-dcu-john-cena-says",
-      "source": "IGN",
-      "published": "Fri, 9 Oct 2026 15:47:44 +0000"
-    },
-    {
-      "title": "Counter-Strike 2 player dedicates Master's thesis to rooting out cheaters, creates grade A player tracking system",
-      "url": "https://www.pcgamer.com/hardware/counter-strike-2-player-dedicates-masters-thesis-to-rooting-out-cheaters-creates-grade-a-player-tracking-system/",
+      "title": "'I was nice to you three times in a row, so can I have one sex please?': Why Nivalis Nights intentionally avoided transactional romances",
+      "url": "https://www.pcgamer.com/games/life-sim/i-was-nice-to-you-three-times-in-a-row-so-can-i-have-one-sex-please-why-nivalis-nights-intentionally-avoided-transactional-romances/",
       "source": "PC Gamer",
-      "published": "Fri, 09 Oct 2026 14:59:39 +0000"
+      "published": "Fri, 09 Oct 2026 15:46:07 +0000"
+    },
+    {
+      "title": "Live-action Cyberpunk 2077 film reportedly in development, with CD Projekt Red collaborating with Paramount to make it",
+      "url": "https://www.eurogamer.net/cyberpunk-2077-live-action-film-paramount-cd-projekt-red",
+      "source": "Eurogamer",
+      "published": "Fri, 09 Oct 2026 10:40:54 +0000"
+    },
+    {
+      "title": "Arc Raiders Wires Crossed Quest Guide",
+      "url": "https://www.gamespot.com/articles/arc-raiders-wires-crossed-quest-guide/",
+      "source": "GameSpot",
+      "published": "Fri, 09 Oct 2026 15:38:44 +0000"
     },
     {
       "title": "The Galaxies Showcase returns next week: here's how to watch it and what to expect",
@@ -38,22 +74,58 @@
       "published": "Fri, 09 Oct 2026 14:22:47 +0000"
     },
     {
-      "title": "'It's Every Motherf***er for Himself!' — The San Andreas Mission You Need to Play Before GTA 6",
-      "url": "https://www.ign.com/articles/the-san-andreas-mission-you-need-to-play-before-gta-6",
+      "title": "EA Sports FC 27 review",
+      "url": "https://www.eurogamer.net/ea-sports-fc-27-review",
+      "source": "Eurogamer",
+      "published": "Fri, 09 Oct 2026 12:33:20 +0000"
+    },
+    {
+      "title": "When the weather turns foul in Arc Raiders' Pendola Pass, take a trip to a Storm Hut—they're some of the best loot spots I've found",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/when-the-weather-turns-foul-in-arc-raiders-pendola-pass-take-a-trip-to-a-storm-hut-theyre-some-of-the-best-loot-spots-ive-found/",
+      "source": "PC Gamer",
+      "published": "Fri, 09 Oct 2026 15:00:49 +0000"
+    },
+    {
+      "title": "I might finally have gone too far with a GTA 5 mod that imports most of Doom 2",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-might-finally-have-gone-too-far-with-a-gta-5-mod-that-imports-most-of-doom-2/",
+      "source": "PC Gamer",
+      "published": "Fri, 09 Oct 2026 17:00:00 +0000"
+    },
+    {
+      "title": "Rockstar HR manager claims he had \"little interest\" in staff's union membership status as fired GTA dev union-busting trail heats up",
+      "url": "https://www.eurogamer.net/rockstar-employment-tribunal-hr-manager-little-interest-union",
+      "source": "Eurogamer",
+      "published": "Fri, 09 Oct 2026 16:41:02 +0000"
+    },
+    {
+      "title": "Wardogs' New Rain System Will Have a Major Effect on Gameplay in Season 2",
+      "url": "https://www.ign.com/articles/wardogs-new-rain-system-will-have-a-major-effect-on-gameplay-in-season-2",
       "source": "IGN",
-      "published": "Fri, 9 Oct 2026 15:30:00 +0000"
+      "published": "Fri, 9 Oct 2026 16:00:00 +0000"
     },
     {
-      "title": "Worldwide PC shipments have plummeted by over 20%, to the surprise of absolutely no one",
-      "url": "https://www.pcgamer.com/hardware/worldwide-pc-shipments-have-plummeted-by-over-20-percent-to-the-surprise-of-absolutely-no-one/",
-      "source": "PC Gamer",
-      "published": "Fri, 09 Oct 2026 15:32:22 +0000"
+      "title": "Dungeons & Dragons Is Going to Outer Space With Star Wars: Tyro Squadron, First Look at Official Art",
+      "url": "https://www.ign.com/articles/dungeons-dragons-is-going-to-outer-space-with-star-wars-tyro-squadron-first-look-at-official-art",
+      "source": "IGN",
+      "published": "Fri, 9 Oct 2026 16:00:00 +0000"
     },
     {
-      "title": "Wardogs will bribe players with cash and XP to pick Blue team in Season 2",
-      "url": "https://www.pcgamer.com/games/fps/wardogs-will-bribe-players-with-cash-and-xp-to-pick-blue-team-in-season-2/",
-      "source": "PC Gamer",
-      "published": "Fri, 09 Oct 2026 16:29:00 +0000"
+      "title": "Wardogs Dev Explains Why Blue Team Loses More, Confirms Plan to Address the Balance in Season 2",
+      "url": "https://www.ign.com/articles/wardogs-dev-explains-why-blue-team-loses-more-confirms-plan-to-address-the-balance-in-season-2",
+      "source": "IGN",
+      "published": "Fri, 9 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "title": "Ace Combat 8 becomes fastest-selling game in the series, and very nearly the highest rated",
+      "url": "https://www.eurogamer.net/ace-combat-8-sales",
+      "source": "Eurogamer",
+      "published": "Fri, 09 Oct 2026 13:22:03 +0000"
+    },
+    {
+      "title": "More Cox in video games as Daredevil and Clair Obscur star says he's in an unannounced Sega title",
+      "url": "https://www.eurogamer.net/charlie-cox-unannounced-sega-game-clair-obscur-daredevil",
+      "source": "Eurogamer",
+      "published": "Fri, 09 Oct 2026 13:27:34 +0000"
     },
     {
       "title": "Arc Raiders A Path Not Yours Quest Guide",
@@ -74,100 +146,16 @@
       "published": "Fri, 09 Oct 2026 16:21:38 +0000"
     },
     {
-      "title": "AI Driving Game Demo Forces Developer to Take Out Bank Loan to Keep It Running",
-      "url": "https://www.ign.com/articles/ai-driving-game-demo-bank-loan",
-      "source": "IGN",
-      "published": "Fri, 9 Oct 2026 13:52:05 +0000"
-    },
-    {
-      "title": "Live-action Cyberpunk 2077 film reportedly in development, with CD Projekt Red collaborating with Paramount to make it",
-      "url": "https://www.eurogamer.net/cyberpunk-2077-live-action-film-paramount-cd-projekt-red",
-      "source": "Eurogamer",
-      "published": "Fri, 09 Oct 2026 10:40:54 +0000"
-    },
-    {
-      "title": "WoW: Forever dev says 'there's a real longing for that slower, more deliberate pace' in MMOs: 'A deliberate pushback on this go go go nature'",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-dev-says-theres-a-real-longing-for-that-slower-more-deliberate-pace-in-mmos-a-deliberate-pushback-on-this-go-go-go-nature/",
-      "source": "PC Gamer",
-      "published": "Fri, 09 Oct 2026 15:13:04 +0000"
-    },
-    {
-      "title": "It's official: Forza Horizon 6 delayed to 2027 on PS5, and the game's first expansion has been announced",
-      "url": "https://www.eurogamer.net/forza-horizon-6-ps5-release-date-delay",
-      "source": "Eurogamer",
-      "published": "Fri, 09 Oct 2026 14:42:23 +0000"
-    },
-    {
-      "title": "Motion blur is the worst effect in games (confirmed)",
-      "url": "https://www.pcgamer.com/hardware/motion-blur-is-the-worst-effect-in-games-confirmed/",
-      "source": "PC Gamer",
-      "published": "Fri, 09 Oct 2026 15:05:37 +0000"
-    },
-    {
-      "title": "Is GTA 6 Coming To Switch 2? Ask Rockstar, Nintendo Says",
-      "url": "https://www.gamespot.com/articles/is-gta-6-coming-to-switch-2-ask-rockstar-nintendo-says/",
-      "source": "GameSpot",
-      "published": "Fri, 09 Oct 2026 15:01:41 +0000"
-    },
-    {
-      "title": "Ace Combat 8 becomes fastest-selling game in the series, and very nearly the highest rated",
-      "url": "https://www.eurogamer.net/ace-combat-8-sales",
-      "source": "Eurogamer",
-      "published": "Fri, 09 Oct 2026 13:22:03 +0000"
-    },
-    {
-      "title": "Militsioner Preview: Flirting with a Colossal Policeman to Beat the Allegations",
-      "url": "https://www.ign.com/articles/militsioner-preview-flirting-with-a-colossal-policeman-to-beat-the-allegations",
-      "source": "IGN",
-      "published": "Fri, 9 Oct 2026 13:31:00 +0000"
-    },
-    {
-      "title": "GTA 6 on Switch 2? 'That's a Conversation for Take-Two and Rockstar,' Nintendo Says",
-      "url": "https://www.ign.com/articles/gta-6-switch-2-nintendo-president",
-      "source": "IGN",
-      "published": "Fri, 9 Oct 2026 15:04:06 +0000"
-    },
-    {
-      "title": "When the weather turns foul in Arc Raiders' Pendola Pass, take a trip to a Storm Hut—they're some of the best loot spots I've found",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/when-the-weather-turns-foul-in-arc-raiders-pendola-pass-take-a-trip-to-a-storm-hut-theyre-some-of-the-best-loot-spots-ive-found/",
-      "source": "PC Gamer",
-      "published": "Fri, 09 Oct 2026 15:00:49 +0000"
-    },
-    {
-      "title": "YouTuber's Channel Permanently Banned Over Censored Hellraiser: Revival Gameplay Video",
-      "url": "https://www.ign.com/articles/youtuber-banned-over-censored-hellraiser-revival-gameplay-video",
-      "source": "IGN",
-      "published": "Fri, 9 Oct 2026 11:55:17 +0000"
-    },
-    {
-      "title": "Street Fighter Was On Death’s Door, And Its Players Weren’t Getting Any Younger",
-      "url": "https://www.gamespot.com/articles/street-fighter-was-on-deaths-door-and-its-players-werent-getting-any-younger/",
-      "source": "GameSpot",
-      "published": "Fri, 09 Oct 2026 15:42:21 +0000"
-    },
-    {
-      "title": "Rockstar HR manager claims he had \"little interest\" in staff's union membership status as fired GTA dev union-busting trail heats up",
-      "url": "https://www.eurogamer.net/rockstar-employment-tribunal-hr-manager-little-interest-union",
-      "source": "Eurogamer",
-      "published": "Fri, 09 Oct 2026 16:41:02 +0000"
-    },
-    {
       "title": "Arc Raiders To The Skies Quest Guide",
       "url": "https://www.gamespot.com/articles/arc-raiders-to-the-skies-quest-guide/",
       "source": "GameSpot",
       "published": "Fri, 09 Oct 2026 15:39:20 +0000"
     },
     {
-      "title": "EA Sports FC 27 review",
-      "url": "https://www.eurogamer.net/ea-sports-fc-27-review",
-      "source": "Eurogamer",
-      "published": "Fri, 09 Oct 2026 12:33:20 +0000"
-    },
-    {
-      "title": "The Best LEGO Castle Sets to Build in 2026",
-      "url": "https://www.ign.com/articles/the-best-lego-castle-sets",
-      "source": "IGN",
-      "published": "Fri, 9 Oct 2026 11:12:00 +0000"
+      "title": "Worldwide PC shipments have plummeted by over 20%, to the surprise of absolutely no one",
+      "url": "https://www.pcgamer.com/hardware/worldwide-pc-shipments-have-plummeted-by-over-20-percent-to-the-surprise-of-absolutely-no-one/",
+      "source": "PC Gamer",
+      "published": "Fri, 09 Oct 2026 15:32:22 +0000"
     },
     {
       "title": "Arc Raiders Ruins And Reverberations Quest Guide",
@@ -176,10 +164,22 @@
       "published": "Fri, 09 Oct 2026 15:42:16 +0000"
     },
     {
-      "title": "'I was nice to you three times in a row, so can I have one sex please?': Why Nivalis Nights intentionally avoided transactional romances",
-      "url": "https://www.pcgamer.com/games/life-sim/i-was-nice-to-you-three-times-in-a-row-so-can-i-have-one-sex-please-why-nivalis-nights-intentionally-avoided-transactional-romances/",
+      "title": "Wardogs Dev Holding Back Certain Features Because of Xbox Series S, but Working to 'Very Low-End Hardware' Has Its Benefits",
+      "url": "https://www.ign.com/articles/wardogs-dev-holding-back-certain-features-because-of-xbox-series-s-but-working-to-very-low-end-hardware-has-its-benefits",
+      "source": "IGN",
+      "published": "Fri, 9 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "title": "October’s Humble Choice Has Dropped – Get Like a Dragon: Pirate Yakuza in Hawaii and 7 More PC Games for $15",
+      "url": "https://www.ign.com/articles/october-humble-choice-2026",
+      "source": "IGN",
+      "published": "Fri, 9 Oct 2026 16:30:00 +0000"
+    },
+    {
+      "title": "Wardogs will bribe players with cash and XP to pick Blue team in Season 2",
+      "url": "https://www.pcgamer.com/games/fps/wardogs-will-bribe-players-with-cash-and-xp-to-pick-blue-team-in-season-2/",
       "source": "PC Gamer",
-      "published": "Fri, 09 Oct 2026 15:46:07 +0000"
+      "published": "Fri, 09 Oct 2026 16:29:00 +0000"
     }
   ]
 }
