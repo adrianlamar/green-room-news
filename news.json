@@ -1,6 +1,12 @@
 {
-  "updated": "2026-10-11T12:53:37.235345+00:00",
+  "updated": "2026-10-11T13:19:24.352224+00:00",
   "articles": [
+    {
+      "title": "Silent Hill, Gravity Rush director's Bokeh Game Studio is reportedly casting for a new horror game",
+      "url": "https://www.eurogamer.net/bokeh-game-studio-toyama-new-horror-game-casting",
+      "source": "Eurogamer",
+      "published": "Sat, 10 Oct 2026 11:44:06 +0000"
+    },
     {
       "title": "GTA 6 leaker threatens to upload a build with 'full story mode'",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-leaker-threatens-to-upload-a-build-with-full-story-mode/",
@@ -8,22 +14,28 @@
       "published": "Sat, 10 Oct 2026 23:32:29 +0000"
     },
     {
-      "title": "Call Of Duty: MW4 Early Access Also Includes DMZ, Here’s How To Get In",
-      "url": "https://www.gamespot.com/articles/call-of-duty-mw4-early-access-also-includes-dmz-heres-how-to-get-in/",
+      "title": "There’s Never Been a Better Time To Play Fire Emblem: Awakening",
+      "url": "https://www.gamespot.com/videos/theres-never-been-a-better-time-to-play-fire-emblem-awakening/",
       "source": "GameSpot",
-      "published": "Fri, 09 Oct 2026 19:17:24 +0000"
+      "published": "Sat, 10 Oct 2026 15:00:00 +0000"
     },
     {
-      "title": "Arc Raiders' 2.0 Update and 'Spider-Man' Grappling Hook Drive Player Count to Reach 7-Month High",
-      "url": "https://www.ign.com/articles/arc-raiders-20-update-and-spider-man-grappling-hook-drive-player-count-to-reach-7-month-high",
+      "title": "Blade Runner 2099 Trailer Teases Replicant Mystery With Hunter Schafer and Michelle Yeoh",
+      "url": "https://www.ign.com/articles/blade-runner-2099-trailer-teases-replicant-mystery-with-hunter-schafer-and-michelle-yeoh",
       "source": "IGN",
-      "published": "Sat, 10 Oct 2026 21:07:54 +0000"
+      "published": "Sat, 10 Oct 2026 23:55:59 +0000"
     },
     {
-      "title": "Squadron 42 opens for Steam wishlisting ahead of a planned Q2 2027 release",
-      "url": "https://www.eurogamer.net/squadron-42-steam-wishlist-q2-2027-release",
-      "source": "Eurogamer",
-      "published": "Sun, 11 Oct 2026 11:43:04 +0000"
+      "title": "Marvel Darkhold Destiny Is Magic: The Gathering’s First Universes Beyond Set Of 2027",
+      "url": "https://www.gamespot.com/articles/marvel-darkhold-destiny-is-magic-the-gatherings-first-universes-beyond-set-of-2027/",
+      "source": "GameSpot",
+      "published": "Sat, 10 Oct 2026 00:30:00 +0000"
+    },
+    {
+      "title": "Image Comics' Roam Reunites Paper Girls Creators Brian K. Vaughan and Cliff Chiang",
+      "url": "https://www.ign.com/articles/image-comics-roam-reunites-paper-girls-creators-brian-k-vaughan-and-cliff-chiang",
+      "source": "IGN",
+      "published": "Sat, 10 Oct 2026 20:15:00 +0000"
     },
     {
       "title": "The developer of an AI-powered driving instruction simulator is spending $1,000 per month just to keep its demo running",
@@ -38,34 +50,10 @@
       "published": "Sat, 10 Oct 2026 22:25:54 +0000"
     },
     {
-      "title": "2026 Upcoming Games Release Schedule",
-      "url": "https://www.gamespot.com/articles/2026-upcoming-games-release-schedule/1100-6534941/",
+      "title": "I Gave Up My The Witcher 3 Run To Play Dressmaker, And My Life Is Better For It",
+      "url": "https://www.gamespot.com/articles/i-gave-up-my-the-witcher-3-run-to-play-dressmaker-and-my-life-is-better-for-it/",
       "source": "GameSpot",
-      "published": "Tue, 23 Sep 2025 13:34:00 +0000"
-    },
-    {
-      "title": "Deadlock's City Never Sleeps update makes Valve's MOBA my favorite videogame setting in years",
-      "url": "https://www.pcgamer.com/games/moba/deadlocks-city-never-sleeps-update-makes-valves-moba-my-favorite-videogame-setting-in-years/",
-      "source": "PC Gamer",
-      "published": "Sun, 11 Oct 2026 11:00:00 +0000"
-    },
-    {
-      "title": "Crystal Lake Showrunner on Retelling the Friday the 13th Story: ‘It's Always Ripe for Reinterpretation’",
-      "url": "https://www.ign.com/articles/crystal-lake-showrunner-on-retelling-the-friday-the-13th-story-its-always-ripe-for-reinterpretation",
-      "source": "IGN",
-      "published": "Sat, 10 Oct 2026 18:27:48 +0000"
-    },
-    {
-      "title": "It looks like Wing Commander 3 is getting a remaster, after EA producer discovers the original FMV source tapes in the company's archives",
-      "url": "https://www.pcgamer.com/games/sim/it-looks-like-wing-commander-3-is-getting-a-remaster-after-ea-producer-discovers-the-original-fmv-source-tapes-in-the-companys-archives/",
-      "source": "PC Gamer",
-      "published": "Sun, 11 Oct 2026 10:31:02 +0000"
-    },
-    {
-      "title": "Blade Runner 2099 Trailer Teases Replicant Mystery With Hunter Schafer and Michelle Yeoh",
-      "url": "https://www.ign.com/articles/blade-runner-2099-trailer-teases-replicant-mystery-with-hunter-schafer-and-michelle-yeoh",
-      "source": "IGN",
-      "published": "Sat, 10 Oct 2026 23:55:59 +0000"
+      "published": "Sun, 11 Oct 2026 13:08:25 +0000"
     },
     {
       "title": "These Are Easily The Most Unique Fortnite Skins",
@@ -74,22 +62,82 @@
       "published": "Fri, 09 Oct 2026 23:03:06 +0000"
     },
     {
-      "title": "Silent Hill, Gravity Rush director's Bokeh Game Studio is reportedly casting for a new horror game",
-      "url": "https://www.eurogamer.net/bokeh-game-studio-toyama-new-horror-game-casting",
-      "source": "Eurogamer",
-      "published": "Sat, 10 Oct 2026 11:44:06 +0000"
+      "title": "Naruto Teasers Reveal New Shadow Rising Manga and Anime Crossover Series",
+      "url": "https://www.ign.com/articles/naruto-teasers-reveal-new-shadow-rising-manga-and-anime-crossover-series",
+      "source": "IGN",
+      "published": "Sun, 11 Oct 2026 00:00:43 +0000"
     },
     {
-      "title": "Marvel Darkhold Destiny Is Magic: The Gathering’s First Universes Beyond Set Of 2027",
-      "url": "https://www.gamespot.com/articles/marvel-darkhold-destiny-is-magic-the-gatherings-first-universes-beyond-set-of-2027/",
-      "source": "GameSpot",
-      "published": "Sat, 10 Oct 2026 00:30:00 +0000"
-    },
-    {
-      "title": "Deadlock surpasses Team Fortress 2's all-time concurrent player count peak as it adds a chess wizard",
-      "url": "https://www.pcgamer.com/games/moba/deadlock-surpasses-team-fortress-2s-all-time-concurrent-player-count-peak-as-it-adds-a-chess-wizard/",
+      "title": "The studio behind Star Wars Zero Company is bringing back some of its furloughed staff",
+      "url": "https://www.pcgamer.com/games/strategy/the-studio-behind-star-wars-zero-company-is-hiring-back-some-of-its-furloughed-staff/",
       "source": "PC Gamer",
-      "published": "Sat, 10 Oct 2026 16:55:26 +0000"
+      "published": "Sat, 10 Oct 2026 16:52:57 +0000"
+    },
+    {
+      "title": "\"We have to go a different path\" - Krafton thinks PUBG Ded.Net's pulpy gameshow hyperviolence and roguelite twist can make it the next big battle royale",
+      "url": "https://www.eurogamer.net/we-have-to-go-a-different-path-krafton-thinks-pubg-dednets-pulpy-gameshow-hyperviolence-and-roguelite-twist-can-make-it-the-next-big-battle-royale",
+      "source": "Eurogamer",
+      "published": "Sun, 11 Oct 2026 09:00:00 +0000"
+    },
+    {
+      "title": "GTA 6 leaker CyberLeek is now reportedly threatening to release a full, playable build of the game",
+      "url": "https://www.eurogamer.net/gta-6-leaker-cyberleek-threatens-playable-build-leak",
+      "source": "Eurogamer",
+      "published": "Sat, 10 Oct 2026 19:42:21 +0000"
+    },
+    {
+      "title": "Dragon’s Dogma 2: Dark Arisen Is Great, But At a Cost",
+      "url": "https://www.gamespot.com/reviews/dragons-dogma-2-dark-arisen-is-great-but-at-a-cost/",
+      "source": "GameSpot",
+      "published": "Fri, 09 Oct 2026 20:13:21 +0000"
+    },
+    {
+      "title": "Arc Raiders' 2.0 Update and 'Spider-Man' Grappling Hook Drive Player Count to Reach 7-Month High",
+      "url": "https://www.ign.com/articles/arc-raiders-20-update-and-spider-man-grappling-hook-drive-player-count-to-reach-7-month-high",
+      "source": "IGN",
+      "published": "Sat, 10 Oct 2026 21:07:54 +0000"
+    },
+    {
+      "title": "2026 Upcoming Games Release Schedule",
+      "url": "https://www.gamespot.com/articles/2026-upcoming-games-release-schedule/1100-6534941/",
+      "source": "GameSpot",
+      "published": "Tue, 23 Sep 2025 13:34:00 +0000"
+    },
+    {
+      "title": "GTA 6 leaker CyberLeek is back with another video and this time, Lucia's naked",
+      "url": "https://www.eurogamer.net/gta-6-leaker-cyberleek-naked-lucia-parachute-video",
+      "source": "Eurogamer",
+      "published": "Sun, 11 Oct 2026 12:27:09 +0000"
+    },
+    {
+      "title": "Crystal Lake Showrunner on Retelling the Friday the 13th Story: ‘It's Always Ripe for Reinterpretation’",
+      "url": "https://www.ign.com/articles/crystal-lake-showrunner-on-retelling-the-friday-the-13th-story-its-always-ripe-for-reinterpretation",
+      "source": "IGN",
+      "published": "Sat, 10 Oct 2026 18:27:48 +0000"
+    },
+    {
+      "title": "Squadron 42 opens for Steam wishlisting ahead of a planned Q2 2027 release",
+      "url": "https://www.eurogamer.net/squadron-42-steam-wishlist-q2-2027-release",
+      "source": "Eurogamer",
+      "published": "Sun, 11 Oct 2026 11:43:04 +0000"
+    },
+    {
+      "title": "Deadlock's City Never Sleeps update makes Valve's MOBA my favorite videogame setting in years",
+      "url": "https://www.pcgamer.com/games/moba/deadlocks-city-never-sleeps-update-makes-valves-moba-my-favorite-videogame-setting-in-years/",
+      "source": "PC Gamer",
+      "published": "Sun, 11 Oct 2026 11:00:00 +0000"
+    },
+    {
+      "title": "Nicolas Cage Says He'll 'Probably Not Work With' Amazon Again After Declining Spider-Noir AI Waiver",
+      "url": "https://www.ign.com/articles/nicolas-cage-says-hell-probably-never-work-with-amazon-again-after-declining-spider-noir-ai-waiver",
+      "source": "IGN",
+      "published": "Sat, 10 Oct 2026 17:06:33 +0000"
+    },
+    {
+      "title": "DC Legend Grant Morrison Criticizes 'Morally and Legally Incoherent' Lanterns Finale",
+      "url": "https://www.ign.com/articles/dc-legend-grant-morrison-criticizes-morally-and-legally-incoherent-lanterns-finale",
+      "source": "IGN",
+      "published": "Sat, 10 Oct 2026 18:16:30 +0000"
     },
     {
       "title": "Strange Scaffold announces Gods With Badges, a tactics game where you decide when to switch off your bodycam",
@@ -104,82 +152,34 @@
       "published": "Sun, 11 Oct 2026 12:06:58 +0000"
     },
     {
-      "title": "Dragon’s Dogma 2: Dark Arisen Is Great, But At a Cost",
-      "url": "https://www.gamespot.com/reviews/dragons-dogma-2-dark-arisen-is-great-but-at-a-cost/",
-      "source": "GameSpot",
-      "published": "Fri, 09 Oct 2026 20:13:21 +0000"
-    },
-    {
-      "title": "\"We have to go a different path\" - Krafton thinks PUBG Ded.Net's pulpy gameshow hyperviolence and roguelite twist can make it the next big battle royale",
-      "url": "https://www.eurogamer.net/we-have-to-go-a-different-path-krafton-thinks-pubg-dednets-pulpy-gameshow-hyperviolence-and-roguelite-twist-can-make-it-the-next-big-battle-royale",
-      "source": "Eurogamer",
-      "published": "Sun, 11 Oct 2026 09:00:00 +0000"
-    },
-    {
-      "title": "Naruto Teasers Reveal New Shadow Rising Manga and Anime Crossover Series",
-      "url": "https://www.ign.com/articles/naruto-teasers-reveal-new-shadow-rising-manga-and-anime-crossover-series",
-      "source": "IGN",
-      "published": "Sun, 11 Oct 2026 00:00:43 +0000"
-    },
-    {
-      "title": "Nicolas Cage Says He'll 'Probably Not Work With' Amazon Again After Declining Spider-Noir AI Waiver",
-      "url": "https://www.ign.com/articles/nicolas-cage-says-hell-probably-never-work-with-amazon-again-after-declining-spider-noir-ai-waiver",
-      "source": "IGN",
-      "published": "Sat, 10 Oct 2026 17:06:33 +0000"
-    },
-    {
-      "title": "There’s Never Been a Better Time To Play Fire Emblem: Awakening",
-      "url": "https://www.gamespot.com/videos/theres-never-been-a-better-time-to-play-fire-emblem-awakening/",
-      "source": "GameSpot",
-      "published": "Sat, 10 Oct 2026 15:00:00 +0000"
-    },
-    {
-      "title": "The studio behind Star Wars Zero Company is bringing back some of its furloughed staff",
-      "url": "https://www.pcgamer.com/games/strategy/the-studio-behind-star-wars-zero-company-is-hiring-back-some-of-its-furloughed-staff/",
+      "title": "It looks like Wing Commander 3 is getting a remaster, after EA producer discovers the original FMV source tapes in the company's archives",
+      "url": "https://www.pcgamer.com/games/sim/it-looks-like-wing-commander-3-is-getting-a-remaster-after-ea-producer-discovers-the-original-fmv-source-tapes-in-the-companys-archives/",
       "source": "PC Gamer",
-      "published": "Sat, 10 Oct 2026 16:52:57 +0000"
+      "published": "Sun, 11 Oct 2026 10:31:02 +0000"
     },
     {
-      "title": "Image Comics' Roam Reunites Paper Girls Creators Brian K. Vaughan and Cliff Chiang",
-      "url": "https://www.ign.com/articles/image-comics-roam-reunites-paper-girls-creators-brian-k-vaughan-and-cliff-chiang",
+      "title": "Godzilla Minus Zero Trailer Reveals Sneak Peek at King Ghidorah's Gravity Beams",
+      "url": "https://www.ign.com/articles/godzilla-minus-zero-trailer-reveals-sneak-peek-at-king-ghidorahs-gravity-beams",
       "source": "IGN",
-      "published": "Sat, 10 Oct 2026 20:15:00 +0000"
+      "published": "Sun, 11 Oct 2026 12:46:33 +0000"
     },
     {
-      "title": "Gears Of War: E-Day–How’s It Selling? Let’s Unpack Things",
-      "url": "https://www.gamespot.com/articles/gears-of-war-e-day-hows-it-selling-lets-unpack-things/",
-      "source": "GameSpot",
-      "published": "Fri, 09 Oct 2026 18:41:40 +0000"
-    },
-    {
-      "title": "WoW: Forever, by casting off modern convenience, has horseshoed back around to being casual friendly again",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-by-casting-off-modern-convenience-has-horseshoed-back-around-to-being-casual-friendly-again/",
+      "title": "'I'm the type of player who loves to 100% a game': SungWon Cho on achievement hunting, why he doesn’t like multiplayer games, and the one Balatro joker that nearly drove him to despair",
+      "url": "https://www.pcgamer.com/gaming-industry/im-the-type-of-player-who-loves-to-100-percent-a-game-sungwon-cho-on-achievement-hunting-why-he-doesnt-like-multiplayer-games-and-the-one-balatro-joker-that-nearly-drove-him-to-despair/",
       "source": "PC Gamer",
-      "published": "Sat, 10 Oct 2026 15:00:00 +0000"
+      "published": "Sun, 11 Oct 2026 13:00:00 +0000"
     },
     {
-      "title": "GTA 6 leaker CyberLeek is now reportedly threatening to release a full, playable build of the game",
-      "url": "https://www.eurogamer.net/gta-6-leaker-cyberleek-threatens-playable-build-leak",
-      "source": "Eurogamer",
-      "published": "Sat, 10 Oct 2026 19:42:21 +0000"
-    },
-    {
-      "title": "Let’s All Be Happy This AAA Minesweeper Game Isn’t Real",
-      "url": "https://www.gamespot.com/articles/lets-all-be-happy-this-aaa-minesweeper-game-isnt-real/",
+      "title": "Call Of Duty: MW4 Early Access Also Includes DMZ, Here’s How To Get In",
+      "url": "https://www.gamespot.com/articles/call-of-duty-mw4-early-access-also-includes-dmz-heres-how-to-get-in/",
       "source": "GameSpot",
-      "published": "Fri, 09 Oct 2026 23:23:44 +0000"
+      "published": "Fri, 09 Oct 2026 19:17:24 +0000"
     },
     {
-      "title": "GTA 6 Leaker Threatens to Release Build With Full Story Mode Played to the End, Ties Lucia's Clothing to Crypto Scheme",
-      "url": "https://www.ign.com/articles/gta-6-leaker-threatens-to-release-build-with-full-story-mode-played-to-the-end-ties-lucias-clothing-to-crypto-scheme",
-      "source": "IGN",
-      "published": "Sat, 10 Oct 2026 16:23:47 +0000"
-    },
-    {
-      "title": "DC Legend Grant Morrison Criticizes 'Morally and Legally Incoherent' Lanterns Finale",
-      "url": "https://www.ign.com/articles/dc-legend-grant-morrison-criticizes-morally-and-legally-incoherent-lanterns-finale",
-      "source": "IGN",
-      "published": "Sat, 10 Oct 2026 18:16:30 +0000"
+      "title": "Deadlock surpasses Team Fortress 2's all-time concurrent player count peak as it adds a chess wizard",
+      "url": "https://www.pcgamer.com/games/moba/deadlock-surpasses-team-fortress-2s-all-time-concurrent-player-count-peak-as-it-adds-a-chess-wizard/",
+      "source": "PC Gamer",
+      "published": "Sat, 10 Oct 2026 16:55:26 +0000"
     }
   ]
 }
