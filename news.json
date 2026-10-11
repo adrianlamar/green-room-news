@@ -1,6 +1,54 @@
 {
-  "updated": "2026-10-11T15:47:21.625362+00:00",
+  "updated": "2026-10-11T16:18:32.549395+00:00",
   "articles": [
+    {
+      "title": "'I'm the type of player who loves to 100% a game': SungWon Cho on achievement hunting, why he doesn’t like multiplayer games, and the one Balatro joker that nearly drove him to despair",
+      "url": "https://www.pcgamer.com/gaming-industry/im-the-type-of-player-who-loves-to-100-percent-a-game-sungwon-cho-on-achievement-hunting-why-he-doesnt-like-multiplayer-games-and-the-one-balatro-joker-that-nearly-drove-him-to-despair/",
+      "source": "PC Gamer",
+      "published": "Sun, 11 Oct 2026 13:00:00 +0000"
+    },
+    {
+      "title": "Squadron 42 opens for Steam wishlisting ahead of a planned Q2 2027 release",
+      "url": "https://www.eurogamer.net/squadron-42-steam-wishlist-q2-2027-release",
+      "source": "Eurogamer",
+      "published": "Sun, 11 Oct 2026 11:43:04 +0000"
+    },
+    {
+      "title": "Marvel Darkhold Destiny Is Magic: The Gathering’s First Universes Beyond Set Of 2027",
+      "url": "https://www.gamespot.com/articles/marvel-darkhold-destiny-is-magic-the-gatherings-first-universes-beyond-set-of-2027/",
+      "source": "GameSpot",
+      "published": "Sat, 10 Oct 2026 00:30:00 +0000"
+    },
+    {
+      "title": "Image Comics' Roam Reunites Paper Girls Creators Brian K. Vaughan and Cliff Chiang",
+      "url": "https://www.ign.com/articles/image-comics-roam-reunites-paper-girls-creators-brian-k-vaughan-and-cliff-chiang",
+      "source": "IGN",
+      "published": "Sat, 10 Oct 2026 20:15:00 +0000"
+    },
+    {
+      "title": "Arc Raiders' 2.0 Update and 'Spider-Man' Grappling Hook Drive Player Count to Reach 7-Month High",
+      "url": "https://www.ign.com/articles/arc-raiders-20-update-and-spider-man-grappling-hook-drive-player-count-to-reach-7-month-high",
+      "source": "IGN",
+      "published": "Sat, 10 Oct 2026 21:07:54 +0000"
+    },
+    {
+      "title": "GTA 6 leaker threatens to upload a build with 'full story mode'",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-leaker-threatens-to-upload-a-build-with-full-story-mode/",
+      "source": "PC Gamer",
+      "published": "Sat, 10 Oct 2026 23:32:29 +0000"
+    },
+    {
+      "title": "RPGs are simply better when you're an idiot",
+      "url": "https://www.pcgamer.com/games/rpg/rpgs-are-simply-better-when-youre-an-idiot/",
+      "source": "PC Gamer",
+      "published": "Sun, 11 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "title": "Deadlock's City Never Sleeps update makes Valve's MOBA my favorite videogame setting in years",
+      "url": "https://www.pcgamer.com/games/moba/deadlocks-city-never-sleeps-update-makes-valves-moba-my-favorite-videogame-setting-in-years/",
+      "source": "PC Gamer",
+      "published": "Sun, 11 Oct 2026 11:00:00 +0000"
+    },
     {
       "title": "Naruto Teasers Reveal New Shadow Rising Manga and Anime Crossover Series",
       "url": "https://www.ign.com/articles/naruto-teasers-reveal-new-shadow-rising-manga-and-anime-crossover-series",
@@ -8,10 +56,34 @@
       "published": "Sun, 11 Oct 2026 00:00:43 +0000"
     },
     {
-      "title": "Squadron 42 opens for Steam wishlisting ahead of a planned Q2 2027 release",
-      "url": "https://www.eurogamer.net/squadron-42-steam-wishlist-q2-2027-release",
+      "title": "Dragon’s Dogma 2: Dark Arisen Is Great, But At a Cost",
+      "url": "https://www.gamespot.com/reviews/dragons-dogma-2-dark-arisen-is-great-but-at-a-cost/",
+      "source": "GameSpot",
+      "published": "Fri, 09 Oct 2026 20:13:21 +0000"
+    },
+    {
+      "title": "GTA 6 leaker CyberLeek is now reportedly threatening to release a full, playable build of the game",
+      "url": "https://www.eurogamer.net/gta-6-leaker-cyberleek-threatens-playable-build-leak",
       "source": "Eurogamer",
-      "published": "Sun, 11 Oct 2026 11:43:04 +0000"
+      "published": "Sat, 10 Oct 2026 19:42:21 +0000"
+    },
+    {
+      "title": "There’s Never Been a Better Time To Play Fire Emblem: Awakening",
+      "url": "https://www.gamespot.com/videos/theres-never-been-a-better-time-to-play-fire-emblem-awakening/",
+      "source": "GameSpot",
+      "published": "Sat, 10 Oct 2026 15:00:00 +0000"
+    },
+    {
+      "title": "Arc Raiders could eventually be split into PvE and PvP, says executive producer",
+      "url": "https://www.eurogamer.net/arc-raiders-pve-pvp-split-possible-executive-producer",
+      "source": "Eurogamer",
+      "published": "Sat, 10 Oct 2026 11:21:05 +0000"
+    },
+    {
+      "title": "The developer of an AI-powered driving instruction simulator is spending $1,000 per month just to keep its demo running",
+      "url": "https://www.pcgamer.com/games/sim/the-developer-of-an-ai-powered-driving-instruction-simulator-is-spending-usd1-000-per-month-just-to-keep-its-demo-running/",
+      "source": "PC Gamer",
+      "published": "Sun, 11 Oct 2026 12:31:04 +0000"
     },
     {
       "title": "Silent Hill, Gravity Rush director's Bokeh Game Studio is reportedly casting for a new horror game",
@@ -26,112 +98,10 @@
       "published": "Sun, 11 Oct 2026 13:15:00 +0000"
     },
     {
-      "title": "Call Of Duty: MW4 Early Access Also Includes DMZ, Here’s How To Get In",
-      "url": "https://www.gamespot.com/articles/call-of-duty-mw4-early-access-also-includes-dmz-heres-how-to-get-in/",
-      "source": "GameSpot",
-      "published": "Fri, 09 Oct 2026 19:17:24 +0000"
-    },
-    {
-      "title": "2026 Upcoming Games Release Schedule",
-      "url": "https://www.gamespot.com/articles/2026-upcoming-games-release-schedule/1100-6534941/",
-      "source": "GameSpot",
-      "published": "Tue, 23 Sep 2025 13:34:00 +0000"
-    },
-    {
-      "title": "Image Comics' Roam Reunites Paper Girls Creators Brian K. Vaughan and Cliff Chiang",
-      "url": "https://www.ign.com/articles/image-comics-roam-reunites-paper-girls-creators-brian-k-vaughan-and-cliff-chiang",
-      "source": "IGN",
-      "published": "Sat, 10 Oct 2026 20:15:00 +0000"
-    },
-    {
-      "title": "Arc Raiders could eventually be split into PvE and PvP, says executive producer",
-      "url": "https://www.eurogamer.net/arc-raiders-pve-pvp-split-possible-executive-producer",
-      "source": "Eurogamer",
-      "published": "Sat, 10 Oct 2026 11:21:05 +0000"
-    },
-    {
-      "title": "I Gave Up My The Witcher 3 Run To Play Dressmaker, And My Life Is Better For It",
-      "url": "https://www.gamespot.com/articles/i-gave-up-my-the-witcher-3-run-to-play-dressmaker-and-my-life-is-better-for-it/",
-      "source": "GameSpot",
-      "published": "Sun, 11 Oct 2026 13:08:25 +0000"
-    },
-    {
-      "title": "Dragon’s Dogma 2: Dark Arisen Is Great, But At a Cost",
-      "url": "https://www.gamespot.com/reviews/dragons-dogma-2-dark-arisen-is-great-but-at-a-cost/",
-      "source": "GameSpot",
-      "published": "Fri, 09 Oct 2026 20:13:21 +0000"
-    },
-    {
-      "title": "It looks like Wing Commander 3 is getting a remaster, after EA producer discovers the original FMV source tapes in the company's archives",
-      "url": "https://www.pcgamer.com/games/sim/it-looks-like-wing-commander-3-is-getting-a-remaster-after-ea-producer-discovers-the-original-fmv-source-tapes-in-the-companys-archives/",
-      "source": "PC Gamer",
-      "published": "Sun, 11 Oct 2026 10:31:02 +0000"
-    },
-    {
-      "title": "Phasmophobia confirms 30 million sales as its Crimson Eye Halloween event returns",
-      "url": "https://www.eurogamer.net/phasmophobia-30-million-sales-crimson-eye-event",
-      "source": "Eurogamer",
-      "published": "Sun, 11 Oct 2026 12:06:58 +0000"
-    },
-    {
-      "title": "Marvel Tokon DLC Roadmap Reveals First Look at Jane Foster Thor, Venom and Jubilee Coming in 2027",
-      "url": "https://www.ign.com/articles/marvel-tokon-dlc-roadmap-reveals-first-look-at-jane-foster-thor-venom-and-jubilee-coming-in-2027",
-      "source": "IGN",
-      "published": "Sun, 11 Oct 2026 14:29:41 +0000"
-    },
-    {
-      "title": "Marvel Darkhold Destiny Is Magic: The Gathering’s First Universes Beyond Set Of 2027",
-      "url": "https://www.gamespot.com/articles/marvel-darkhold-destiny-is-magic-the-gatherings-first-universes-beyond-set-of-2027/",
-      "source": "GameSpot",
-      "published": "Sat, 10 Oct 2026 00:30:00 +0000"
-    },
-    {
-      "title": "Deadlock's City Never Sleeps update makes Valve's MOBA my favorite videogame setting in years",
-      "url": "https://www.pcgamer.com/games/moba/deadlocks-city-never-sleeps-update-makes-valves-moba-my-favorite-videogame-setting-in-years/",
-      "source": "PC Gamer",
-      "published": "Sun, 11 Oct 2026 11:00:00 +0000"
-    },
-    {
       "title": "These Are Easily The Most Unique Fortnite Skins",
       "url": "https://www.gamespot.com/articles/these-are-easily-the-most-unique-fortnite-skins/",
       "source": "GameSpot",
       "published": "Fri, 09 Oct 2026 23:03:06 +0000"
-    },
-    {
-      "title": "This Control-inspired action game set in a 'planet-scale alien mind' has one of the most stunning art styles I've seen this year",
-      "url": "https://www.pcgamer.com/games/action/this-control-inspired-action-game-set-in-a-planet-scale-alien-mind-has-one-of-the-most-stunning-art-styles-ive-seen-this-year/",
-      "source": "PC Gamer",
-      "published": "Sun, 11 Oct 2026 14:09:18 +0000"
-    },
-    {
-      "title": "\"We have to go a different path\" - Krafton thinks PUBG Ded.Net's pulpy gameshow hyperviolence and roguelite twist can make it the next big battle royale",
-      "url": "https://www.eurogamer.net/we-have-to-go-a-different-path-krafton-thinks-pubg-dednets-pulpy-gameshow-hyperviolence-and-roguelite-twist-can-make-it-the-next-big-battle-royale",
-      "source": "Eurogamer",
-      "published": "Sun, 11 Oct 2026 09:00:00 +0000"
-    },
-    {
-      "title": "GTA 6 leaker CyberLeek is now reportedly threatening to release a full, playable build of the game",
-      "url": "https://www.eurogamer.net/gta-6-leaker-cyberleek-threatens-playable-build-leak",
-      "source": "Eurogamer",
-      "published": "Sat, 10 Oct 2026 19:42:21 +0000"
-    },
-    {
-      "title": "Arc Raiders' 2.0 Update and 'Spider-Man' Grappling Hook Drive Player Count to Reach 7-Month High",
-      "url": "https://www.ign.com/articles/arc-raiders-20-update-and-spider-man-grappling-hook-drive-player-count-to-reach-7-month-high",
-      "source": "IGN",
-      "published": "Sat, 10 Oct 2026 21:07:54 +0000"
-    },
-    {
-      "title": "‘I’m Shocked That People Are Still Playing’ – How GTA 5 Took Over the World",
-      "url": "https://www.ign.com/articles/im-shocked-that-people-are-still-playing-how-gta-5-took-over-the-world",
-      "source": "IGN",
-      "published": "Sun, 11 Oct 2026 14:30:00 +0000"
-    },
-    {
-      "title": "GTA 6 leaker CyberLeek is back with another video and this time, Lucia's naked",
-      "url": "https://www.eurogamer.net/gta-6-leaker-cyberleek-naked-lucia-parachute-video",
-      "source": "Eurogamer",
-      "published": "Sun, 11 Oct 2026 12:27:09 +0000"
     },
     {
       "title": "Blade Runner 2099 Trailer Teases Replicant Mystery With Hunter Schafer and Michelle Yeoh",
@@ -140,22 +110,28 @@
       "published": "Sat, 10 Oct 2026 23:55:59 +0000"
     },
     {
-      "title": "The developer of an AI-powered driving instruction simulator is spending $1,000 per month just to keep its demo running",
-      "url": "https://www.pcgamer.com/games/sim/the-developer-of-an-ai-powered-driving-instruction-simulator-is-spending-usd1-000-per-month-just-to-keep-its-demo-running/",
-      "source": "PC Gamer",
-      "published": "Sun, 11 Oct 2026 12:31:04 +0000"
+      "title": "‘I’m Shocked That People Are Still Playing’ – How GTA 5 Took Over the World",
+      "url": "https://www.ign.com/articles/im-shocked-that-people-are-still-playing-how-gta-5-took-over-the-world",
+      "source": "IGN",
+      "published": "Sun, 11 Oct 2026 14:30:00 +0000"
     },
     {
-      "title": "There’s Never Been a Better Time To Play Fire Emblem: Awakening",
-      "url": "https://www.gamespot.com/videos/theres-never-been-a-better-time-to-play-fire-emblem-awakening/",
-      "source": "GameSpot",
-      "published": "Sat, 10 Oct 2026 15:00:00 +0000"
+      "title": "Godzilla Minus Zero Trailer Reveals Sneak Peek at King Ghidorah's Gravity Beams",
+      "url": "https://www.ign.com/articles/godzilla-minus-zero-trailer-reveals-sneak-peek-at-king-ghidorahs-gravity-beams",
+      "source": "IGN",
+      "published": "Sun, 11 Oct 2026 12:46:33 +0000"
     },
     {
-      "title": "GTA 6 leaker threatens to upload a build with 'full story mode'",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-leaker-threatens-to-upload-a-build-with-full-story-mode/",
+      "title": "It looks like Wing Commander 3 is getting a remaster, after EA producer discovers the original FMV source tapes in the company's archives",
+      "url": "https://www.pcgamer.com/games/sim/it-looks-like-wing-commander-3-is-getting-a-remaster-after-ea-producer-discovers-the-original-fmv-source-tapes-in-the-companys-archives/",
       "source": "PC Gamer",
-      "published": "Sat, 10 Oct 2026 23:32:29 +0000"
+      "published": "Sun, 11 Oct 2026 10:31:02 +0000"
+    },
+    {
+      "title": "Marvel Tokon DLC Roadmap Reveals First Look at Jane Foster Thor, Venom and Jubilee Coming in 2027",
+      "url": "https://www.ign.com/articles/marvel-tokon-dlc-roadmap-reveals-first-look-at-jane-foster-thor-venom-and-jubilee-coming-in-2027",
+      "source": "IGN",
+      "published": "Sun, 11 Oct 2026 14:29:41 +0000"
     },
     {
       "title": "Strange Scaffold announces Gods With Badges, a tactics game where you decide when to switch off your bodycam",
@@ -164,10 +140,10 @@
       "published": "Sat, 10 Oct 2026 19:09:19 +0000"
     },
     {
-      "title": "Escape from EloHello has me reliving my worst online PvP nightmares in roguelike-form",
-      "url": "https://www.pcgamer.com/games/roguelike/escape-from-elohello-has-me-reliving-my-worst-online-pvp-nightmares-in-roguelike-form/",
-      "source": "PC Gamer",
-      "published": "Sun, 11 Oct 2026 15:00:00 +0000"
+      "title": "I Gave Up My The Witcher 3 Run To Play Dressmaker, And My Life Is Better For It",
+      "url": "https://www.gamespot.com/articles/i-gave-up-my-the-witcher-3-run-to-play-dressmaker-and-my-life-is-better-for-it/",
+      "source": "GameSpot",
+      "published": "Sun, 11 Oct 2026 13:08:25 +0000"
     },
     {
       "title": "Let’s All Be Happy This AAA Minesweeper Game Isn’t Real",
@@ -176,10 +152,34 @@
       "published": "Fri, 09 Oct 2026 23:23:44 +0000"
     },
     {
-      "title": "Godzilla Minus Zero Trailer Reveals Sneak Peek at King Ghidorah's Gravity Beams",
-      "url": "https://www.ign.com/articles/godzilla-minus-zero-trailer-reveals-sneak-peek-at-king-ghidorahs-gravity-beams",
-      "source": "IGN",
-      "published": "Sun, 11 Oct 2026 12:46:33 +0000"
+      "title": "\"We have to go a different path\" - Krafton thinks PUBG Ded.Net's pulpy gameshow hyperviolence and roguelite twist can make it the next big battle royale",
+      "url": "https://www.eurogamer.net/we-have-to-go-a-different-path-krafton-thinks-pubg-dednets-pulpy-gameshow-hyperviolence-and-roguelite-twist-can-make-it-the-next-big-battle-royale",
+      "source": "Eurogamer",
+      "published": "Sun, 11 Oct 2026 09:00:00 +0000"
+    },
+    {
+      "title": "2026 Upcoming Games Release Schedule",
+      "url": "https://www.gamespot.com/articles/2026-upcoming-games-release-schedule/1100-6534941/",
+      "source": "GameSpot",
+      "published": "Tue, 23 Sep 2025 13:34:00 +0000"
+    },
+    {
+      "title": "Phasmophobia confirms 30 million sales as its Crimson Eye Halloween event returns",
+      "url": "https://www.eurogamer.net/phasmophobia-30-million-sales-crimson-eye-event",
+      "source": "Eurogamer",
+      "published": "Sun, 11 Oct 2026 12:06:58 +0000"
+    },
+    {
+      "title": "Call Of Duty: MW4 Early Access Also Includes DMZ, Here’s How To Get In",
+      "url": "https://www.gamespot.com/articles/call-of-duty-mw4-early-access-also-includes-dmz-heres-how-to-get-in/",
+      "source": "GameSpot",
+      "published": "Fri, 09 Oct 2026 19:17:24 +0000"
+    },
+    {
+      "title": "GTA 6 leaker CyberLeek is back with another video and this time, Lucia's naked",
+      "url": "https://www.eurogamer.net/gta-6-leaker-cyberleek-naked-lucia-parachute-video",
+      "source": "Eurogamer",
+      "published": "Sun, 11 Oct 2026 12:27:09 +0000"
     }
   ]
 }
