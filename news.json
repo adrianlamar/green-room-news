@@ -1,113 +1,11 @@
 {
-  "updated": "2026-10-13T10:22:12.527960+00:00",
+  "updated": "2026-10-13T10:52:52.954112+00:00",
   "articles": [
     {
-      "title": "For This Week Only, the Gigabyte A16 Pro 16\" RTX 5070 Ti Gaming Laptop With 32GB of RAM Drops to $1,449",
-      "url": "https://www.ign.com/articles/gigabyte-a16-pro-16-rtx-5070-ti-gaming-laptop-deal-october-2026",
-      "source": "IGN",
-      "published": "Mon, 12 Oct 2026 22:00:00 +0000"
-    },
-    {
-      "title": "Valor Mortis review",
-      "url": "https://www.eurogamer.net/valor-mortis-review",
-      "source": "Eurogamer",
-      "published": "Mon, 12 Oct 2026 13:00:58 +0000"
-    },
-    {
-      "title": "Ace Combat 8: Wings of Theve review – thrill-packed campaign takes this long-running series to new heights",
-      "url": "https://www.eurogamer.net/ace-combat-8-wings-of-theve-review",
-      "source": "Eurogamer",
-      "published": "Tue, 13 Oct 2026 09:19:45 +0000"
-    },
-    {
-      "title": "Dragon Quest Creator Lauds AI After Prompting New Game In 30 Minutes",
-      "url": "https://www.gamespot.com/articles/dragon-quest-creator-lauds-ai-after-prompting-new-game-in-30-minutes/",
+      "title": "Castlevania: Belmont’s Curse Is The Series At Its Best",
+      "url": "https://www.gamespot.com/reviews/castlevania-belmonts-curse-is-the-series-at-its-best/",
       "source": "GameSpot",
-      "published": "Mon, 12 Oct 2026 18:42:59 +0000"
-    },
-    {
-      "title": "\"I was forced to ship the game\" - Glen Schofield blames Krafton management for The Callisto Protocol's problems",
-      "url": "https://www.eurogamer.net/glen-schofield-the-callisto-protocol-krafton-problems",
-      "source": "Eurogamer",
-      "published": "Tue, 13 Oct 2026 08:40:04 +0000"
-    },
-    {
-      "title": "People are being robbed of crypto by a tiny chip implanted in their hardware, with $100 million said to have been stolen already",
-      "url": "https://www.pcgamer.com/hardware/people-are-being-robbed-of-crypto-by-a-tiny-chip-implanted-in-their-hardware-with-usd100-million-said-to-have-been-stolen-already/",
-      "source": "PC Gamer",
-      "published": "Mon, 12 Oct 2026 15:57:58 +0000"
-    },
-    {
-      "title": "Does Blizzard's revival of its classic games signal a return of the 'old Blizzard?'",
-      "url": "https://www.pcgamer.com/games/rts/does-blizzards-revival-of-its-classic-games-signal-a-return-of-the-old-blizzard/",
-      "source": "PC Gamer",
-      "published": "Mon, 12 Oct 2026 19:15:15 +0000"
-    },
-    {
-      "title": "Will You Get a Paramount+ Subscription to Watch Avatar: Seven Havens?",
-      "url": "https://www.ign.com/articles/will-you-get-a-paramount-subscription-to-watch-avatar-seven-havens",
-      "source": "IGN",
-      "published": "Mon, 12 Oct 2026 22:23:24 +0000"
-    },
-    {
-      "title": "Why alts are part of World of Warcraft: Forever's core progression plans",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/why-alts-are-part-of-world-of-warcraft-forevers-core-progression-plans/",
-      "source": "PC Gamer",
-      "published": "Mon, 12 Oct 2026 18:30:38 +0000"
-    },
-    {
-      "title": "Arc Raiders player-numbers rebound with the launch of Frozen Trail and the game's 2.0 release, but they might be deceptively high",
-      "url": "https://www.eurogamer.net/arc-raiders-frozen-trail-2-0-update-steam-player-numbers",
-      "source": "Eurogamer",
-      "published": "Mon, 12 Oct 2026 14:20:08 +0000"
-    },
-    {
-      "title": "Get a 2-Pack of 6.6ft Right Angle USB-C Cables for $5 (Just $2.50 Per Cable)",
-      "url": "https://www.ign.com/articles/best-right-angle-usb-cable-deals-october-2026",
-      "source": "IGN",
-      "published": "Mon, 12 Oct 2026 22:50:00 +0000"
-    },
-    {
-      "title": "Sorry, Street Fighter Movie, But Mondo Just Won The Poster Fight",
-      "url": "https://www.gamespot.com/articles/sorry-street-fighter-movie-but-mondo-just-won-the-poster-fight/",
-      "source": "GameSpot",
-      "published": "Mon, 12 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "title": "The Best Games Of 2026 (So Far)",
-      "url": "https://www.gamespot.com/gallery/the-best-games-of-2026/2900-7436/",
-      "source": "GameSpot",
-      "published": "Fri, 08 May 2026 16:28:00 +0000"
-    },
-    {
-      "title": "How to get an Emperor Modulator in Arc Raiders",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-emperor-modulator-location/",
-      "source": "PC Gamer",
-      "published": "Mon, 12 Oct 2026 17:13:57 +0000"
-    },
-    {
-      "title": "Greta Gerwig's Narnia: The Magician's Nephew Wins Over Skeptical Fans With First Poster",
-      "url": "https://www.ign.com/articles/greta-gerwigs-narnia-the-magicians-nephew-wins-over-skeptical-fans-with-first-poster",
-      "source": "IGN",
-      "published": "Mon, 12 Oct 2026 22:28:07 +0000"
-    },
-    {
-      "title": "Haunted Chocolatier Is Still Missing, But This Freaky Tea Party Sim Could Scratch Your Itch",
-      "url": "https://www.gamespot.com/articles/haunted-chocolatier-is-still-missing-but-this-freaky-tea-party-sim-could-scratch-your-itch/",
-      "source": "GameSpot",
-      "published": "Mon, 12 Oct 2026 19:15:00 +0000"
-    },
-    {
-      "title": "I don't know what Rick and Morty's about but I have turned GTA 5 into its perfect replica",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-dont-know-what-rick-and-mortys-about-but-i-have-turned-gta-5-into-its-perfect-replica/",
-      "source": "PC Gamer",
-      "published": "Mon, 12 Oct 2026 17:00:00 +0000"
-    },
-    {
-      "title": "Dragon Quest co-creator Yuji Horii releases new AI-generated game, and he says it took 30 minutes to make",
-      "url": "https://www.eurogamer.net/dragon-quest-yuji-horii-new-game-ai-30-minutes",
-      "source": "Eurogamer",
-      "published": "Mon, 12 Oct 2026 17:15:59 +0000"
+      "published": "Tue, 13 Oct 2026 07:01:00 +0000"
     },
     {
       "title": "Satisfactory: The Board Game Preview",
@@ -116,40 +14,16 @@
       "published": "Mon, 12 Oct 2026 22:30:00 +0000"
     },
     {
-      "title": "Tim Burton Horror Lives In Weird Steam Adventure That Reminds Me Of The Creepiest 2010s Games",
-      "url": "https://www.gamespot.com/articles/tim-burton-horror-lives-in-weird-steam-adventure-that-reminds-me-of-the-creepiest-2010s-games/",
+      "title": "Valor Mortis review",
+      "url": "https://www.eurogamer.net/valor-mortis-review",
+      "source": "Eurogamer",
+      "published": "Mon, 12 Oct 2026 13:00:58 +0000"
+    },
+    {
+      "title": "Haunted Chocolatier Is Still Missing, But This Freaky Tea Party Sim Could Scratch Your Itch",
+      "url": "https://www.gamespot.com/articles/haunted-chocolatier-is-still-missing-but-this-freaky-tea-party-sim-could-scratch-your-itch/",
       "source": "GameSpot",
       "published": "Mon, 12 Oct 2026 19:15:00 +0000"
-    },
-    {
-      "title": "Castlevania: Belmont’s Curse Is The Series At Its Best | Review",
-      "url": "https://www.gamespot.com/videos/castlevania-belmonts-curse-is-the-series-at-its-best-review/",
-      "source": "GameSpot",
-      "published": "Tue, 13 Oct 2026 07:01:00 +0000"
-    },
-    {
-      "title": "Mick Gordon Plans to Take His Upcoming Doom Concert Performance On the Road",
-      "url": "https://www.ign.com/articles/mick-gordon-plans-to-take-his-upcoming-doom-concert-performance-on-the-road",
-      "source": "IGN",
-      "published": "Tue, 13 Oct 2026 01:54:36 +0000"
-    },
-    {
-      "title": "Starfield seamless planetary landings are finally nearly a thing, thanks to one modder's tireless work",
-      "url": "https://www.eurogamer.net/starfield-mod-seamless-planetary-landings",
-      "source": "Eurogamer",
-      "published": "Mon, 12 Oct 2026 12:56:58 +0000"
-    },
-    {
-      "title": "No Man's Sky is somehow coming to mobile, and Hello Games says it's partly thanks to Light No Fire",
-      "url": "https://www.eurogamer.net/no-mans-sky-coming-mobile-hello-games-thanks-to-light-no-fire",
-      "source": "Eurogamer",
-      "published": "Mon, 12 Oct 2026 18:20:50 +0000"
-    },
-    {
-      "title": "Epic Games reportedly delays Star Wars and Marvel shooter, as the Fortnite maker embraces \"AI-accelerated development\"",
-      "url": "https://www.eurogamer.net/epic-games-delays-star-wars-marvel-shooter-ai-development",
-      "source": "Eurogamer",
-      "published": "Mon, 12 Oct 2026 19:11:39 +0000"
     },
     {
       "title": "I Ranked Video Game Houses By How Much I’d Actually Want To Live In Them",
@@ -158,28 +32,154 @@
       "published": "Mon, 12 Oct 2026 15:01:10 +0000"
     },
     {
-      "title": "How to Play Your Favourite Games at Uni with Top Graphics on Your Laptop",
-      "url": "https://www.ign.com/sponsored/how-to-play-your-favourite-games-at-uni-with-top-graphics-on-your-laptop",
-      "source": "IGN",
-      "published": "Tue, 13 Oct 2026 08:36:44 +0000"
-    },
-    {
-      "title": "Castlevania: Belmont’s Curse Review",
-      "url": "https://www.ign.com/articles/castlevania-belmonts-curse-review",
-      "source": "IGN",
-      "published": "Tue, 13 Oct 2026 07:01:00 +0000"
-    },
-    {
-      "title": "Castlevania: Belmont’s Curse Is The Series At Its Best",
-      "url": "https://www.gamespot.com/reviews/castlevania-belmonts-curse-is-the-series-at-its-best/",
-      "source": "GameSpot",
-      "published": "Tue, 13 Oct 2026 07:01:00 +0000"
-    },
-    {
       "title": "Museum strings together 30 old Mac minis for replica of most successful supercomputer, builds something more powerful than the original",
       "url": "https://www.pcgamer.com/hardware/museum-strings-together-30-old-mac-minis-for-replica-of-most-successful-supercomputer-builds-something-more-powerful-than-the-original/",
       "source": "PC Gamer",
       "published": "Tue, 13 Oct 2026 09:46:31 +0000"
+    },
+    {
+      "title": "The Best Games Of 2026 (So Far)",
+      "url": "https://www.gamespot.com/gallery/the-best-games-of-2026/2900-7436/",
+      "source": "GameSpot",
+      "published": "Fri, 08 May 2026 16:28:00 +0000"
+    },
+    {
+      "title": "Arc Raiders player-numbers rebound with the launch of Frozen Trail and the game's 2.0 release, but they might be deceptively high",
+      "url": "https://www.eurogamer.net/arc-raiders-frozen-trail-2-0-update-steam-player-numbers",
+      "source": "Eurogamer",
+      "published": "Mon, 12 Oct 2026 14:20:08 +0000"
+    },
+    {
+      "title": "\"I was forced to ship the game\" - Glen Schofield blames Krafton management for The Callisto Protocol's problems",
+      "url": "https://www.eurogamer.net/glen-schofield-the-callisto-protocol-krafton-problems",
+      "source": "Eurogamer",
+      "published": "Tue, 13 Oct 2026 08:40:04 +0000"
+    },
+    {
+      "title": "Greta Gerwig's Narnia: The Magician's Nephew Wins Over Skeptical Fans With First Poster",
+      "url": "https://www.ign.com/articles/greta-gerwigs-narnia-the-magicians-nephew-wins-over-skeptical-fans-with-first-poster",
+      "source": "IGN",
+      "published": "Mon, 12 Oct 2026 22:28:07 +0000"
+    },
+    {
+      "title": "Sorry, Street Fighter Movie, But Mondo Just Won The Poster Fight",
+      "url": "https://www.gamespot.com/articles/sorry-street-fighter-movie-but-mondo-just-won-the-poster-fight/",
+      "source": "GameSpot",
+      "published": "Mon, 12 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "title": "I don't know what Rick and Morty's about but I have turned GTA 5 into its perfect replica",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-dont-know-what-rick-and-mortys-about-but-i-have-turned-gta-5-into-its-perfect-replica/",
+      "source": "PC Gamer",
+      "published": "Mon, 12 Oct 2026 17:00:00 +0000"
+    },
+    {
+      "title": "Epic Games reportedly delays Star Wars and Marvel shooter, as the Fortnite maker embraces \"AI-accelerated development\"",
+      "url": "https://www.eurogamer.net/epic-games-delays-star-wars-marvel-shooter-ai-development",
+      "source": "Eurogamer",
+      "published": "Mon, 12 Oct 2026 19:11:39 +0000"
+    },
+    {
+      "title": "Will You Get a Paramount+ Subscription to Watch Avatar: Seven Havens?",
+      "url": "https://www.ign.com/articles/will-you-get-a-paramount-subscription-to-watch-avatar-seven-havens",
+      "source": "IGN",
+      "published": "Mon, 12 Oct 2026 22:23:24 +0000"
+    },
+    {
+      "title": "Mick Gordon Plans to Take His Upcoming Doom Concert Performance On the Road",
+      "url": "https://www.ign.com/articles/mick-gordon-plans-to-take-his-upcoming-doom-concert-performance-on-the-road",
+      "source": "IGN",
+      "published": "Tue, 13 Oct 2026 01:54:36 +0000"
+    },
+    {
+      "title": "Castlevania: Belmont’s Curse Is The Series At Its Best | Review",
+      "url": "https://www.gamespot.com/videos/castlevania-belmonts-curse-is-the-series-at-its-best-review/",
+      "source": "GameSpot",
+      "published": "Tue, 13 Oct 2026 07:01:00 +0000"
+    },
+    {
+      "title": "People are being robbed of crypto by a tiny chip implanted in their hardware, with $100 million said to have been stolen already",
+      "url": "https://www.pcgamer.com/hardware/people-are-being-robbed-of-crypto-by-a-tiny-chip-implanted-in-their-hardware-with-usd100-million-said-to-have-been-stolen-already/",
+      "source": "PC Gamer",
+      "published": "Mon, 12 Oct 2026 15:57:58 +0000"
+    },
+    {
+      "title": "Asha Sharma reportedly tells rattled Xbox employees: \"We have to find new ways, and courage, to have invention on new IP\"",
+      "url": "https://www.eurogamer.net/asha-sharma-xbox-town-hall-new-ip",
+      "source": "Eurogamer",
+      "published": "Tue, 13 Oct 2026 10:37:22 +0000"
+    },
+    {
+      "title": "Tim Burton Horror Lives In Weird Steam Adventure That Reminds Me Of The Creepiest 2010s Games",
+      "url": "https://www.gamespot.com/articles/tim-burton-horror-lives-in-weird-steam-adventure-that-reminds-me-of-the-creepiest-2010s-games/",
+      "source": "GameSpot",
+      "published": "Mon, 12 Oct 2026 19:15:00 +0000"
+    },
+    {
+      "title": "Get a 2-Pack of 6.6ft Right Angle USB-C Cables for $5 (Just $2.50 Per Cable)",
+      "url": "https://www.ign.com/articles/best-right-angle-usb-cable-deals-october-2026",
+      "source": "IGN",
+      "published": "Mon, 12 Oct 2026 22:50:00 +0000"
+    },
+    {
+      "title": "Dragon Quest Creator Lauds AI After Prompting New Game In 30 Minutes",
+      "url": "https://www.gamespot.com/articles/dragon-quest-creator-lauds-ai-after-prompting-new-game-in-30-minutes/",
+      "source": "GameSpot",
+      "published": "Mon, 12 Oct 2026 18:42:59 +0000"
+    },
+    {
+      "title": "Does Blizzard's revival of its classic games signal a return of the 'old Blizzard?'",
+      "url": "https://www.pcgamer.com/games/rts/does-blizzards-revival-of-its-classic-games-signal-a-return-of-the-old-blizzard/",
+      "source": "PC Gamer",
+      "published": "Mon, 12 Oct 2026 19:15:15 +0000"
+    },
+    {
+      "title": "For This Week Only, the Gigabyte A16 Pro 16\" RTX 5070 Ti Gaming Laptop With 32GB of RAM Drops to $1,449",
+      "url": "https://www.ign.com/articles/gigabyte-a16-pro-16-rtx-5070-ti-gaming-laptop-deal-october-2026",
+      "source": "IGN",
+      "published": "Mon, 12 Oct 2026 22:00:00 +0000"
+    },
+    {
+      "title": "'Our humble goal is to survive the AI revolution' says Epic Games CEO, as its Star Wars and Marvel crossover pivots to 'AI first' development",
+      "url": "https://www.pcgamer.com/gaming-industry/game-development/our-humble-goal-is-to-survive-the-ai-revolution-says-epic-games-ceo-as-its-star-wars-and-marvel-crossover-pivots-to-ai-first-development/",
+      "source": "PC Gamer",
+      "published": "Mon, 12 Oct 2026 22:55:00 +0000"
+    },
+    {
+      "title": "No Man's Sky is somehow coming to mobile, and Hello Games says it's partly thanks to Light No Fire",
+      "url": "https://www.eurogamer.net/no-mans-sky-coming-mobile-hello-games-thanks-to-light-no-fire",
+      "source": "Eurogamer",
+      "published": "Mon, 12 Oct 2026 18:20:50 +0000"
+    },
+    {
+      "title": "Dragon Quest co-creator Yuji Horii releases new AI-generated game, and he says it took 30 minutes to make",
+      "url": "https://www.eurogamer.net/dragon-quest-yuji-horii-new-game-ai-30-minutes",
+      "source": "Eurogamer",
+      "published": "Mon, 12 Oct 2026 17:15:59 +0000"
+    },
+    {
+      "title": "How to get an Emperor Modulator in Arc Raiders",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-emperor-modulator-location/",
+      "source": "PC Gamer",
+      "published": "Mon, 12 Oct 2026 17:13:57 +0000"
+    },
+    {
+      "title": "Why alts are part of World of Warcraft: Forever's core progression plans",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/why-alts-are-part-of-world-of-warcraft-forevers-core-progression-plans/",
+      "source": "PC Gamer",
+      "published": "Mon, 12 Oct 2026 18:30:38 +0000"
+    },
+    {
+      "title": "Ace Combat 8: Wings of Theve review – thrill-packed campaign takes this long-running series to new heights",
+      "url": "https://www.eurogamer.net/ace-combat-8-wings-of-theve-review",
+      "source": "Eurogamer",
+      "published": "Tue, 13 Oct 2026 09:19:45 +0000"
+    },
+    {
+      "title": "How to Play Your Favourite Games at Uni with Top Graphics on Your Laptop",
+      "url": "https://www.ign.com/sponsored/how-to-play-your-favourite-games-at-uni-with-top-graphics-on-your-laptop",
+      "source": "IGN",
+      "published": "Tue, 13 Oct 2026 08:36:44 +0000"
     }
   ]
 }
