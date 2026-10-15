@@ -1,161 +1,11 @@
 {
-  "updated": "2026-10-15T16:05:23.048302+00:00",
+  "updated": "2026-10-15T16:35:45.821632+00:00",
   "articles": [
-    {
-      "title": "The Shogun 2 remaster is so bad, Sega is removing it from sale and bringing back the original",
-      "url": "https://www.pcgamer.com/games/strategy/the-shogun-2-remaster-is-so-bad-sega-is-removing-it-from-sale-and-bringing-back-the-original/",
-      "source": "PC Gamer",
-      "published": "Thu, 15 Oct 2026 15:50:41 +0000"
-    },
-    {
-      "title": "10 Things We Noticed In The GTA 6 Launch Trailer",
-      "url": "https://www.gamespot.com/articles/things-we-noticed-in-the-gta-6-launch-trailer/",
-      "source": "GameSpot",
-      "published": "Thu, 15 Oct 2026 14:12:57 +0000"
-    },
-    {
-      "title": "SanDisk MicroSD Express Review: Super-Fast Storage for Your Switch 2",
-      "url": "https://www.ign.com/articles/sandisk-microsd-express-card-review",
-      "source": "IGN",
-      "published": "Thu, 15 Oct 2026 15:48:21 +0000"
-    },
-    {
-      "title": "007 First Light gets Switch 2 release date, with IO Interactive saying time for \"optimisation and performance\" was needed",
-      "url": "https://www.eurogamer.net/007-first-light-switch-2-release-date-james-bond-game",
-      "source": "Eurogamer",
-      "published": "Thu, 15 Oct 2026 09:17:26 +0000"
-    },
-    {
-      "title": "Razer Wolverine V4 Pro wireless gaming controller review",
-      "url": "https://www.pcgamer.com/hardware/controllers/razer-wolverine-v4-pro-review/",
-      "source": "PC Gamer",
-      "published": "Thu, 15 Oct 2026 13:43:35 +0000"
-    },
-    {
-      "title": "I jammed Nvidia's new DLSS 5 October update model into the RTX Spark and it's 25% faster at 1440p",
-      "url": "https://www.pcgamer.com/hardware/i-jammed-nvidias-new-dlss-5-october-update-model-into-the-rtx-spark-and-its-25-percent-faster-at-1440p/",
-      "source": "PC Gamer",
-      "published": "Thu, 15 Oct 2026 15:26:59 +0000"
-    },
-    {
-      "title": "Grand Theft Auto 6 launch trailer suddenly drops, showing a saucy shower scene, a tense police chase, and high-flying heists",
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-launch-trailer",
-      "source": "Eurogamer",
-      "published": "Thu, 15 Oct 2026 13:24:51 +0000"
-    },
-    {
-      "title": "GTA 6 Is Getting An Original Score From Electronic Duo Justice",
-      "url": "https://www.gamespot.com/articles/gta-6-is-getting-an-original-score-from-electronic-duo-justice/",
-      "source": "GameSpot",
-      "published": "Thu, 15 Oct 2026 13:45:40 +0000"
-    },
-    {
-      "title": "Big Walk developer explains the lack of Xbox version is due to Microsoft's place on the BDS boycott",
-      "url": "https://www.eurogamer.net/big-walk-xbox-version-bds-boycott",
-      "source": "Eurogamer",
-      "published": "Thu, 15 Oct 2026 08:48:27 +0000"
-    },
-    {
-      "title": "Activision Thinks GTA 6 Will Actually Help Modern Warfare 4: 'No Offense to Zelda, but [GTA and COD] Are the 2 Biggest Games of the Year'",
-      "url": "https://www.ign.com/articles/activision-thinks-gta-6-will-actually-help-modern-warfare-4-no-offense-to-zelda-but-gta-and-cod-are-the-2-biggest-games-of-the-year",
-      "source": "IGN",
-      "published": "Thu, 15 Oct 2026 14:39:50 +0000"
-    },
-    {
-      "title": "GTA 5 Will Be Removed From PS Plus Just Before GTA 6 Releases, It Seems",
-      "url": "https://www.gamespot.com/articles/gta-5-will-be-removed-from-ps-plus-just-before-gta-6-releases-it-seems/",
-      "source": "GameSpot",
-      "published": "Thu, 15 Oct 2026 15:25:21 +0000"
-    },
     {
       "title": "Finally: Our favorite roguelike for sickos will let me play as a sapient tree",
       "url": "https://www.pcgamer.com/games/roguelike/finally-our-favorite-roguelike-for-sickos-will-let-me-play-as-a-sapient-tree/",
       "source": "PC Gamer",
       "published": "Thu, 15 Oct 2026 14:00:00 +0000"
-    },
-    {
-      "title": "It's taken its sweet time, but Intel's response to AMD's X3D chips is starting to look tasty",
-      "url": "https://www.pcgamer.com/hardware/processors/its-taken-its-sweet-time-but-intels-response-to-amds-x3d-chips-is-starting-to-look-tasty/",
-      "source": "PC Gamer",
-      "published": "Thu, 15 Oct 2026 15:34:33 +0000"
-    },
-    {
-      "title": "Fire Emblem: Fortune's Weave gets its first wave of DLC today, and an expansion pass to include it",
-      "url": "https://www.eurogamer.net/fire-emblem-fortunes-weave-expansion-pass",
-      "source": "Eurogamer",
-      "published": "Thu, 15 Oct 2026 13:48:43 +0000"
-    },
-    {
-      "title": "The Pokémon x Beats Pill Special Edition Speaker Is Now Available at Select Retailers",
-      "url": "https://www.ign.com/articles/pokemon-x-beats-pill-speaker-where-to-buy",
-      "source": "IGN",
-      "published": "Thu, 15 Oct 2026 15:14:14 +0000"
-    },
-    {
-      "title": "Diablo 5 Inches Closer to Launch as Cinematics Work Begins",
-      "url": "https://www.ign.com/articles/diablo-5-inches-closer-to-launch-as-cinematics-work-begins",
-      "source": "IGN",
-      "published": "Thu, 15 Oct 2026 15:43:23 +0000"
-    },
-    {
-      "title": "A New Call Of Duty Sub-Series Is Coming, After Years Of Black Ops and Modern Warfare",
-      "url": "https://www.gamespot.com/articles/a-new-call-of-duty-sub-series-is-coming-after-years-of-black-ops-and-modern-warfare/",
-      "source": "GameSpot",
-      "published": "Thu, 15 Oct 2026 15:31:36 +0000"
-    },
-    {
-      "title": "GTA 6 Isn’t Showing Boobie In Promotional Material",
-      "url": "https://www.gamespot.com/articles/gta-6-isnt-showing-boobie-in-promotional-material/",
-      "source": "GameSpot",
-      "published": "Thu, 15 Oct 2026 15:44:08 +0000"
-    },
-    {
-      "title": "Castlevania: Belmont's Curse review - inspired by great ideas, but doomed by questionable execution",
-      "url": "https://www.eurogamer.net/castlevania-belmonts-curse-review",
-      "source": "Eurogamer",
-      "published": "Thu, 15 Oct 2026 13:06:27 +0000"
-    },
-    {
-      "title": "Where to find the Takashiro region Treasure Hunt in Forza Horizon 6",
-      "url": "https://www.pcgamer.com/games/racing/forza-horizon-6-treasure-hunt-takashiro-region-location/",
-      "source": "PC Gamer",
-      "published": "Thu, 15 Oct 2026 14:33:44 +0000"
-    },
-    {
-      "title": "Over 30 New GTA 6 Screenshots From the Launch Trailer",
-      "url": "https://www.ign.com/articles/over-30-new-gta-6-screenshots-from-the-launch-trailer",
-      "source": "IGN",
-      "published": "Thu, 15 Oct 2026 15:19:05 +0000"
-    },
-    {
-      "title": "The First 3 Die Hard Movies Are Getting the 4K Steelbook Treatment",
-      "url": "https://www.ign.com/articles/the-first-3-die-hard-movies-are-getting-the-4k-steelbook-treatment",
-      "source": "IGN",
-      "published": "Thu, 15 Oct 2026 14:36:27 +0000"
-    },
-    {
-      "title": "DayZ creator Dean Hall says \"our industry is rotting from its core\" because of big-company \"greed\", aiming shots at Epic's Unreal and Unity",
-      "url": "https://www.eurogamer.net/dean-hall-brutal-framework-ksp-epic-unreal-unity",
-      "source": "Eurogamer",
-      "published": "Thu, 15 Oct 2026 13:02:51 +0000"
-    },
-    {
-      "title": "Sega Pulls Disastrous Total War: Shogun 2 Remaster From Sale Following Backlash",
-      "url": "https://www.ign.com/articles/total-war-shogun-2-remaster-pulled-from-sale",
-      "source": "IGN",
-      "published": "Thu, 15 Oct 2026 15:09:04 +0000"
-    },
-    {
-      "title": "The Grand Theft Auto 6 launch trailer is here",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-launch-trailer/",
-      "source": "PC Gamer",
-      "published": "Thu, 15 Oct 2026 13:43:12 +0000"
-    },
-    {
-      "title": "Monster Hunter Wilds' fairly generous Prologue Demo comes to Switch 2 next week",
-      "url": "https://www.eurogamer.net/monster-hunter-wilds-switch-2-prologue-demo",
-      "source": "Eurogamer",
-      "published": "Thu, 15 Oct 2026 08:30:51 +0000"
     },
     {
       "title": "‘I Can Really Nitpick Things’ – Firearms Expert Jonathan Ferguson Explains the Most Common Gun Mistakes in Games",
@@ -164,10 +14,10 @@
       "published": "Thu, 15 Oct 2026 15:30:00 +0000"
     },
     {
-      "title": "Street Fighter Could Be In For A Rough First Round At The Box Office",
-      "url": "https://www.gamespot.com/articles/street-fighter-movie-box-office-results/",
+      "title": "007 First Light On Switch 2 Includes Something No Other Platform Gets, And It’s Ridiculous",
+      "url": "https://www.gamespot.com/articles/007-first-light-on-switch-2-includes-something-no-other-platform-gets-and-its-ridiculous/",
       "source": "GameSpot",
-      "published": "Thu, 15 Oct 2026 14:31:35 +0000"
+      "published": "Thu, 15 Oct 2026 15:57:42 +0000"
     },
     {
       "title": "This Week’s Epic Games Store Freebie Is Nightmare Fuel For Animation Fans",
@@ -176,10 +26,160 @@
       "published": "Thu, 18 Jun 2026 15:01:00 +0000"
     },
     {
+      "title": "The AI bubble may not have burst yet, but $1 trillion worth of air appears to have escaped",
+      "url": "https://www.pcgamer.com/software/ai/the-ai-bubble-may-not-have-burst-yet-but-usd1-trillion-worth-of-air-appears-to-have-escaped/",
+      "source": "PC Gamer",
+      "published": "Thu, 15 Oct 2026 16:26:16 +0000"
+    },
+    {
+      "title": "It's taken its sweet time, but Intel's response to AMD's X3D chips is starting to look tasty",
+      "url": "https://www.pcgamer.com/hardware/processors/its-taken-its-sweet-time-but-intels-response-to-amds-x3d-chips-is-starting-to-look-tasty/",
+      "source": "PC Gamer",
+      "published": "Thu, 15 Oct 2026 15:34:33 +0000"
+    },
+    {
+      "title": "SanDisk MicroSD Express Review: Super-Fast Storage for Your Switch 2",
+      "url": "https://www.ign.com/articles/sandisk-microsd-express-card-review",
+      "source": "IGN",
+      "published": "Thu, 15 Oct 2026 15:48:21 +0000"
+    },
+    {
+      "title": "The Shogun 2 remaster is so bad, Sega is removing it from sale and bringing back the original",
+      "url": "https://www.pcgamer.com/games/strategy/the-shogun-2-remaster-is-so-bad-sega-is-removing-it-from-sale-and-bringing-back-the-original/",
+      "source": "PC Gamer",
+      "published": "Thu, 15 Oct 2026 15:50:41 +0000"
+    },
+    {
+      "title": "Big Walk developer explains the lack of Xbox version is due to Microsoft's place on the BDS boycott",
+      "url": "https://www.eurogamer.net/big-walk-xbox-version-bds-boycott",
+      "source": "Eurogamer",
+      "published": "Thu, 15 Oct 2026 08:48:27 +0000"
+    },
+    {
+      "title": "GTA 5 Will Be Removed From PS Plus Just Before GTA 6 Releases, It Seems",
+      "url": "https://www.gamespot.com/articles/gta-5-will-be-removed-from-ps-plus-just-before-gta-6-releases-it-seems/",
+      "source": "GameSpot",
+      "published": "Thu, 15 Oct 2026 15:25:21 +0000"
+    },
+    {
+      "title": "The First 3 Die Hard Movies Are Getting the 4K Steelbook Treatment",
+      "url": "https://www.ign.com/articles/the-first-3-die-hard-movies-are-getting-the-4k-steelbook-treatment",
+      "source": "IGN",
+      "published": "Thu, 15 Oct 2026 14:36:27 +0000"
+    },
+    {
+      "title": "79% of you think Razer's new gaming mouse feature counts as cheating",
+      "url": "https://www.pcgamer.com/hardware/gaming-mice/79-percent-of-you-think-razers-new-gaming-mouse-feature-counts-as-cheating/",
+      "source": "PC Gamer",
+      "published": "Thu, 15 Oct 2026 15:42:42 +0000"
+    },
+    {
+      "title": "A New Call Of Duty Sub-Series Is Coming, After Years Of Black Ops and Modern Warfare",
+      "url": "https://www.gamespot.com/articles/a-new-call-of-duty-sub-series-is-coming-after-years-of-black-ops-and-modern-warfare/",
+      "source": "GameSpot",
+      "published": "Thu, 15 Oct 2026 15:31:36 +0000"
+    },
+    {
+      "title": "The Blood Of Dawnwalker’s Time Limit Isn’t Restrictive: It’s Freeing",
+      "url": "https://www.gamespot.com/articles/the-blood-of-dawnwalkers-time-limit-isnt-restrictive-its-freeing/",
+      "source": "GameSpot",
+      "published": "Thu, 15 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "title": "I jammed Nvidia's new DLSS 5 October update model into the RTX Spark and it's 25% faster at 1440p",
+      "url": "https://www.pcgamer.com/hardware/i-jammed-nvidias-new-dlss-5-october-update-model-into-the-rtx-spark-and-its-25-percent-faster-at-1440p/",
+      "source": "PC Gamer",
+      "published": "Thu, 15 Oct 2026 15:26:59 +0000"
+    },
+    {
+      "title": "DayZ creator Dean Hall says \"our industry is rotting from its core\" because of big-company \"greed\", aiming shots at Epic's Unreal and Unity",
+      "url": "https://www.eurogamer.net/dean-hall-brutal-framework-ksp-epic-unreal-unity",
+      "source": "Eurogamer",
+      "published": "Thu, 15 Oct 2026 13:02:51 +0000"
+    },
+    {
+      "title": "Castlevania: Belmont's Curse review - inspired by great ideas, but doomed by questionable execution",
+      "url": "https://www.eurogamer.net/castlevania-belmonts-curse-review",
+      "source": "Eurogamer",
+      "published": "Thu, 15 Oct 2026 13:06:27 +0000"
+    },
+    {
+      "title": "Over 30 New GTA 6 Screenshots From the Launch Trailer",
+      "url": "https://www.ign.com/articles/over-30-new-gta-6-screenshots-from-the-launch-trailer",
+      "source": "IGN",
+      "published": "Thu, 15 Oct 2026 15:19:05 +0000"
+    },
+    {
+      "title": "Diablo 5 Inches Closer to Launch as Cinematics Work Begins",
+      "url": "https://www.ign.com/articles/diablo-5-inches-closer-to-launch-as-cinematics-work-begins",
+      "source": "IGN",
+      "published": "Thu, 15 Oct 2026 15:43:23 +0000"
+    },
+    {
+      "title": "How WoW: Forever Is “Pushing The Envelope,” And What Comes After Launch",
+      "url": "https://www.gamespot.com/?post_type=articles&p=1920334",
+      "source": "GameSpot",
+      "published": "Thu, 15 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "title": "007 First Light gets Switch 2 release date, with IO Interactive saying time for \"optimisation and performance\" was needed",
+      "url": "https://www.eurogamer.net/007-first-light-switch-2-release-date-james-bond-game",
+      "source": "Eurogamer",
+      "published": "Thu, 15 Oct 2026 09:17:26 +0000"
+    },
+    {
+      "title": "Activision Thinks GTA 6 Will Actually Help Modern Warfare 4: 'No Offense to Zelda, but [GTA and COD] Are the 2 Biggest Games of the Year'",
+      "url": "https://www.ign.com/articles/activision-thinks-gta-6-will-actually-help-modern-warfare-4-no-offense-to-zelda-but-gta-and-cod-are-the-2-biggest-games-of-the-year",
+      "source": "IGN",
+      "published": "Thu, 15 Oct 2026 14:39:50 +0000"
+    },
+    {
+      "title": "Sega Pulls Total War: Shogun 2 Remaster After Backlash Over AI-Upscaled Graphics",
+      "url": "https://www.gamespot.com/articles/sega-pulls-total-war-shogun-2-remaster-after-backlash-over-ai-upscaled-graphics/",
+      "source": "GameSpot",
+      "published": "Thu, 15 Oct 2026 15:59:11 +0000"
+    },
+    {
+      "title": "GTA 6 squeaks into eligibility for The Game Awards 2026 by the smallest of margins - but can it break Clair Obscur: Expedition 33's record number of wins?",
+      "url": "https://www.eurogamer.net/gta-6-the-game-awards-eligibility-geoff-keighley",
+      "source": "Eurogamer",
+      "published": "Thu, 15 Oct 2026 16:10:34 +0000"
+    },
+    {
+      "title": "The Pokémon x Beats Pill Special Edition Speaker Is Now Available at Select Retailers",
+      "url": "https://www.ign.com/articles/pokemon-x-beats-pill-speaker-where-to-buy",
+      "source": "IGN",
+      "published": "Thu, 15 Oct 2026 15:14:14 +0000"
+    },
+    {
+      "title": "Come on Razer what are you doing? This Pokemon-themed mouse is most definitely not the one",
+      "url": "https://www.pcgamer.com/hardware/gaming-mice/come-on-razer-what-are-you-doing-this-pokemon-themed-mouse-is-most-definitely-not-the-one/",
+      "source": "PC Gamer",
+      "published": "Thu, 15 Oct 2026 16:30:05 +0000"
+    },
+    {
+      "title": "Fire Emblem: Fortune's Weave gets its first wave of DLC today, and an expansion pass to include it",
+      "url": "https://www.eurogamer.net/fire-emblem-fortunes-weave-expansion-pass",
+      "source": "Eurogamer",
+      "published": "Thu, 15 Oct 2026 13:48:43 +0000"
+    },
+    {
       "title": "Riot Games has announced the end League of Legends Classic as an on-going mode, just three months after its release",
       "url": "https://www.eurogamer.net/league-of-legends-classic-ending-permanent-three-months",
       "source": "Eurogamer",
       "published": "Thu, 15 Oct 2026 12:06:25 +0000"
+    },
+    {
+      "title": "Grand Theft Auto 6 launch trailer suddenly drops, showing a saucy shower scene, a tense police chase, and high-flying heists",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-launch-trailer",
+      "source": "Eurogamer",
+      "published": "Thu, 15 Oct 2026 13:24:51 +0000"
+    },
+    {
+      "title": "Sega Pulls Disastrous Total War: Shogun 2 Remaster From Sale Following Backlash",
+      "url": "https://www.ign.com/articles/total-war-shogun-2-remaster-pulled-from-sale",
+      "source": "IGN",
+      "published": "Thu, 15 Oct 2026 15:09:04 +0000"
     }
   ]
 }
