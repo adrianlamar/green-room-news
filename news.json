@@ -1,113 +1,17 @@
 {
-  "updated": "2026-10-15T12:02:08.329919+00:00",
+  "updated": "2026-10-15T12:38:17.214998+00:00",
   "articles": [
     {
-      "title": "This Chance To Get A Steam Frame For $1 Is One You Can’t Miss",
-      "url": "https://www.gamespot.com/articles/this-chance-to-get-a-steam-frame-for-1-is-one-you-cant-miss/",
-      "source": "GameSpot",
-      "published": "Thu, 15 Oct 2026 11:30:00 +0000"
-    },
-    {
-      "title": "How in the world are Intel GPUs still improving so much? The latest driver update claims up to a 31% fps improvement in Resident Evil Requiem",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/how-in-the-world-are-intel-gpus-still-improving-so-much-the-latest-driver-update-claims-up-to-a-31-percent-fps-improvement-in-resident-evil-requiem/",
-      "source": "PC Gamer",
-      "published": "Thu, 15 Oct 2026 10:40:22 +0000"
-    },
-    {
-      "title": "Ex-Overwatch director Jeff Kaplan ignores everything about the hero shooter after his 'almost clinical' departure 5 years ago: 'I don't search for my name in Overwatch. I don't search for Overwatch. I sort of just disconnect.'",
-      "url": "https://www.pcgamer.com/games/fps/ex-overwatch-director-jeff-kaplan-ignores-everything-about-the-hero-shooter-after-his-almost-clinical-departure-5-years-ago-i-dont-search-for-my-name-in-overwatch-i-dont-search-for-overwatch-i-sort-of-just-disconnect/",
-      "source": "PC Gamer",
-      "published": "Wed, 14 Oct 2026 22:54:53 +0000"
-    },
-    {
-      "title": "GTA 6's Level of Detail Is So Extreme, Rockstar Built an Entire Scripted System Just for Sweat",
-      "url": "https://www.ign.com/articles/gta-6s-level-of-detail-is-so-extreme-rockstar-built-an-entire-scripted-system-just-for-sweat",
-      "source": "IGN",
-      "published": "Thu, 15 Oct 2026 11:32:24 +0000"
-    },
-    {
-      "title": "007 First Light gets Switch 2 release date, with IO Interactive saying time for \"optimisation and performance\" was needed",
-      "url": "https://www.eurogamer.net/007-first-light-switch-2-release-date-james-bond-game",
+      "title": "ArenaNet solves an ongoing Guild Wars 2 issue by ditching paid Living World add-ons and bundling them with expansions",
+      "url": "https://www.eurogamer.net/guild-wars-2-living-world-expansions",
       "source": "Eurogamer",
-      "published": "Thu, 15 Oct 2026 09:17:26 +0000"
+      "published": "Wed, 14 Oct 2026 15:14:15 +0000"
     },
     {
-      "title": "Disco Elysium splinter studio's Red Rooster is going to be a 'an incendiary, physics-driven RPG' where you play an inmate, an opiate-fuelled mathematician, and a bus driver with nunchucks",
-      "url": "https://www.pcgamer.com/games/rpg/disco-elysium-splinter-studios-red-rooster-is-going-to-be-a-an-incendiary-physics-driven-rpg-where-you-play-an-inmate-an-opiate-fuelled-mathematician-and-a-bus-driver-with-nunchucks/",
-      "source": "PC Gamer",
-      "published": "Thu, 15 Oct 2026 11:14:46 +0000"
-    },
-    {
-      "title": "Big Walk developer explains the lack of Xbox version is due to Microsoft's place on the BDS boycott",
-      "url": "https://www.eurogamer.net/big-walk-xbox-version-bds-boycott",
-      "source": "Eurogamer",
-      "published": "Thu, 15 Oct 2026 08:48:27 +0000"
-    },
-    {
-      "title": "3 months after launch, Riot announces League of Legends Classic will be killed in January: 'most have gone back to other parts of League'",
-      "url": "https://www.pcgamer.com/games/moba/3-months-after-launch-riot-announces-league-of-legends-classic-will-be-killed-in-january-most-have-gone-back-to-other-parts-of-league/",
-      "source": "PC Gamer",
-      "published": "Wed, 14 Oct 2026 23:56:26 +0000"
-    },
-    {
-      "title": "Valve is toying with a Steam Frame OLED and some Reddit users are already wondering whether to wait an excruciatingly long time for it even though it may never happen",
-      "url": "https://www.pcgamer.com/hardware/vr-hardware/valve-is-toying-with-a-steam-frame-oled-and-some-reddit-users-are-already-wondering-whether-to-wait-an-excruciatingly-long-time-for-it-even-though-it-may-never-happen/",
-      "source": "PC Gamer",
-      "published": "Thu, 15 Oct 2026 11:06:28 +0000"
-    },
-    {
-      "title": "Everything New In Wardogs Season 2",
-      "url": "https://www.gamespot.com/articles/everything-new-in-wardogs-season-2/",
-      "source": "GameSpot",
-      "published": "Thu, 15 Oct 2026 09:04:05 +0000"
-    },
-    {
-      "title": "A Sentient Snowman Is (Surprisingly) My Favorite Part Of This RPG Remake",
-      "url": "https://www.gamespot.com/articles/a-sentient-snowman-is-surprisingly-my-favorite-part-of-this-rpg-remake/",
-      "source": "GameSpot",
-      "published": "Wed, 14 Oct 2026 21:11:55 +0000"
-    },
-    {
-      "title": "Blue Team Only Wins 15% of Its Wardogs Games — We Asked a Color Expert Why",
-      "url": "https://www.ign.com/articles/wardogs-blue-team-winrate-color-psychologist",
+      "title": "Big Walk Developer Explains Why the Game Isn't on Xbox",
+      "url": "https://www.ign.com/articles/big-walk-developer-explains-why-the-game-isnt-on-xbox",
       "source": "IGN",
-      "published": "Thu, 15 Oct 2026 08:56:09 +0000"
-    },
-    {
-      "title": "State lawsuits accuse OpenAI of ignoring its own safety warnings for profit: 'All these harms were foreseeable and avoidable'",
-      "url": "https://www.pcgamer.com/software/ai/8-us-states-sue-openai/",
-      "source": "PC Gamer",
-      "published": "Wed, 14 Oct 2026 23:22:11 +0000"
-    },
-    {
-      "title": "Netflix’s The Diplomat: Season 4 Review",
-      "url": "https://www.ign.com/articles/the-diplomat-season-4-review",
-      "source": "IGN",
-      "published": "Thu, 15 Oct 2026 07:01:00 +0000"
-    },
-    {
-      "title": "Cyberpunk 2 Is Evolving Beyond Its Director’s Original Vision",
-      "url": "https://www.gamespot.com/articles/cyberpunk-2-is-evolving-beyond-its-directors-original-vision/",
-      "source": "GameSpot",
-      "published": "Thu, 15 Oct 2026 11:24:08 +0000"
-    },
-    {
-      "title": "I want to love the new Castlevania, but it just feels a little off",
-      "url": "https://www.pcgamer.com/games/action/i-want-to-love-the-new-castlevania-but-it-just-feels-a-little-off/",
-      "source": "PC Gamer",
-      "published": "Wed, 14 Oct 2026 22:31:54 +0000"
-    },
-    {
-      "title": "Should You Play The Resident Evil Remakes On Switch 2?",
-      "url": "https://www.gamespot.com/videos/should-you-play-the-resident-evil-remakes-on-switch-2/",
-      "source": "GameSpot",
-      "published": "Thu, 15 Oct 2026 11:00:00 +0000"
-    },
-    {
-      "title": "Devious Arc Raiders Griefers Are Having Fun in PvE, Camping Locked Loot Rooms and Pulling Enemy Robots Into Extraction Points",
-      "url": "https://www.ign.com/articles/arc-raiders-pve-griefers",
-      "source": "IGN",
-      "published": "Thu, 15 Oct 2026 10:13:54 +0000"
+      "published": "Thu, 15 Oct 2026 08:20:19 +0000"
     },
     {
       "title": "Monster Hunter Wilds' fairly generous Prologue Demo comes to Switch 2 next week",
@@ -116,10 +20,52 @@
       "published": "Thu, 15 Oct 2026 08:30:51 +0000"
     },
     {
-      "title": "Epic throws shade at Steam, admits to vibe-coding the new Epic Games Launcher with AI \"to be faster than the other guy\"",
-      "url": "https://www.eurogamer.net/epic-throws-shade-steam-vibe-coding-games-launcher-ai",
+      "title": "Riot Games has announced the end League of Legends Classic as an on-going mode, just three months after its release",
+      "url": "https://www.eurogamer.net/league-of-legends-classic-ending-permanent-three-months",
       "source": "Eurogamer",
-      "published": "Wed, 14 Oct 2026 18:17:03 +0000"
+      "published": "Thu, 15 Oct 2026 12:06:25 +0000"
+    },
+    {
+      "title": "This Chance To Get A Steam Frame For $1 Is One You Can’t Miss",
+      "url": "https://www.gamespot.com/articles/this-chance-to-get-a-steam-frame-for-1-is-one-you-cant-miss/",
+      "source": "GameSpot",
+      "published": "Thu, 15 Oct 2026 11:30:00 +0000"
+    },
+    {
+      "title": "Valve is toying with a Steam Frame OLED and some Reddit users are already wondering whether to wait an excruciatingly long time for it even though it may never happen",
+      "url": "https://www.pcgamer.com/hardware/vr-hardware/valve-is-toying-with-a-steam-frame-oled-and-some-reddit-users-are-already-wondering-whether-to-wait-an-excruciatingly-long-time-for-it-even-though-it-may-never-happen/",
+      "source": "PC Gamer",
+      "published": "Thu, 15 Oct 2026 11:06:28 +0000"
+    },
+    {
+      "title": "Cyberpunk 2 Is Evolving Beyond Its Director’s Original Vision",
+      "url": "https://www.gamespot.com/articles/cyberpunk-2-is-evolving-beyond-its-directors-original-vision/",
+      "source": "GameSpot",
+      "published": "Thu, 15 Oct 2026 11:24:08 +0000"
+    },
+    {
+      "title": "Devious Arc Raiders Griefers Are Having Fun in PvE, Camping Locked Loot Rooms and Pulling Enemy Robots Into Extraction Points",
+      "url": "https://www.ign.com/articles/arc-raiders-pve-griefers",
+      "source": "IGN",
+      "published": "Thu, 15 Oct 2026 10:13:54 +0000"
+    },
+    {
+      "title": "Big Walk developer explains the lack of Xbox version is due to Microsoft's place on the BDS boycott",
+      "url": "https://www.eurogamer.net/big-walk-xbox-version-bds-boycott",
+      "source": "Eurogamer",
+      "published": "Thu, 15 Oct 2026 08:48:27 +0000"
+    },
+    {
+      "title": "Should You Play The Resident Evil Remakes On Switch 2?",
+      "url": "https://www.gamespot.com/videos/should-you-play-the-resident-evil-remakes-on-switch-2/",
+      "source": "GameSpot",
+      "published": "Thu, 15 Oct 2026 11:00:00 +0000"
+    },
+    {
+      "title": "OLED really is the gift that keeps on giving, with what should be cheaper 700 Hz panels planned by TCL for 2028",
+      "url": "https://www.pcgamer.com/hardware/gaming-monitors/oled-really-is-the-gift-that-keeps-on-giving-with-what-should-be-cheaper-700-hz-panels-planned-by-tcl-for-2028/",
+      "source": "PC Gamer",
+      "published": "Thu, 15 Oct 2026 12:05:58 +0000"
     },
     {
       "title": "Rock Hard Platformer 'Refund This Game' Challenges You to Beat It Within Steam’s 2-Hour Refund Window",
@@ -134,10 +80,28 @@
       "published": "Thu, 15 Oct 2026 00:20:00 +0000"
     },
     {
-      "title": "Big Walk devs explain why it isn't on Xbox and likely never will be, 'not until Microsoft and/or Xbox have been removed as BDS boycott targets'",
-      "url": "https://www.pcgamer.com/gaming-industry/big-walk-devs-explain-why-it-isnt-on-xbox-and-likely-never-will-be-not-until-microsoft-and-or-xbox-have-been-removed-as-bds-boycott-targets/",
+      "title": "A Sentient Snowman Is (Surprisingly) My Favorite Part Of This RPG Remake",
+      "url": "https://www.gamespot.com/articles/a-sentient-snowman-is-surprisingly-my-favorite-part-of-this-rpg-remake/",
+      "source": "GameSpot",
+      "published": "Wed, 14 Oct 2026 21:11:55 +0000"
+    },
+    {
+      "title": "GTA 6's Level of Detail Is So Extreme, Rockstar Built an Entire Scripted System Just for Sweat",
+      "url": "https://www.ign.com/articles/gta-6s-level-of-detail-is-so-extreme-rockstar-built-an-entire-scripted-system-just-for-sweat",
+      "source": "IGN",
+      "published": "Thu, 15 Oct 2026 11:32:24 +0000"
+    },
+    {
+      "title": "State lawsuits accuse OpenAI of ignoring its own safety warnings for profit: 'All these harms were foreseeable and avoidable'",
+      "url": "https://www.pcgamer.com/software/ai/8-us-states-sue-openai/",
       "source": "PC Gamer",
-      "published": "Thu, 15 Oct 2026 11:36:38 +0000"
+      "published": "Wed, 14 Oct 2026 23:22:11 +0000"
+    },
+    {
+      "title": "Epic throws shade at Steam, admits to vibe-coding the new Epic Games Launcher with AI \"to be faster than the other guy\"",
+      "url": "https://www.eurogamer.net/epic-throws-shade-steam-vibe-coding-games-launcher-ai",
+      "source": "Eurogamer",
+      "published": "Wed, 14 Oct 2026 18:17:03 +0000"
     },
     {
       "title": "GTA 6 Guides Hub – How To Do Everything In Grand Theft Auto 6",
@@ -158,28 +122,64 @@
       "published": "Wed, 14 Oct 2026 19:43:31 +0000"
     },
     {
+      "title": "How in the world are Intel GPUs still improving so much? The latest driver update claims up to a 31% fps improvement in Resident Evil Requiem",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/how-in-the-world-are-intel-gpus-still-improving-so-much-the-latest-driver-update-claims-up-to-a-31-percent-fps-improvement-in-resident-evil-requiem/",
+      "source": "PC Gamer",
+      "published": "Thu, 15 Oct 2026 10:40:22 +0000"
+    },
+    {
+      "title": "Something Utterly Chaotic Is Happening In The VTuber World",
+      "url": "https://www.gamespot.com/articles/something-utterly-chaotic-is-happening-in-the-vtuber-world/",
+      "source": "GameSpot",
+      "published": "Thu, 15 Oct 2026 12:12:15 +0000"
+    },
+    {
       "title": "Here are our PS Plus Premium and Extra games for October",
       "url": "https://www.eurogamer.net/playstation-plus-october-2026-games",
       "source": "Eurogamer",
       "published": "Wed, 14 Oct 2026 16:51:54 +0000"
     },
     {
-      "title": "Big Walk Developer Explains Why the Game Isn't on Xbox",
-      "url": "https://www.ign.com/articles/big-walk-developer-explains-why-the-game-isnt-on-xbox",
+      "title": "007 First Light gets Switch 2 release date, with IO Interactive saying time for \"optimisation and performance\" was needed",
+      "url": "https://www.eurogamer.net/007-first-light-switch-2-release-date-james-bond-game",
+      "source": "Eurogamer",
+      "published": "Thu, 15 Oct 2026 09:17:26 +0000"
+    },
+    {
+      "title": "Disco Elysium splinter studio's Red Rooster is going to be a 'an incendiary, physics-driven RPG' where you play an inmate, an opiate-fuelled mathematician, and a bus driver with nunchucks",
+      "url": "https://www.pcgamer.com/games/rpg/disco-elysium-splinter-studios-red-rooster-is-going-to-be-a-an-incendiary-physics-driven-rpg-where-you-play-an-inmate-an-opiate-fuelled-mathematician-and-a-bus-driver-with-nunchucks/",
+      "source": "PC Gamer",
+      "published": "Thu, 15 Oct 2026 11:14:46 +0000"
+    },
+    {
+      "title": "3 months after launch, Riot announces League of Legends Classic will be killed in January: 'most have gone back to other parts of League'",
+      "url": "https://www.pcgamer.com/games/moba/3-months-after-launch-riot-announces-league-of-legends-classic-will-be-killed-in-january-most-have-gone-back-to-other-parts-of-league/",
+      "source": "PC Gamer",
+      "published": "Wed, 14 Oct 2026 23:56:26 +0000"
+    },
+    {
+      "title": "Netflix’s The Diplomat: Season 4 Review",
+      "url": "https://www.ign.com/articles/the-diplomat-season-4-review",
       "source": "IGN",
-      "published": "Thu, 15 Oct 2026 08:20:19 +0000"
+      "published": "Thu, 15 Oct 2026 07:01:00 +0000"
     },
     {
-      "title": "\"This non-profit will be the 'voice of the gamers'\" - Former Disco Elysium devs break new ground with player- and developer-owned studio structure",
-      "url": "https://www.eurogamer.net/summer-eternal-studio-structure-player-non-profit",
-      "source": "Eurogamer",
-      "published": "Wed, 14 Oct 2026 14:00:16 +0000"
+      "title": "Blue Team Only Wins 15% of Its Wardogs Games — We Asked a Color Expert Why",
+      "url": "https://www.ign.com/articles/wardogs-blue-team-winrate-color-psychologist",
+      "source": "IGN",
+      "published": "Thu, 15 Oct 2026 08:56:09 +0000"
     },
     {
-      "title": "ArenaNet solves an ongoing Guild Wars 2 issue by ditching paid Living World add-ons and bundling them with expansions",
-      "url": "https://www.eurogamer.net/guild-wars-2-living-world-expansions",
-      "source": "Eurogamer",
-      "published": "Wed, 14 Oct 2026 15:14:15 +0000"
+      "title": "Everything New In Wardogs Season 2",
+      "url": "https://www.gamespot.com/articles/everything-new-in-wardogs-season-2/",
+      "source": "GameSpot",
+      "published": "Thu, 15 Oct 2026 09:04:05 +0000"
+    },
+    {
+      "title": "Big Walk devs explain why it isn't on Xbox and likely never will be, 'not until Microsoft and/or Xbox have been removed as BDS boycott targets'",
+      "url": "https://www.pcgamer.com/gaming-industry/big-walk-devs-explain-why-it-isnt-on-xbox-and-likely-never-will-be-not-until-microsoft-and-or-xbox-have-been-removed-as-bds-boycott-targets/",
+      "source": "PC Gamer",
+      "published": "Thu, 15 Oct 2026 11:36:38 +0000"
     }
   ]
 }
