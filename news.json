@@ -1,143 +1,11 @@
 {
-  "updated": "2026-10-15T19:59:53.253734+00:00",
+  "updated": "2026-10-15T20:27:21.950110+00:00",
   "articles": [
-    {
-      "title": "Fire Emblem: Fortune's Weave gets its first wave of DLC today, and an expansion pass to include it",
-      "url": "https://www.eurogamer.net/fire-emblem-fortunes-weave-expansion-pass",
-      "source": "Eurogamer",
-      "published": "Thu, 15 Oct 2026 13:48:43 +0000"
-    },
-    {
-      "title": "Activision Confirms Brand New Call of Duty Subfranchise Is in the Works, Leading to Rampant Fan Speculation",
-      "url": "https://www.ign.com/articles/activision-confirms-brand-new-call-of-duty-subfranchise-is-in-the-works-leading-to-rampant-fan-speculation",
-      "source": "IGN",
-      "published": "Thu, 15 Oct 2026 19:15:15 +0000"
-    },
-    {
-      "title": "Sacrifice Review",
-      "url": "https://www.ign.com/articles/sacrifice-movie-2026-review-netflix",
-      "source": "IGN",
-      "published": "Thu, 15 Oct 2026 19:45:25 +0000"
-    },
-    {
-      "title": "GTA 5 finally measures up to the actual best GTA game now I've added a jetpack",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-5-finally-measures-up-to-the-actual-best-gta-game-now-ive-added-a-jetpack/",
-      "source": "PC Gamer",
-      "published": "Thu, 15 Oct 2026 17:00:00 +0000"
-    },
-    {
-      "title": "Enshrouded 1.0 – Launch Trailer",
-      "url": "https://www.gamespot.com/videos/enshrouded-1-0-launch-trailer/",
-      "source": "GameSpot",
-      "published": "Thu, 15 Oct 2026 19:12:13 +0000"
-    },
-    {
-      "title": "We’re Getting A WWE And Street Fighter Crossover, And It’s Pretty Weird",
-      "url": "https://www.gamespot.com/articles/were-getting-a-wwe-and-street-fighter-crossover-and-its-pretty-weird/",
-      "source": "GameSpot",
-      "published": "Thu, 15 Oct 2026 17:11:07 +0000"
-    },
-    {
-      "title": "LEGO Venetian Neighborhood Set Is Coming in November",
-      "url": "https://www.ign.com/articles/lego-venetian-neighborhood-where-to-buy",
-      "source": "IGN",
-      "published": "Thu, 15 Oct 2026 18:17:55 +0000"
-    },
-    {
-      "title": "Castlevania: Belmont's Curse review - inspired by great ideas, but doomed by questionable execution",
-      "url": "https://www.eurogamer.net/castlevania-belmonts-curse-review",
-      "source": "Eurogamer",
-      "published": "Thu, 15 Oct 2026 13:06:27 +0000"
-    },
-    {
-      "title": "Call Of Duty: MW4 Is Not On Xbox Game Pass, But Here’s When You Can Expect It",
-      "url": "https://www.gamespot.com/articles/call-of-duty-mw4-is-not-on-xbox-game-pass-but-heres-when-you-can-expect-it/",
-      "source": "GameSpot",
-      "published": "Thu, 15 Oct 2026 19:21:10 +0000"
-    },
-    {
-      "title": "Here’s This Week’s Free Game From The Epic Games Store On Mobile",
-      "url": "https://www.gamespot.com/articles/free-games-epic-games-store-mobile/1100-6530257/",
-      "source": "GameSpot",
-      "published": "Fri, 08 May 2026 12:21:00 +0000"
-    },
-    {
-      "title": "GTA 6 Isn’t Showing Boobie In Promotional Material",
-      "url": "https://www.gamespot.com/articles/gta-6-isnt-showing-boobie-in-promotional-material/",
-      "source": "GameSpot",
-      "published": "Thu, 15 Oct 2026 17:31:32 +0000"
-    },
-    {
-      "title": "Grand Theft Auto 6 launch trailer suddenly drops, showing a saucy shower scene, a tense police chase, and high-flying heists",
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-launch-trailer",
-      "source": "Eurogamer",
-      "published": "Thu, 15 Oct 2026 13:24:51 +0000"
-    },
-    {
-      "title": "007 First Light gets Switch 2 release date, with IO Interactive saying time for \"optimisation and performance\" was needed",
-      "url": "https://www.eurogamer.net/007-first-light-switch-2-release-date-james-bond-game",
-      "source": "Eurogamer",
-      "published": "Thu, 15 Oct 2026 09:17:26 +0000"
-    },
-    {
-      "title": "Big Walk developer explains the lack of Xbox version is due to Microsoft's place on the BDS boycott",
-      "url": "https://www.eurogamer.net/big-walk-xbox-version-bds-boycott",
-      "source": "Eurogamer",
-      "published": "Thu, 15 Oct 2026 08:48:27 +0000"
-    },
-    {
-      "title": "GTA 6 squeaks into eligibility for The Game Awards 2026 by the smallest of margins - but can it break Clair Obscur: Expedition 33's record number of wins?",
-      "url": "https://www.eurogamer.net/gta-6-the-game-awards-eligibility-geoff-keighley",
-      "source": "Eurogamer",
-      "published": "Thu, 15 Oct 2026 16:10:34 +0000"
-    },
-    {
-      "title": "It's taken its sweet time, but Intel's response to AMD's X3D chips is starting to look tasty",
-      "url": "https://www.pcgamer.com/hardware/processors/its-taken-its-sweet-time-but-intels-response-to-amds-x3d-chips-is-starting-to-look-tasty/",
-      "source": "PC Gamer",
-      "published": "Thu, 15 Oct 2026 15:34:33 +0000"
-    },
-    {
-      "title": "79% of you think Razer's new gaming mouse feature counts as cheating",
-      "url": "https://www.pcgamer.com/hardware/gaming-mice/79-percent-of-you-think-razers-new-gaming-mouse-feature-counts-as-cheating/",
-      "source": "PC Gamer",
-      "published": "Thu, 15 Oct 2026 15:42:42 +0000"
-    },
     {
       "title": "The Shogun 2 remaster is so bad, Sega is removing it from sale and bringing back the original",
       "url": "https://www.pcgamer.com/games/strategy/the-shogun-2-remaster-is-so-bad-sega-is-removing-it-from-sale-and-bringing-back-the-original/",
       "source": "PC Gamer",
       "published": "Thu, 15 Oct 2026 15:50:41 +0000"
-    },
-    {
-      "title": "Control Resonant sells 1 million copies in 3 weeks to become Remedy's fastest-selling game ever",
-      "url": "https://www.pcgamer.com/games/action/control-resonant-sells-1-million-copies-in-3-weeks-to-become-remedys-fastest-selling-game-ever/",
-      "source": "PC Gamer",
-      "published": "Thu, 15 Oct 2026 18:15:22 +0000"
-    },
-    {
-      "title": "Riot Games has announced the end League of Legends Classic as an on-going mode, just three months after its release",
-      "url": "https://www.eurogamer.net/league-of-legends-classic-ending-permanent-three-months",
-      "source": "Eurogamer",
-      "published": "Thu, 15 Oct 2026 12:06:25 +0000"
-    },
-    {
-      "title": "The AI bubble may not have burst yet, but $1 trillion worth of air appears to have escaped",
-      "url": "https://www.pcgamer.com/software/ai/the-ai-bubble-may-not-have-burst-yet-but-usd1-trillion-worth-of-air-appears-to-have-escaped/",
-      "source": "PC Gamer",
-      "published": "Thu, 15 Oct 2026 16:26:16 +0000"
-    },
-    {
-      "title": "Sony Explores Unconventional Release and Box Office Strategy for Beatles Biopics",
-      "url": "https://www.ign.com/articles/sony-beatles-movies-release-box-office-strategy",
-      "source": "IGN",
-      "published": "Thu, 15 Oct 2026 19:09:37 +0000"
-    },
-    {
-      "title": "DayZ creator Dean Hall says \"our industry is rotting from its core\" because of big-company \"greed\", aiming shots at Epic's Unreal and Unity",
-      "url": "https://www.eurogamer.net/dean-hall-brutal-framework-ksp-epic-unreal-unity",
-      "source": "Eurogamer",
-      "published": "Thu, 15 Oct 2026 13:02:51 +0000"
     },
     {
       "title": "007 First Light On Switch 2 Includes Something No Other Platform Gets, And It’s Ridiculous",
@@ -146,16 +14,16 @@
       "published": "Thu, 15 Oct 2026 17:32:43 +0000"
     },
     {
-      "title": "Sony Just Announced a $6,000 Gold-Plated Walkman",
-      "url": "https://www.ign.com/articles/sony-just-announced-a-6000-gold-plated-walkman",
-      "source": "IGN",
-      "published": "Thu, 15 Oct 2026 19:04:29 +0000"
+      "title": "GTA 5 finally measures up to the actual best GTA game now I've added a jetpack",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-5-finally-measures-up-to-the-actual-best-gta-game-now-ive-added-a-jetpack/",
+      "source": "PC Gamer",
+      "published": "Thu, 15 Oct 2026 17:00:00 +0000"
     },
     {
-      "title": "Get a Perlegear Full Motion TV Wall Mount for Up to 90\" TVs With 135lb Capacity for Just $33",
-      "url": "https://www.ign.com/articles/perlegear-full-motion-tv-wall-mount-deal-october-2026",
-      "source": "IGN",
-      "published": "Thu, 15 Oct 2026 18:55:00 +0000"
+      "title": "The AI bubble may not have burst yet, but $1 trillion worth of air appears to have escaped",
+      "url": "https://www.pcgamer.com/software/ai/the-ai-bubble-may-not-have-burst-yet-but-usd1-trillion-worth-of-air-appears-to-have-escaped/",
+      "source": "PC Gamer",
+      "published": "Thu, 15 Oct 2026 16:26:16 +0000"
     },
     {
       "title": "From Liberty City To Leonida: Following The Evolution Of Rockstar’s GTA Launch Trailers",
@@ -170,16 +38,148 @@
       "published": "Thu, 15 Oct 2026 19:03:10 +0000"
     },
     {
+      "title": "Enshrouded 1.0 – Launch Trailer",
+      "url": "https://www.gamespot.com/videos/enshrouded-1-0-launch-trailer/",
+      "source": "GameSpot",
+      "published": "Thu, 15 Oct 2026 19:12:13 +0000"
+    },
+    {
+      "title": "Fire Emblem: Fortune's Weave gets its first wave of DLC today, and an expansion pass to include it",
+      "url": "https://www.eurogamer.net/fire-emblem-fortunes-weave-expansion-pass",
+      "source": "Eurogamer",
+      "published": "Thu, 15 Oct 2026 13:48:43 +0000"
+    },
+    {
+      "title": "The Mummy 4 Now Officially Titled The Mummy: Book of the Dead",
+      "url": "https://www.ign.com/articles/the-mummy-4-now-officially-titled-the-mummy-book-of-the-dead",
+      "source": "IGN",
+      "published": "Thu, 15 Oct 2026 19:46:23 +0000"
+    },
+    {
+      "title": "Control Resonant sells 1 million copies in 3 weeks to become Remedy's fastest-selling game ever",
+      "url": "https://www.pcgamer.com/games/action/control-resonant-sells-1-million-copies-in-3-weeks-to-become-remedys-fastest-selling-game-ever/",
+      "source": "PC Gamer",
+      "published": "Thu, 15 Oct 2026 18:15:22 +0000"
+    },
+    {
+      "title": "007 First Light gets Switch 2 release date, with IO Interactive saying time for \"optimisation and performance\" was needed",
+      "url": "https://www.eurogamer.net/007-first-light-switch-2-release-date-james-bond-game",
+      "source": "Eurogamer",
+      "published": "Thu, 15 Oct 2026 09:17:26 +0000"
+    },
+    {
+      "title": "Sacrifice Review",
+      "url": "https://www.ign.com/articles/sacrifice-movie-2026-review-netflix",
+      "source": "IGN",
+      "published": "Thu, 15 Oct 2026 19:45:25 +0000"
+    },
+    {
+      "title": "We’re Getting A WWE And Street Fighter Crossover, And It’s Pretty Weird",
+      "url": "https://www.gamespot.com/articles/were-getting-a-wwe-and-street-fighter-crossover-and-its-pretty-weird/",
+      "source": "GameSpot",
+      "published": "Thu, 15 Oct 2026 17:11:07 +0000"
+    },
+    {
+      "title": "79% of you think Razer's new gaming mouse feature counts as cheating",
+      "url": "https://www.pcgamer.com/hardware/gaming-mice/79-percent-of-you-think-razers-new-gaming-mouse-feature-counts-as-cheating/",
+      "source": "PC Gamer",
+      "published": "Thu, 15 Oct 2026 15:42:42 +0000"
+    },
+    {
+      "title": "Activision Confirms Brand New Call of Duty Subfranchise Is in the Works, Leading to Rampant Fan Speculation",
+      "url": "https://www.ign.com/articles/activision-confirms-brand-new-call-of-duty-subfranchise-is-in-the-works-leading-to-rampant-fan-speculation",
+      "source": "IGN",
+      "published": "Thu, 15 Oct 2026 19:15:15 +0000"
+    },
+    {
+      "title": "Grand Theft Auto 6 launch trailer suddenly drops, showing a saucy shower scene, a tense police chase, and high-flying heists",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-launch-trailer",
+      "source": "Eurogamer",
+      "published": "Thu, 15 Oct 2026 13:24:51 +0000"
+    },
+    {
+      "title": "Sony Explores Unconventional Release and Box Office Strategy for Beatles Biopics",
+      "url": "https://www.ign.com/articles/sony-beatles-movies-release-box-office-strategy",
+      "source": "IGN",
+      "published": "Thu, 15 Oct 2026 19:09:37 +0000"
+    },
+    {
       "title": "Why Rockstar Canceled Its PlayStation-Exclusive Follow-Up To GTA 4",
       "url": "https://www.gamespot.com/articles/why-rockstar-canceled-its-playstation-exclusive-follow-up-to-gta-4/",
       "source": "GameSpot",
       "published": "Thu, 15 Oct 2026 19:23:16 +0000"
     },
     {
+      "title": "Riot Games has announced the end League of Legends Classic as an on-going mode, just three months after its release",
+      "url": "https://www.eurogamer.net/league-of-legends-classic-ending-permanent-three-months",
+      "source": "Eurogamer",
+      "published": "Thu, 15 Oct 2026 12:06:25 +0000"
+    },
+    {
+      "title": "Come on Razer what are you doing? This Pokemon-themed mouse is most definitely not the one",
+      "url": "https://www.pcgamer.com/hardware/gaming-mice/come-on-razer-what-are-you-doing-this-pokemon-themed-mouse-is-most-definitely-not-the-one/",
+      "source": "PC Gamer",
+      "published": "Thu, 15 Oct 2026 16:30:05 +0000"
+    },
+    {
+      "title": "GTA 6 Isn’t Showing Boobie In Promotional Material",
+      "url": "https://www.gamespot.com/articles/gta-6-isnt-showing-boobie-in-promotional-material/",
+      "source": "GameSpot",
+      "published": "Thu, 15 Oct 2026 17:31:32 +0000"
+    },
+    {
       "title": "World of Warcraft: Forever devs say gear upgrades will stay relevant 'for a long, long time': 'It's very much our intention to try wherever we can to not invalidate old content'",
       "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-devs-say-gear-upgrades-will-stay-relevant-for-a-long-long-time-its-very-much-our-intention-to-try-wherever-we-can-to-not-invalidate-old-content/",
       "source": "PC Gamer",
       "published": "Thu, 15 Oct 2026 19:14:30 +0000"
+    },
+    {
+      "title": "LEGO Venetian Neighborhood Set Is Coming in November",
+      "url": "https://www.ign.com/articles/lego-venetian-neighborhood-where-to-buy",
+      "source": "IGN",
+      "published": "Thu, 15 Oct 2026 18:17:55 +0000"
+    },
+    {
+      "title": "Here’s This Week’s Free Game From The Epic Games Store On Mobile",
+      "url": "https://www.gamespot.com/articles/free-games-epic-games-store-mobile/1100-6530257/",
+      "source": "GameSpot",
+      "published": "Fri, 08 May 2026 12:21:00 +0000"
+    },
+    {
+      "title": "DayZ creator Dean Hall says \"our industry is rotting from its core\" because of big-company \"greed\", aiming shots at Epic's Unreal and Unity",
+      "url": "https://www.eurogamer.net/dean-hall-brutal-framework-ksp-epic-unreal-unity",
+      "source": "Eurogamer",
+      "published": "Thu, 15 Oct 2026 13:02:51 +0000"
+    },
+    {
+      "title": "Sony Just Announced a $6,000 Gold-Plated Walkman",
+      "url": "https://www.ign.com/articles/sony-just-announced-a-6000-gold-plated-walkman",
+      "source": "IGN",
+      "published": "Thu, 15 Oct 2026 19:04:29 +0000"
+    },
+    {
+      "title": "Castlevania: Belmont's Curse review - inspired by great ideas, but doomed by questionable execution",
+      "url": "https://www.eurogamer.net/castlevania-belmonts-curse-review",
+      "source": "Eurogamer",
+      "published": "Thu, 15 Oct 2026 13:06:27 +0000"
+    },
+    {
+      "title": "Big Walk developer explains the lack of Xbox version is due to Microsoft's place on the BDS boycott",
+      "url": "https://www.eurogamer.net/big-walk-xbox-version-bds-boycott",
+      "source": "Eurogamer",
+      "published": "Thu, 15 Oct 2026 08:48:27 +0000"
+    },
+    {
+      "title": "GTA 6 squeaks into eligibility for The Game Awards 2026 by the smallest of margins - but can it break Clair Obscur: Expedition 33's record number of wins?",
+      "url": "https://www.eurogamer.net/gta-6-the-game-awards-eligibility-geoff-keighley",
+      "source": "Eurogamer",
+      "published": "Thu, 15 Oct 2026 16:10:34 +0000"
+    },
+    {
+      "title": "Get a Perlegear Full Motion TV Wall Mount for Up to 90\" TVs With 135lb Capacity for Just $33",
+      "url": "https://www.ign.com/articles/perlegear-full-motion-tv-wall-mount-deal-october-2026",
+      "source": "IGN",
+      "published": "Thu, 15 Oct 2026 18:55:00 +0000"
     }
   ]
 }
