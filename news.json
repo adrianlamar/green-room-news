@@ -1,10 +1,46 @@
 {
-  "updated": "2026-10-16T17:28:45.902474+00:00",
+  "updated": "2026-10-16T18:00:08.261015+00:00",
   "articles": [
     {
-      "title": "CoD: Modern Warfare 4 Goes Back To Basic To Properly Finish Its Story",
-      "url": "https://www.gamespot.com/reviews/call-of-duty-modern-warfare-4-campaign-review/",
+      "title": "Analogue is reviving its Mega SG and Super Nt consoles, and they'll play all your old Sega and Nintendo cartridges with some modern enhancements",
+      "url": "https://www.eurogamer.net/analogue-mega-sg-super-nt-plus-revealed",
+      "source": "Eurogamer",
+      "published": "Fri, 16 Oct 2026 17:11:28 +0000"
+    },
+    {
+      "title": "Jagex cancels RuneScape Reignited less than two weeks after it was announced, due to \"a ton\" of player feedback",
+      "url": "https://www.eurogamer.net/runescape-reignited-cancelled-two-weeks-player-feedback",
+      "source": "Eurogamer",
+      "published": "Fri, 16 Oct 2026 09:07:10 +0000"
+    },
+    {
+      "title": "Former Valve writer baffled by Epic CEO Tim Sweeney's attempts to compete with Steam via vibe coding",
+      "url": "https://www.pcgamer.com/software/platforms/little-tim-is-so-obsessed-with-gabe-former-valve-writer-baffled-by-epic-ceo-tim-sweeneys-attempts-to-compete-with-steam-via-vibe-coding/",
+      "source": "PC Gamer",
+      "published": "Fri, 16 Oct 2026 10:52:32 +0000"
+    },
+    {
+      "title": "A Comically On-The-Nose New Title Has Me Even More Excited For This Upcoming Tactics Game",
+      "url": "https://www.gamespot.com/articles/a-comically-on-the-nose-new-title-has-me-even-more-excited-for-this-upcoming-tactics-game/",
       "source": "GameSpot",
+      "published": "Fri, 16 Oct 2026 15:38:26 +0000"
+    },
+    {
+      "title": "Stranger Than Heaven – Act 1: Kokura Story Overview Trailer",
+      "url": "https://www.gamespot.com/videos/stranger-than-heaven-act-1-kokura-story-overview-trailer/",
+      "source": "GameSpot",
+      "published": "Fri, 16 Oct 2026 15:53:43 +0000"
+    },
+    {
+      "title": "Grab the Nightmare on Elm Street 7-Film 4K Collection at a New Low From Amazon Ahead of Halloween",
+      "url": "https://www.ign.com/articles/nightmare-on-elm-street-7-film-4k-collection-new-low-price",
+      "source": "IGN",
+      "published": "Fri, 16 Oct 2026 16:58:09 +0000"
+    },
+    {
+      "title": "Modern Warfare 4 on Switch 2 Is Not The Disaster You’d Imagine",
+      "url": "https://www.ign.com/articles/modern-warfare-4-switch-2-gameplay",
+      "source": "IGN",
       "published": "Fri, 16 Oct 2026 17:00:00 +0000"
     },
     {
@@ -14,28 +50,40 @@
       "published": "Fri, 16 Oct 2026 15:25:08 +0000"
     },
     {
-      "title": "CD Projekt Red says its mysterious Hadar game is its \"biggest project to date\", but even after \"several good years\" it's seemingly a long way off",
-      "url": "https://www.eurogamer.net/cd-projekt-red-project-hadar-sirius-witcher",
-      "source": "Eurogamer",
-      "published": "Fri, 16 Oct 2026 11:09:05 +0000"
-    },
-    {
-      "title": "Get a Switch 2-Ready 512GB MicroSD Express Card for $85",
-      "url": "https://www.ign.com/articles/switch-2-ready-512gb-onn-microsd-express-card-on-sale",
+      "title": "Call of Duty: Modern Warfare 4 - Campaign Review",
+      "url": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-review",
       "source": "IGN",
-      "published": "Fri, 16 Oct 2026 16:30:34 +0000"
-    },
-    {
-      "title": "How Long Is Call Of Duty: Modern Warfare 4’s Campaign?",
-      "url": "https://www.gamespot.com/articles/how-long-is-call-of-duty-modern-warfare-4s-campaign/",
-      "source": "GameSpot",
       "published": "Fri, 16 Oct 2026 17:00:00 +0000"
     },
     {
-      "title": "Stranger Than Heaven – Act 1: Kokura Story Overview Trailer",
-      "url": "https://www.gamespot.com/videos/stranger-than-heaven-act-1-kokura-story-overview-trailer/",
+      "title": "Fortnite is coming to Linux so we may soon be able to play it and other games like Apex Legends on Steam Deck and Steam Machine",
+      "url": "https://www.eurogamer.net/fortnite-linux-easy-anti-cheat-big-development",
+      "source": "Eurogamer",
+      "published": "Fri, 16 Oct 2026 13:46:23 +0000"
+    },
+    {
+      "title": "Linux kernel drops AI-contribution disclosure rule, as Linus Torvalds says banning the tech would be 'utterly stupid'",
+      "url": "https://www.pcgamer.com/software/linux/linux-kernel-drops-ai-contribution-disclosure-rule-as-linus-torvalds-says-banning-the-tech-would-be-utterly-stupid/",
+      "source": "PC Gamer",
+      "published": "Fri, 16 Oct 2026 15:52:39 +0000"
+    },
+    {
+      "title": "The Best Video Game Soundtracks Of 2026 (So Far)",
+      "url": "https://www.gamespot.com/articles/the-best-video-game-soundtracks-of-2026/1100-6538590/",
       "source": "GameSpot",
-      "published": "Fri, 16 Oct 2026 15:53:43 +0000"
+      "published": "Fri, 27 Mar 2026 14:41:00 +0000"
+    },
+    {
+      "title": "Modern Warfare 4 release times and early access explained",
+      "url": "https://www.pcgamer.com/games/call-of-duty/modern-warfare-4-release-date-launch-times-early-access/",
+      "source": "PC Gamer",
+      "published": "Fri, 16 Oct 2026 12:44:53 +0000"
+    },
+    {
+      "title": "Save 35% Off the Logitech G Pro X2 Superstrike Wireless Gaming Mouse With Haptic Inductive Triggers",
+      "url": "https://www.ign.com/articles/logitech-g-pro-x2-superstrike-gaming-mouse-deal-october-2026",
+      "source": "IGN",
+      "published": "Fri, 16 Oct 2026 17:50:00 +0000"
     },
     {
       "title": "My career as a weed farmer was derailed by my unslakeable lust for golf",
@@ -44,10 +92,10 @@
       "published": "Fri, 16 Oct 2026 17:06:21 +0000"
     },
     {
-      "title": "A Comically On-The-Nose New Title Has Me Even More Excited For This Upcoming Tactics Game",
-      "url": "https://www.gamespot.com/articles/a-comically-on-the-nose-new-title-has-me-even-more-excited-for-this-upcoming-tactics-game/",
-      "source": "GameSpot",
-      "published": "Fri, 16 Oct 2026 15:38:26 +0000"
+      "title": "Controversial Battlefield 6 XP changes have been reversed, with Battlefield Studios saying they were \"unintended\"",
+      "url": "https://www.eurogamer.net/battlefield-6-xp-cap-season-5-reverted",
+      "source": "Eurogamer",
+      "published": "Fri, 16 Oct 2026 08:37:38 +0000"
     },
     {
       "title": "Save 50% Off a Rechargeable LED Light Up Mask With 50 Different Effects for Halloween, Now Under $20",
@@ -56,20 +104,8 @@
       "published": "Fri, 16 Oct 2026 16:40:00 +0000"
     },
     {
-      "title": "'Little Tim is so obsessed with Gabe': Former Valve writer baffled by Epic CEO Tim Sweeney's attempts to compete with Steam via vibe coding",
-      "url": "https://www.pcgamer.com/software/platforms/little-tim-is-so-obsessed-with-gabe-former-valve-writer-baffled-by-epic-ceo-tim-sweeneys-attempts-to-compete-with-steam-via-vibe-coding/",
-      "source": "PC Gamer",
-      "published": "Fri, 16 Oct 2026 10:52:32 +0000"
-    },
-    {
-      "title": "VisionQuest Fans Think the MCU Show Is Hiding a Major Character Right Under Their Noses",
-      "url": "https://www.ign.com/articles/visionquest-fans-think-the-mcu-show-is-hiding-a-major-character-right-under-their-noses",
-      "source": "IGN",
-      "published": "Fri, 16 Oct 2026 15:56:53 +0000"
-    },
-    {
-      "title": "Modern Warfare 4 Campaign Review: A High Price For Revenge",
-      "url": "https://www.gamespot.com/videos/modern-warfare-4-campaign-review-a-high-price-for-revenge/",
+      "title": "CoD: Modern Warfare 4 Goes Back To Basic To Properly Finish Its Story",
+      "url": "https://www.gamespot.com/reviews/call-of-duty-modern-warfare-4-campaign-review/",
       "source": "GameSpot",
       "published": "Fri, 16 Oct 2026 17:00:00 +0000"
     },
@@ -80,94 +116,22 @@
       "published": "Fri, 16 Oct 2026 15:48:04 +0000"
     },
     {
-      "title": "Elon Musk's Tesla Flying Car Reveal Met With Mix of Astonishment and Skepticism",
-      "url": "https://www.ign.com/articles/elon-musks-tesla-flying-car-reveal-met-with-mix-of-astonishment-and-skepticism",
+      "title": "James McAvoy Reveals He Once Pitched a Young Picard Star Trek Show",
+      "url": "https://www.ign.com/articles/james-mcavoy-reveals-he-once-pitched-a-young-picard-star-trek-show",
       "source": "IGN",
-      "published": "Fri, 16 Oct 2026 15:49:19 +0000"
+      "published": "Fri, 16 Oct 2026 17:26:31 +0000"
     },
     {
-      "title": "Semifinals: The brutal war to determine the best RTS unit of all time needs your votes",
-      "url": "https://www.pcgamer.com/games/rts/semifinals-the-brutal-war-to-determine-the-best-rts-unit-of-all-time-needs-your-votes/",
-      "source": "PC Gamer",
-      "published": "Fri, 16 Oct 2026 10:44:42 +0000"
-    },
-    {
-      "title": "Preorder the SteelSeries Sensei Pro and Rival Pro 8K Gaming Mice With Unlimited Battery Life",
-      "url": "https://www.ign.com/articles/preorder-the-steelseries-new-sensei-pro-and-rival-pro-gaming-mice",
+      "title": "‘It Was an Unofficial Goal of the Team to Be Banned, Unrated, or Restricted’ – How Hellraiser: Revival Expands Cenobite Lore While Staying True to Clive Barker",
+      "url": "https://www.ign.com/articles/it-was-an-unofficial-goal-of-the-team-to-be-banned-unrated-or-restricted-how-hellraiser-revival-expands-cenobite-lore-while-staying-true-to-clive-barker",
       "source": "IGN",
-      "published": "Fri, 16 Oct 2026 16:15:00 +0000"
-    },
-    {
-      "title": "Analogue is reviving its Mega SG and Super Nt consoles, and they'll play all your old Sega and Nintendo cartridges with some modern enhancements",
-      "url": "https://www.eurogamer.net/analogue-mega-sg-super-nt-plus-revealed",
-      "source": "Eurogamer",
-      "published": "Fri, 16 Oct 2026 17:11:28 +0000"
-    },
-    {
-      "title": "Save $40 Off Microsoft's Professional-Grade Xbox Elite Series 2 Core Wireless Controller",
-      "url": "https://www.ign.com/articles/xbox-elite-controller-deal-october-2026",
-      "source": "IGN",
-      "published": "Fri, 16 Oct 2026 16:20:00 +0000"
-    },
-    {
-      "title": "The Best Video Game Soundtracks Of 2026 (So Far)",
-      "url": "https://www.gamespot.com/articles/the-best-video-game-soundtracks-of-2026/1100-6538590/",
-      "source": "GameSpot",
-      "published": "Fri, 27 Mar 2026 14:41:00 +0000"
-    },
-    {
-      "title": "Wardogs devs rush to fix XP exploit allowing players to quickly unlock tanks and stomp competition on Season 2's first day",
-      "url": "https://www.eurogamer.net/wardogs-driver-xp-exploit-season-2-tanks",
-      "source": "Eurogamer",
-      "published": "Fri, 16 Oct 2026 13:41:05 +0000"
-    },
-    {
-      "title": "Don't Miss Out on Amazon's Fall Audible Deal: Pay $0.99 Per Month Plus Get $20 Credit",
-      "url": "https://www.ign.com/articles/amazon-audible-deal-october-2026",
-      "source": "IGN",
-      "published": "Fri, 16 Oct 2026 16:10:00 +0000"
-    },
-    {
-      "title": "Call of Duty: Modern Warfare 4 review-in-progress: A campaign you shouldn't skip",
-      "url": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-modern-warfare-4-review-in-progress-a-campaign-you-shouldnt-skip/",
-      "source": "PC Gamer",
       "published": "Fri, 16 Oct 2026 17:00:00 +0000"
     },
     {
-      "title": "Linux kernel drops AI-contribution disclosure rule, as Linus Torvalds says banning the tech would be 'utterly stupid'",
-      "url": "https://www.pcgamer.com/software/linux/linux-kernel-drops-ai-contribution-disclosure-rule-as-linus-torvalds-says-banning-the-tech-would-be-utterly-stupid/",
-      "source": "PC Gamer",
-      "published": "Fri, 16 Oct 2026 15:52:39 +0000"
-    },
-    {
-      "title": "Apparent Leaked Footage Shows Canceled Assassin's Creed Game Set in Qin Dynasty China",
-      "url": "https://www.ign.com/articles/assassins-creed-destiny-leak",
-      "source": "IGN",
-      "published": "Fri, 16 Oct 2026 15:56:14 +0000"
-    },
-    {
-      "title": "Modern Warfare 4 release times and early access explained",
-      "url": "https://www.pcgamer.com/games/call-of-duty/modern-warfare-4-release-date-launch-times-early-access/",
-      "source": "PC Gamer",
-      "published": "Fri, 16 Oct 2026 12:44:53 +0000"
-    },
-    {
-      "title": "Control Resonant becomes the fastest-selling game in Remedy's history, outpacing Alan Wake 2 and the original Control",
-      "url": "https://www.eurogamer.net/control-resonant-sales-remedy-entertainment",
+      "title": "11 games and announcements that got us excited in the latest Galaxies Showcase",
+      "url": "https://www.eurogamer.net/galaxies-showcase-2026-games-roundup",
       "source": "Eurogamer",
-      "published": "Fri, 16 Oct 2026 11:00:24 +0000"
-    },
-    {
-      "title": "Subnautica 2 – “The Voyage to Early Access 2 Begins” Overview Trailer",
-      "url": "https://www.gamespot.com/videos/subnautica-2-the-voyage-to-early-access-2-begins-overview-trailer/",
-      "source": "GameSpot",
-      "published": "Fri, 16 Oct 2026 15:53:40 +0000"
-    },
-    {
-      "title": "Jagex cancels RuneScape Reignited less than two weeks after it was announced, due to \"a ton\" of player feedback",
-      "url": "https://www.eurogamer.net/runescape-reignited-cancelled-two-weeks-player-feedback",
-      "source": "Eurogamer",
-      "published": "Fri, 16 Oct 2026 09:07:10 +0000"
+      "published": "Fri, 16 Oct 2026 15:04:58 +0000"
     },
     {
       "title": "Asus not only replaced an RTX 4080 Super with an RTX 5080 but also swapped it *again* just to give this lucky Redditor one that matches their all-white build",
@@ -176,10 +140,46 @@
       "published": "Fri, 16 Oct 2026 16:29:30 +0000"
     },
     {
-      "title": "11 games and announcements that got us excited in the latest Galaxies Showcase",
-      "url": "https://www.eurogamer.net/galaxies-showcase-2026-games-roundup",
+      "title": "Subnautica 2 – “The Voyage to Early Access 2 Begins” Overview Trailer",
+      "url": "https://www.gamespot.com/videos/subnautica-2-the-voyage-to-early-access-2-begins-overview-trailer/",
+      "source": "GameSpot",
+      "published": "Fri, 16 Oct 2026 15:53:40 +0000"
+    },
+    {
+      "title": "Nvidia App Update Adds Support For Agent Control, But Some Users are Warning to Turn it Off",
+      "url": "https://www.ign.com/articles/nvidia-app-update-adds-support-for-agent-control-but-some-users-are-warning-to-turn-it-off",
+      "source": "IGN",
+      "published": "Fri, 16 Oct 2026 17:56:32 +0000"
+    },
+    {
+      "title": "Wardogs devs rush to fix XP exploit allowing players to quickly unlock tanks and stomp competition on Season 2's first day",
+      "url": "https://www.eurogamer.net/wardogs-driver-xp-exploit-season-2-tanks",
       "source": "Eurogamer",
-      "published": "Fri, 16 Oct 2026 15:04:58 +0000"
+      "published": "Fri, 16 Oct 2026 13:41:05 +0000"
+    },
+    {
+      "title": "CD Projekt Red says its mysterious Hadar game is its \"biggest project to date\", but even after \"several good years\" it's seemingly a long way off",
+      "url": "https://www.eurogamer.net/cd-projekt-red-project-hadar-sirius-witcher",
+      "source": "Eurogamer",
+      "published": "Fri, 16 Oct 2026 11:09:05 +0000"
+    },
+    {
+      "title": "Call of Duty: Modern Warfare 4 review-in-progress: A campaign you shouldn't skip",
+      "url": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-modern-warfare-4-review-in-progress-a-campaign-you-shouldnt-skip/",
+      "source": "PC Gamer",
+      "published": "Fri, 16 Oct 2026 17:00:00 +0000"
+    },
+    {
+      "title": "How Long Is Call Of Duty: Modern Warfare 4’s Campaign?",
+      "url": "https://www.gamespot.com/articles/how-long-is-call-of-duty-modern-warfare-4s-campaign/",
+      "source": "GameSpot",
+      "published": "Fri, 16 Oct 2026 17:00:00 +0000"
+    },
+    {
+      "title": "Modern Warfare 4 Campaign Review: A High Price For Revenge",
+      "url": "https://www.gamespot.com/videos/modern-warfare-4-campaign-review-a-high-price-for-revenge/",
+      "source": "GameSpot",
+      "published": "Fri, 16 Oct 2026 17:00:00 +0000"
     }
   ]
 }
