@@ -1,29 +1,11 @@
 {
-  "updated": "2026-10-17T18:27:07.799079+00:00",
+  "updated": "2026-10-17T18:59:01.947276+00:00",
   "articles": [
     {
-      "title": "Funcom is laying off yet more developers as it pivots to supporting Dune: Awakening and Conan Exiles",
-      "url": "https://www.pcgamer.com/gaming-industry/funcom-is-laying-off-yet-more-developers-as-it-pivots-to-supporting-dune-awakening-and-conan-exiles/",
-      "source": "PC Gamer",
-      "published": "Sat, 17 Oct 2026 10:32:05 +0000"
-    },
-    {
-      "title": "Steam's Achievement Sets beta aims to stop new content breaking your completion status",
-      "url": "https://www.eurogamer.net/steam-achievement-sets-beta",
-      "source": "Eurogamer",
-      "published": "Sat, 17 Oct 2026 13:12:01 +0000"
-    },
-    {
-      "title": "[UPDATE] Super Smash Bros. Player Mew2King Responds After Tournament Bans Him Over Bug Bite Concerns",
-      "url": "https://www.ign.com/articles/super-smash-bros-player-mew2king-banned-from-tournament-after-bug-bites-spark-health-concerns",
-      "source": "IGN",
-      "published": "Fri, 16 Oct 2026 21:54:09 +0000"
-    },
-    {
-      "title": "We Sat Down with D&D Game Designer James Wyatt to Talk Dungeons & Dragons: World of Warcraft",
-      "url": "https://www.ign.com/articles/we-sat-down-with-dd-game-designer-james-wyatt-to-talk-dungeons-and-dragons-world-of-warcraft",
-      "source": "IGN",
-      "published": "Sat, 17 Oct 2026 13:00:00 +0000"
+      "title": "All The Records GTA 6 Will Break, We Think",
+      "url": "https://www.gamespot.com/articles/all-the-records-gta-6-will-break-we-think/",
+      "source": "GameSpot",
+      "published": "Fri, 16 Oct 2026 20:27:22 +0000"
     },
     {
       "title": "Red Rising Greenlit for Movie Adaptation With Author Pierce Brown to Produce",
@@ -32,10 +14,10 @@
       "published": "Fri, 16 Oct 2026 23:08:54 +0000"
     },
     {
-      "title": "To help America, I used Crusader Kings 3 to figure out how to remove a doddering, senile lunatic from power",
-      "url": "https://www.pcgamer.com/games/strategy/to-help-america-i-used-crusader-kings-3-to-figure-out-how-to-remove-a-doddering-senile-lunatic-from-power/",
-      "source": "PC Gamer",
-      "published": "Sat, 17 Oct 2026 18:00:00 +0000"
+      "title": "Analogue is reviving its Mega SG and Super Nt consoles, and they'll play all your old Sega and Nintendo cartridges with some modern enhancements",
+      "url": "https://www.eurogamer.net/analogue-mega-sg-super-nt-plus-revealed",
+      "source": "Eurogamer",
+      "published": "Fri, 16 Oct 2026 17:11:28 +0000"
     },
     {
       "title": "Silver Pines Is A 2D Silent Hill Meets Alan Wake, And It Even Scares Me At Its Lowest Price",
@@ -44,16 +26,76 @@
       "published": "Sat, 17 Oct 2026 12:00:00 +0000"
     },
     {
-      "title": "James Gunn Shoots Down Milly Alcock Supergirl Rumors, Shares Man of Tomorrow Update",
-      "url": "https://www.ign.com/articles/james-gunn-shoots-down-milly-alcock-supergirl-rumors-shares-man-of-tomorrow-update",
-      "source": "IGN",
-      "published": "Fri, 16 Oct 2026 22:48:07 +0000"
+      "title": "Developer cancels public demo of its upcoming horror drinking game, fearing it will be instantly cloned by AI vibe coders: 'We sincerely apologise for the short notice'",
+      "url": "https://www.pcgamer.com/gaming-industry/game-development/developer-cancels-public-demo-of-its-upcoming-horror-drinking-game-fearing-it-will-be-instantly-cloned-by-ai-vibe-coders-we-sincerely-apologise-for-the-short-notice/",
+      "source": "PC Gamer",
+      "published": "Sat, 17 Oct 2026 12:04:00 +0000"
     },
     {
-      "title": "Art of Rally follow-up Over the Hill's biggest success is finding a way to be a driving game that asks you to take it slow",
-      "url": "https://www.eurogamer.net/over-the-hill-now-playing",
+      "title": "You Can Play WoW: Forever For Free Next Week (But There’s A Catch)",
+      "url": "https://www.gamespot.com/articles/you-can-play-wow-forever-for-free-next-week-but-theres-a-catch/",
+      "source": "GameSpot",
+      "published": "Fri, 16 Oct 2026 18:45:44 +0000"
+    },
+    {
+      "title": "To help America, I used Crusader Kings 3 to figure out how to remove a doddering, senile lunatic from power",
+      "url": "https://www.pcgamer.com/games/strategy/to-help-america-i-used-crusader-kings-3-to-figure-out-how-to-remove-a-doddering-senile-lunatic-from-power/",
+      "source": "PC Gamer",
+      "published": "Sat, 17 Oct 2026 18:00:00 +0000"
+    },
+    {
+      "title": "7 Crazy Movie Premises That Actually Worked",
+      "url": "https://www.ign.com/articles/crazy-movie-premises-that-actually-worked",
+      "source": "IGN",
+      "published": "Sat, 17 Oct 2026 13:00:00 +0000"
+    },
+    {
+      "title": "No Publisher Wanted Outlast. 60 Million Players Later, The Horror Juggernaut Is Doing Just Fine.",
+      "url": "https://www.gamespot.com/articles/no-publisher-wanted-outlast-60-million-players-later-the-horror-juggernaut-is-doing-just-fine/",
+      "source": "GameSpot",
+      "published": "Sat, 17 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "title": "'I am overwhelmed and overstimulated': The actor behind Star Wars: Galactic Racer’s Biddy Blas is scribbing doon all your enthusiasm",
+      "url": "https://www.pcgamer.com/games/racing/i-am-overwhelmed-and-overstimulated-the-actor-behind-star-wars-galactic-racers-biddy-blas-is-scribbing-doon-all-your-enthusiasm/",
+      "source": "PC Gamer",
+      "published": "Sat, 17 Oct 2026 18:34:02 +0000"
+    },
+    {
+      "title": "Ghostwire: Tokyo joins GOG Preservation Program, which means you don't have to deal with Bethesda.NET anymore",
+      "url": "https://www.pcgamer.com/games/action/ghostwire-tokyo-joins-gog-preservation-program-which-means-you-dont-have-to-deal-with-bethesda-net-anymore/",
+      "source": "PC Gamer",
+      "published": "Sat, 17 Oct 2026 15:45:38 +0000"
+    },
+    {
+      "title": "2027 Upcoming Games Release Schedule",
+      "url": "https://www.gamespot.com/articles/2027-upcoming-games-release-schedule/",
+      "source": "GameSpot",
+      "published": "Thu, 17 Sep 2026 17:34:25 +0000"
+    },
+    {
+      "title": "FF7 Revelation’s Opening Invites Deeply Intriguing Questions About The Trilogy’s Conclusion – Preview",
+      "url": "https://www.gamespot.com/videos/ff7-revelations-opening-invites-deeply-intriguing-questions-about-the-trilogys-conclusion-preview/",
+      "source": "GameSpot",
+      "published": "Fri, 16 Oct 2026 23:00:00 +0000"
+    },
+    {
+      "title": "Gameplay footage emerges of reportedly cancelled Assassin's Creed game Destiny",
+      "url": "https://www.eurogamer.net/assassins-creed-destiny-cancelled-gameplay-footage-timi-tencent",
       "source": "Eurogamer",
-      "published": "Sat, 17 Oct 2026 09:00:00 +0000"
+      "published": "Sat, 17 Oct 2026 12:39:42 +0000"
+    },
+    {
+      "title": "We Sat Down with D&D Game Designer James Wyatt to Talk Dungeons & Dragons: World of Warcraft",
+      "url": "https://www.ign.com/articles/we-sat-down-with-dd-game-designer-james-wyatt-to-talk-dungeons-and-dragons-world-of-warcraft",
+      "source": "IGN",
+      "published": "Sat, 17 Oct 2026 13:00:00 +0000"
+    },
+    {
+      "title": "Sega pulls Total War: Shogun 2 - Complete Edition from sale amid AI accusations, admitting it has \"fallen short\"",
+      "url": "https://www.eurogamer.net/total-war-shogun-2-complete-edition-pulled-from-sale",
+      "source": "Eurogamer",
+      "published": "Sat, 17 Oct 2026 17:28:08 +0000"
     },
     {
       "title": "The Blood of Dawnwalker Update 1.1 adds an easier Story mode, a respec potion and animal petting",
@@ -68,88 +110,16 @@
       "published": "Sat, 17 Oct 2026 13:53:20 +0000"
     },
     {
-      "title": "Developer cancels public demo of its upcoming horror drinking game, fearing it will be instantly cloned by AI vibe coders: 'We sincerely apologise for the short notice'",
-      "url": "https://www.pcgamer.com/gaming-industry/game-development/developer-cancels-public-demo-of-its-upcoming-horror-drinking-game-fearing-it-will-be-instantly-cloned-by-ai-vibe-coders-we-sincerely-apologise-for-the-short-notice/",
-      "source": "PC Gamer",
-      "published": "Sat, 17 Oct 2026 12:04:00 +0000"
-    },
-    {
-      "title": "Street Fighter: How Can There Be an Ending Explained When There Is No Ending?",
-      "url": "https://www.ign.com/articles/street-fighter-how-can-there-be-an-ending-explained-when-there-is-no-ending",
+      "title": "James Gunn Shoots Down Milly Alcock Supergirl Rumors, Shares Man of Tomorrow Update",
+      "url": "https://www.ign.com/articles/james-gunn-shoots-down-milly-alcock-supergirl-rumors-shares-man-of-tomorrow-update",
       "source": "IGN",
-      "published": "Fri, 16 Oct 2026 21:38:55 +0000"
+      "published": "Fri, 16 Oct 2026 22:48:07 +0000"
     },
     {
-      "title": "2027 Upcoming Games Release Schedule",
-      "url": "https://www.gamespot.com/articles/2027-upcoming-games-release-schedule/",
-      "source": "GameSpot",
-      "published": "Thu, 17 Sep 2026 17:34:25 +0000"
-    },
-    {
-      "title": "11 games and announcements that got us excited in the latest Galaxies Showcase",
-      "url": "https://www.eurogamer.net/galaxies-showcase-2026-games-roundup",
+      "title": "Steam's Achievement Sets beta aims to stop new content breaking your completion status",
+      "url": "https://www.eurogamer.net/steam-achievement-sets-beta",
       "source": "Eurogamer",
-      "published": "Fri, 16 Oct 2026 15:04:58 +0000"
-    },
-    {
-      "title": "Analogue is reviving its Mega SG and Super Nt consoles, and they'll play all your old Sega and Nintendo cartridges with some modern enhancements",
-      "url": "https://www.eurogamer.net/analogue-mega-sg-super-nt-plus-revealed",
-      "source": "Eurogamer",
-      "published": "Fri, 16 Oct 2026 17:11:28 +0000"
-    },
-    {
-      "title": "FF7 Revelation’s Opening Invites Deeply Intriguing Questions About The Trilogy’s Conclusion – Preview",
-      "url": "https://www.gamespot.com/videos/ff7-revelations-opening-invites-deeply-intriguing-questions-about-the-trilogys-conclusion-preview/",
-      "source": "GameSpot",
-      "published": "Fri, 16 Oct 2026 23:00:00 +0000"
-    },
-    {
-      "title": "You Can Play WoW: Forever For Free Next Week (But There’s A Catch)",
-      "url": "https://www.gamespot.com/articles/you-can-play-wow-forever-for-free-next-week-but-theres-a-catch/",
-      "source": "GameSpot",
-      "published": "Fri, 16 Oct 2026 18:45:44 +0000"
-    },
-    {
-      "title": "What we've been playing -  \"I simply didn't know if a first-person shooter could work as a Soulslike\"",
-      "url": "https://www.eurogamer.net/what-weve-been-plaing-guns-of-eschaton-ftl-marvel-cosmic-invasion",
-      "source": "Eurogamer",
-      "published": "Sat, 17 Oct 2026 07:00:00 +0000"
-    },
-    {
-      "title": "Ghostwire: Tokyo joins GOG Preservation Program, which means you don't have to deal with Bethesda.NET anymore",
-      "url": "https://www.pcgamer.com/games/action/ghostwire-tokyo-joins-gog-preservation-program-which-means-you-dont-have-to-deal-with-bethesda-net-anymore/",
-      "source": "PC Gamer",
-      "published": "Sat, 17 Oct 2026 15:45:38 +0000"
-    },
-    {
-      "title": "Surprising no-one, Wizards of the Coast 'doesn't intend to voluntarily recognize' union efforts for the second time this year",
-      "url": "https://www.pcgamer.com/gaming-industry/surprising-no-one-wizards-of-the-coast-doesnt-intend-to-voluntarily-recognize-union-efforts-for-the-second-time-this-year/",
-      "source": "PC Gamer",
-      "published": "Sat, 17 Oct 2026 17:00:00 +0000"
-    },
-    {
-      "title": "Discussion time: Do you think zone chats in MMOs are forces for good, or evil?",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/discussion-time-do-you-think-zone-chats-in-mmos-are-forces-for-good-or-evil/",
-      "source": "PC Gamer",
-      "published": "Sat, 17 Oct 2026 17:00:00 +0000"
-    },
-    {
-      "title": "Gameplay footage emerges of reportedly cancelled Assassin's Creed game Destiny",
-      "url": "https://www.eurogamer.net/assassins-creed-destiny-cancelled-gameplay-footage-timi-tencent",
-      "source": "Eurogamer",
-      "published": "Sat, 17 Oct 2026 12:39:42 +0000"
-    },
-    {
-      "title": "Captain Price Actor Sends Message to Fans as Call of Duty: Modern Warfare 4 Campaign Praise Rolls in",
-      "url": "https://www.ign.com/articles/captain-price-actor-sends-message-to-fans-as-call-of-duty-modern-warfare-4-campaign-praise-rolls-in",
-      "source": "IGN",
-      "published": "Sat, 17 Oct 2026 15:52:41 +0000"
-    },
-    {
-      "title": "The Street Fighter Movie Makes a Mistake Mortal Kombat Already Learned From",
-      "url": "https://www.ign.com/articles/the-street-fighter-movie-makes-a-mistake-mortal-kombat-already-learned-from",
-      "source": "IGN",
-      "published": "Sat, 17 Oct 2026 12:00:00 +0000"
+      "published": "Sat, 17 Oct 2026 13:12:01 +0000"
     },
     {
       "title": "This game about grinding mute lumps of shapeless flesh has made me realise I've been hornswoggled by capitalism",
@@ -158,10 +128,22 @@
       "published": "Sat, 17 Oct 2026 16:00:00 +0000"
     },
     {
-      "title": "7 Crazy Movie Premises That Actually Worked",
-      "url": "https://www.ign.com/articles/crazy-movie-premises-that-actually-worked",
+      "title": "Street Fighter: How Can There Be an Ending Explained When There Is No Ending?",
+      "url": "https://www.ign.com/articles/street-fighter-how-can-there-be-an-ending-explained-when-there-is-no-ending",
       "source": "IGN",
-      "published": "Sat, 17 Oct 2026 13:00:00 +0000"
+      "published": "Fri, 16 Oct 2026 21:38:55 +0000"
+    },
+    {
+      "title": "Captain Price Actor Sends Message to Fans as Call of Duty: Modern Warfare 4 Campaign Praise Rolls in",
+      "url": "https://www.ign.com/articles/captain-price-actor-sends-message-to-fans-as-call-of-duty-modern-warfare-4-campaign-praise-rolls-in",
+      "source": "IGN",
+      "published": "Sat, 17 Oct 2026 15:52:41 +0000"
+    },
+    {
+      "title": "What we've been playing -  \"I simply didn't know if a first-person shooter could work as a Soulslike\"",
+      "url": "https://www.eurogamer.net/what-weve-been-plaing-guns-of-eschaton-ftl-marvel-cosmic-invasion",
+      "source": "Eurogamer",
+      "published": "Sat, 17 Oct 2026 07:00:00 +0000"
     },
     {
       "title": "Every Grand Theft Auto VI (GTA 6) Trailer",
@@ -170,16 +152,34 @@
       "published": "Sat, 17 Oct 2026 15:00:00 +0000"
     },
     {
+      "title": "Art of Rally follow-up Over the Hill's biggest success is finding a way to be a driving game that asks you to take it slow",
+      "url": "https://www.eurogamer.net/over-the-hill-now-playing",
+      "source": "Eurogamer",
+      "published": "Sat, 17 Oct 2026 09:00:00 +0000"
+    },
+    {
       "title": "It’s Time For Epic Games And Its CEO To Touch Grass",
       "url": "https://www.gamespot.com/articles/its-time-for-epic-games-and-its-ceo-to-touch-grass/",
       "source": "GameSpot",
       "published": "Sat, 17 Oct 2026 12:00:00 +0000"
     },
     {
-      "title": "Sega pulls Total War: Shogun 2 - Complete Edition from sale amid AI accusations, admitting it has \"fallen short\"",
-      "url": "https://www.eurogamer.net/total-war-shogun-2-complete-edition-pulled-from-sale",
+      "title": "Vampire: The Masquerade - Bloodlines remaster rumoured, with leaker insisting it's not a remake",
+      "url": "https://www.eurogamer.net/vampire-the-masquerade-bloodlines-remaster-rumour",
       "source": "Eurogamer",
-      "published": "Sat, 17 Oct 2026 17:28:08 +0000"
+      "published": "Sat, 17 Oct 2026 18:28:40 +0000"
+    },
+    {
+      "title": "[UPDATE] Super Smash Bros. Player Mew2King Responds After Tournament Bans Him Over Bug Bite Concerns",
+      "url": "https://www.ign.com/articles/super-smash-bros-player-mew2king-banned-from-tournament-after-bug-bites-spark-health-concerns",
+      "source": "IGN",
+      "published": "Fri, 16 Oct 2026 21:54:09 +0000"
+    },
+    {
+      "title": "The Street Fighter Movie Makes a Mistake Mortal Kombat Already Learned From",
+      "url": "https://www.ign.com/articles/the-street-fighter-movie-makes-a-mistake-mortal-kombat-already-learned-from",
+      "source": "IGN",
+      "published": "Sat, 17 Oct 2026 12:00:00 +0000"
     }
   ]
 }
