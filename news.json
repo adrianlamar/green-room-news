@@ -1,131 +1,11 @@
 {
-  "updated": "2026-10-20T12:01:58.093958+00:00",
+  "updated": "2026-10-20T12:37:44.087908+00:00",
   "articles": [
-    {
-      "title": "Intel bringing faster upscaler to Valve's Proton - XMX accelerated XeSS could come to SteamOS in boost to future Intel-powered handheld gaming PCs",
-      "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/intel-bringing-faster-upscaler-to-valves-proton-xmx-accelerated-xess-could-come-to-steamos-in-boost-to-future-intel-powered-handheld-gaming-pcs/",
-      "source": "PC Gamer",
-      "published": "Tue, 20 Oct 2026 09:57:43 +0000"
-    },
-    {
-      "title": "How To Pass The Judge’s Test In Castlevania: Belmont’s Curse",
-      "url": "https://www.gamespot.com/articles/how-to-pass-the-judges-test-in-castlevania-belmonts-curse/",
-      "source": "GameSpot",
-      "published": "Tue, 20 Oct 2026 08:14:09 +0000"
-    },
-    {
-      "title": "New Steam Deck plugin means you can customise your Steam Achievement pop-ups to match Xbox, PlayStation, Nintendo, or anything your heart desires",
-      "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/new-steam-deck-plugin-means-you-can-customise-your-steam-achievement-pop-ups-to-match-xbox-playstation-nintendo-or-anything-your-heart-desires/",
-      "source": "PC Gamer",
-      "published": "Tue, 20 Oct 2026 09:38:16 +0000"
-    },
-    {
-      "title": "\"This act is intended to demonstrate solidarity with Palestine\" - Umurangi Generation studio blocks new game Penguin Colony from being sold in Israel",
-      "url": "https://www.eurogamer.net/umurangi-generation-studio-blocks-penguin-colony-sale-in-isreal-pro-palestine",
-      "source": "Eurogamer",
-      "published": "Tue, 20 Oct 2026 08:49:14 +0000"
-    },
-    {
-      "title": "How To Get The New Morphed Deviations In Once Human: Isles of Abyss",
-      "url": "https://www.gamespot.com/articles/once-human-isles-of-abyss-morphed-deviations-how-to-get/",
-      "source": "GameSpot",
-      "published": "Tue, 20 Oct 2026 08:09:15 +0000"
-    },
-    {
-      "title": "Cyberpunk: Edgerunners Season 2 Mirrors The First Season, But With One Major Difference",
-      "url": "https://www.gamespot.com/articles/cyberpunk-edgerunners-season-2-mirrors-the-first-season-but-with-one-major-difference/",
-      "source": "GameSpot",
-      "published": "Tue, 20 Oct 2026 10:35:00 +0000"
-    },
-    {
-      "title": "Final Fantasy 7 Revelation's Hard Mode is available from the start this time, so you won't need to replay the mammoth RPG to get to the good stuff",
-      "url": "https://www.eurogamer.net/final-fantasy-7-revelation-hard-mode-start-replay-rpg",
-      "source": "Eurogamer",
-      "published": "Mon, 19 Oct 2026 18:27:17 +0000"
-    },
-    {
-      "title": "Cyberpunk 2077 Gets Surprise Official New Update Announcement From CD Projekt",
-      "url": "https://www.ign.com/articles/cyberpunk-2077-gets-surprise-official-new-update-announcement-from-cd-projekt",
-      "source": "IGN",
-      "published": "Tue, 20 Oct 2026 10:16:58 +0000"
-    },
-    {
-      "title": "Umamusume: Pretty Derby Los Angeles concert cancelled last minute due to US visa issues, despite exploring \"every possible option\"",
-      "url": "https://www.eurogamer.net/umamusume-pretty-derby-la-concert-cancelled-visa-issues",
-      "source": "Eurogamer",
-      "published": "Tue, 20 Oct 2026 09:00:11 +0000"
-    },
-    {
-      "title": "Everything New In The Once Human Isles Of Abyss Scenario",
-      "url": "https://www.gamespot.com/articles/once-human-isles-of-abyss-everything-new-added/",
-      "source": "GameSpot",
-      "published": "Tue, 20 Oct 2026 08:05:12 +0000"
-    },
     {
       "title": "GTA 6 is so detailed no single Rockstar employee knows it all - which is how we got shrinking horse testicles in Red Dead Redemption 2",
       "url": "https://www.eurogamer.net/red-dead-redemption-2-horse-testicles-staff-autonomy-gta-6",
       "source": "Eurogamer",
       "published": "Tue, 20 Oct 2026 11:20:20 +0000"
-    },
-    {
-      "title": "How To Survive Haywire Zones In Once Human: Isles Of Abyss",
-      "url": "https://www.gamespot.com/articles/once-human-isles-of-abyss-how-to-survive-haywire-zones-environmental-crises/",
-      "source": "GameSpot",
-      "published": "Tue, 20 Oct 2026 08:07:14 +0000"
-    },
-    {
-      "title": "Xbox 'Business Strategist' Claims Video Game Industry Is 'Pretending to Not Use AI,' Deletes Twitter Account After Deluge of Replies",
-      "url": "https://www.ign.com/articles/xbox-business-strategist-claims-video-game-industry-is-pretending-to-not-use-ai-deletes-twitter-account-after-deluge-of-replies",
-      "source": "IGN",
-      "published": "Tue, 20 Oct 2026 09:30:25 +0000"
-    },
-    {
-      "title": "Disney Will Air a Real-Time, Animated Version of the 2027 Super Bowl Set in the Star Wars Universe",
-      "url": "https://www.ign.com/articles/disney-will-air-a-real-time-animated-version-of-the-2027-super-bowl-set-in-the-star-wars-universe",
-      "source": "IGN",
-      "published": "Tue, 20 Oct 2026 05:10:45 +0000"
-    },
-    {
-      "title": "The Mafia Trilogy Has Hit Its Lowest Price, And You’d Be A Fool To Refuse",
-      "url": "https://www.gamespot.com/articles/the-mafia-trilogy-has-hit-its-lowest-price-and-youd-be-a-fool-to-refuse/",
-      "source": "GameSpot",
-      "published": "Tue, 20 Oct 2026 08:23:07 +0000"
-    },
-    {
-      "title": "This sound library catalogues 100 different keyboard switches, is dangerous for my wallet, and also has… live service game mechanics?",
-      "url": "https://www.pcgamer.com/hardware/gaming-keyboards/this-sound-library-catalogues-100-different-keyboard-switches-is-dangerous-for-my-wallet-and-also-has-live-service-game-mechanics/",
-      "source": "PC Gamer",
-      "published": "Tue, 20 Oct 2026 11:07:14 +0000"
-    },
-    {
-      "title": "The best Enshrouded base locations for picturesque vistas or strategic strongholds",
-      "url": "https://www.pcgamer.com/games/survival-crafting/enshrouded-base-locations/",
-      "source": "PC Gamer",
-      "published": "Tue, 20 Oct 2026 05:36:16 +0000"
-    },
-    {
-      "title": "European age-ratings body PEGI begins raising age-limit of loot box games, like EA Sports FC, to 16",
-      "url": "https://www.eurogamer.net/pegi-age-ratings-16-loot-boxes-digital-only",
-      "source": "Eurogamer",
-      "published": "Tue, 20 Oct 2026 11:43:36 +0000"
-    },
-    {
-      "title": "Call of Duty: Modern Warfare 4 Pop-Up: The DMZ Has Never Been This Much Fun",
-      "url": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-pop-up-the-dmz-has-never-been-this-much-fun",
-      "source": "IGN",
-      "published": "Tue, 20 Oct 2026 01:24:23 +0000"
-    },
-    {
-      "title": "TP-Link says it will start making Wi-Fi 8 routers in the US, dodging government soft ban in one easy step",
-      "url": "https://www.pcgamer.com/hardware/networking/chinese-company-tp-link-says-it-will-start-making-wi-fi-8-routers-in-the-us-dodging-government-soft-ban-in-one-easy-step/",
-      "source": "PC Gamer",
-      "published": "Tue, 20 Oct 2026 10:13:24 +0000"
-    },
-    {
-      "title": "Moonlighter studio won't host a public playtest of its next game due to rampant AI-led cloning: 'We know we're not the only developers feeling this way'",
-      "url": "https://www.pcgamer.com/gaming-industry/moonlighter-studio-wont-host-a-public-playtest-of-its-next-game-due-to-rampant-ai-led-cloning-we-know-were-not-the-only-developers-feeling-this-way/",
-      "source": "PC Gamer",
-      "published": "Mon, 19 Oct 2026 23:33:09 +0000"
     },
     {
       "title": "Bungie plans to share first details about surprise 'unvaulting' of Destiny 2 content soon",
@@ -134,10 +14,40 @@
       "published": "Tue, 20 Oct 2026 10:54:59 +0000"
     },
     {
-      "title": "Save $40 Off Microsoft's Professional-Grade Xbox Elite Series 2 Core Wireless Controller",
-      "url": "https://www.ign.com/articles/xbox-elite-controller-deal-october-2026",
+      "title": "Umamusume: Pretty Derby Los Angeles concert cancelled last minute due to US visa issues, despite exploring \"every possible option\"",
+      "url": "https://www.eurogamer.net/umamusume-pretty-derby-la-concert-cancelled-visa-issues",
+      "source": "Eurogamer",
+      "published": "Tue, 20 Oct 2026 09:00:11 +0000"
+    },
+    {
+      "title": "Xbox 'Business Strategist' Claims Video Game Industry Is 'Pretending to Not Use AI,' Deletes Twitter Account After Deluge of Replies",
+      "url": "https://www.ign.com/articles/xbox-business-strategist-claims-video-game-industry-is-pretending-to-not-use-ai-deletes-twitter-account-after-deluge-of-replies",
       "source": "IGN",
-      "published": "Tue, 20 Oct 2026 06:55:00 +0000"
+      "published": "Tue, 20 Oct 2026 09:30:25 +0000"
+    },
+    {
+      "title": "The Mafia Trilogy Has Hit Its Lowest Price, And You’d Be A Fool To Refuse",
+      "url": "https://www.gamespot.com/articles/the-mafia-trilogy-has-hit-its-lowest-price-and-youd-be-a-fool-to-refuse/",
+      "source": "GameSpot",
+      "published": "Tue, 20 Oct 2026 08:23:07 +0000"
+    },
+    {
+      "title": "Cyberpunk 2077 getting a substantial update to coincide with Edgerunners' Netflix Season 2 release",
+      "url": "https://www.eurogamer.net/cyberpunk-2077-25-update-free-egerunners-2-release",
+      "source": "Eurogamer",
+      "published": "Tue, 20 Oct 2026 11:29:50 +0000"
+    },
+    {
+      "title": "Cyberpunk 2077 Gets Surprise Official New Update Announcement From CD Projekt",
+      "url": "https://www.ign.com/articles/cyberpunk-2077-gets-surprise-official-new-update-announcement-from-cd-projekt",
+      "source": "IGN",
+      "published": "Tue, 20 Oct 2026 10:16:58 +0000"
+    },
+    {
+      "title": "There's Real Force Behind These Star Wars Battlefront 3 Rumors",
+      "url": "https://www.ign.com/articles/theres-real-force-behind-these-star-wars-battlefront-3-rumors",
+      "source": "IGN",
+      "published": "Tue, 20 Oct 2026 08:31:01 +0000"
     },
     {
       "title": "Star Wars Zero Company adds new difficulty options that can bring it closer to XCOM",
@@ -146,16 +56,70 @@
       "published": "Mon, 19 Oct 2026 21:47:17 +0000"
     },
     {
-      "title": "Kratos Would Have Had a Different Name Were It Not for Relentless Domino's Pizza Jokes, God of War Creator Reveals",
-      "url": "https://www.ign.com/articles/dominos-pizza-jokes-god-of-war-dev-name-kratos",
+      "title": "Moonlighter studio won't host a public playtest of its next game due to rampant AI-led cloning: 'We know we're not the only developers feeling this way'",
+      "url": "https://www.pcgamer.com/gaming-industry/moonlighter-studio-wont-host-a-public-playtest-of-its-next-game-due-to-rampant-ai-led-cloning-we-know-were-not-the-only-developers-feeling-this-way/",
+      "source": "PC Gamer",
+      "published": "Mon, 19 Oct 2026 23:33:09 +0000"
+    },
+    {
+      "title": "Cyberpunk: Edgerunners Season 2 Mirrors The First Season, But With One Major Difference",
+      "url": "https://www.gamespot.com/articles/cyberpunk-edgerunners-season-2-mirrors-the-first-season-but-with-one-major-difference/",
+      "source": "GameSpot",
+      "published": "Tue, 20 Oct 2026 10:35:00 +0000"
+    },
+    {
+      "title": "Zach Cregger's Resident Evil Movie Outpacing Alien: Romulus, Backrooms, and Obsession at the Global Box Office",
+      "url": "https://www.ign.com/articles/zach-cregger-resident-evil-movie-passed-360m-worldwide",
       "source": "IGN",
-      "published": "Tue, 20 Oct 2026 10:50:33 +0000"
+      "published": "Tue, 20 Oct 2026 11:45:25 +0000"
+    },
+    {
+      "title": "This sound library catalogues 100 different keyboard switches, is dangerous for my wallet, and also has… live service game mechanics?",
+      "url": "https://www.pcgamer.com/hardware/gaming-keyboards/this-sound-library-catalogues-100-different-keyboard-switches-is-dangerous-for-my-wallet-and-also-has-live-service-game-mechanics/",
+      "source": "PC Gamer",
+      "published": "Tue, 20 Oct 2026 11:07:14 +0000"
+    },
+    {
+      "title": "Save $40 Off Microsoft's Professional-Grade Xbox Elite Series 2 Core Wireless Controller",
+      "url": "https://www.ign.com/articles/xbox-elite-controller-deal-october-2026",
+      "source": "IGN",
+      "published": "Tue, 20 Oct 2026 06:55:00 +0000"
+    },
+    {
+      "title": "The best Enshrouded base locations for picturesque vistas or strategic strongholds",
+      "url": "https://www.pcgamer.com/games/survival-crafting/enshrouded-base-locations/",
+      "source": "PC Gamer",
+      "published": "Tue, 20 Oct 2026 05:36:16 +0000"
     },
     {
       "title": "Moonlighter dev delays Steam playtest for its \"Tower Defensevania\" ReVamp over concerns that AI copycats might clone it before launch",
       "url": "https://www.eurogamer.net/moonlighter-dev-steam-playtest-revamp-ai-copycats",
       "source": "Eurogamer",
       "published": "Mon, 19 Oct 2026 19:54:06 +0000"
+    },
+    {
+      "title": "How To Pass The Judge’s Test In Castlevania: Belmont’s Curse",
+      "url": "https://www.gamespot.com/articles/how-to-pass-the-judges-test-in-castlevania-belmonts-curse/",
+      "source": "GameSpot",
+      "published": "Tue, 20 Oct 2026 08:14:09 +0000"
+    },
+    {
+      "title": "Techland CEO Addresses Fans as Dying Light: The Beast Support Comes to an End",
+      "url": "https://www.ign.com/articles/dying-light-the-beast-no-updates",
+      "source": "IGN",
+      "published": "Tue, 20 Oct 2026 09:47:38 +0000"
+    },
+    {
+      "title": "TP-Link says it will start making Wi-Fi 8 routers in the US, dodging government soft ban in one easy step",
+      "url": "https://www.pcgamer.com/hardware/networking/chinese-company-tp-link-says-it-will-start-making-wi-fi-8-routers-in-the-us-dodging-government-soft-ban-in-one-easy-step/",
+      "source": "PC Gamer",
+      "published": "Tue, 20 Oct 2026 10:13:24 +0000"
+    },
+    {
+      "title": "How To Survive Haywire Zones In Once Human: Isles Of Abyss",
+      "url": "https://www.gamespot.com/articles/once-human-isles-of-abyss-how-to-survive-haywire-zones-environmental-crises/",
+      "source": "GameSpot",
+      "published": "Tue, 20 Oct 2026 08:07:14 +0000"
     },
     {
       "title": "Cyberpunk: Edgerunners Season 2 Is More Punk Rock Than Blockbuster",
@@ -170,16 +134,52 @@
       "published": "Tue, 20 Oct 2026 10:32:58 +0000"
     },
     {
-      "title": "Cyberpunk 2077 getting a substantial update to coincide with Edgerunners' Netflix Season 2 release",
-      "url": "https://www.eurogamer.net/cyberpunk-2077-25-update-free-egerunners-2-release",
-      "source": "Eurogamer",
-      "published": "Tue, 20 Oct 2026 11:29:50 +0000"
+      "title": "How To Get The New Morphed Deviations In Once Human: Isles of Abyss",
+      "url": "https://www.gamespot.com/articles/once-human-isles-of-abyss-morphed-deviations-how-to-get/",
+      "source": "GameSpot",
+      "published": "Tue, 20 Oct 2026 08:09:15 +0000"
     },
     {
-      "title": "Techland CEO Addresses Fans as Dying Light: The Beast Support Comes to an End",
-      "url": "https://www.ign.com/articles/dying-light-the-beast-no-updates",
+      "title": "Final Fantasy 7 Revelation's Hard Mode is available from the start this time, so you won't need to replay the mammoth RPG to get to the good stuff",
+      "url": "https://www.eurogamer.net/final-fantasy-7-revelation-hard-mode-start-replay-rpg",
+      "source": "Eurogamer",
+      "published": "Mon, 19 Oct 2026 18:27:17 +0000"
+    },
+    {
+      "title": "\"This act is intended to demonstrate solidarity with Palestine\" - Umurangi Generation studio blocks new game Penguin Colony from being sold in Israel",
+      "url": "https://www.eurogamer.net/umurangi-generation-studio-blocks-penguin-colony-sale-in-isreal-pro-palestine",
+      "source": "Eurogamer",
+      "published": "Tue, 20 Oct 2026 08:49:14 +0000"
+    },
+    {
+      "title": "Everything New In The Once Human Isles Of Abyss Scenario",
+      "url": "https://www.gamespot.com/articles/once-human-isles-of-abyss-everything-new-added/",
+      "source": "GameSpot",
+      "published": "Tue, 20 Oct 2026 08:05:12 +0000"
+    },
+    {
+      "title": "European age-ratings body PEGI begins raising age-limit of loot box games, like EA Sports FC, to 16",
+      "url": "https://www.eurogamer.net/pegi-age-ratings-16-loot-boxes-digital-only",
+      "source": "Eurogamer",
+      "published": "Tue, 20 Oct 2026 11:43:36 +0000"
+    },
+    {
+      "title": "GTA 6 Voice Actors – All Confirmed And Rumored Cast",
+      "url": "https://www.gamespot.com/articles/gta-6-voice-actors-all-confirmed-and-rumored-cast/",
+      "source": "GameSpot",
+      "published": "Tue, 20 Oct 2026 11:04:16 +0000"
+    },
+    {
+      "title": "Disney Will Air a Real-Time, Animated Version of the 2027 Super Bowl Set in the Star Wars Universe",
+      "url": "https://www.ign.com/articles/disney-will-air-a-real-time-animated-version-of-the-2027-super-bowl-set-in-the-star-wars-universe",
       "source": "IGN",
-      "published": "Tue, 20 Oct 2026 09:47:38 +0000"
+      "published": "Tue, 20 Oct 2026 05:10:45 +0000"
+    },
+    {
+      "title": "Kratos Would Have Had a Different Name Were It Not for Relentless Domino's Pizza Jokes, God of War Creator Reveals",
+      "url": "https://www.ign.com/articles/dominos-pizza-jokes-god-of-war-dev-name-kratos",
+      "source": "IGN",
+      "published": "Tue, 20 Oct 2026 10:50:33 +0000"
     }
   ]
 }
