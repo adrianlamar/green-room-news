@@ -1,29 +1,47 @@
 {
-  "updated": "2026-10-21T03:04:15.845493+00:00",
+  "updated": "2026-10-21T03:33:23.791777+00:00",
   "articles": [
     {
-      "title": "'If you can’t show your game to the world without fearing it’ll be cloned, something’s broken' says Moonlighter studio on its canceled demo",
-      "url": "https://www.pcgamer.com/gaming-industry/if-you-cant-show-your-game-to-the-world-without-fearing-itll-be-cloned-somethings-broken-says-moonlighter-studio-on-its-canceled-demo/",
-      "source": "PC Gamer",
-      "published": "Tue, 20 Oct 2026 21:34:35 +0000"
-    },
-    {
-      "title": "Counter-Strike 2 Pro Aleksib Faces Four-Month Suspended Prison Sentence Over Charges of Aggravated Tax Fraud",
-      "url": "https://www.ign.com/articles/counter-strike-2-pro-aleksib-faces-four-month-suspended-prison-sentence-over-charges-of-aggravated-tax-fraud",
+      "title": "GTA 6 Fans Think Rockstar Games Is Shooting an Elaborate and Expensive Live-Action Trailer in Miami",
+      "url": "https://www.ign.com/articles/gta-6-fans-think-rockstar-games-is-shooting-an-elaborate-and-expensive-live-action-trailer-in-miami",
       "source": "IGN",
-      "published": "Tue, 20 Oct 2026 22:45:55 +0000"
+      "published": "Tue, 20 Oct 2026 22:48:37 +0000"
     },
     {
-      "title": "Cooking Up Magick Book Review",
-      "url": "https://www.ign.com/articles/cooking-up-magick-book-review",
-      "source": "IGN",
-      "published": "Wed, 21 Oct 2026 00:01:59 +0000"
-    },
-    {
-      "title": "Nintendo Switch Sports Resort review",
-      "url": "https://www.eurogamer.net/nintendo-switch-sports-resort-review",
+      "title": "Final Fantasy Resonance review",
+      "url": "https://www.eurogamer.net/final-fantasy-resonance-review",
       "source": "Eurogamer",
-      "published": "Tue, 20 Oct 2026 13:03:25 +0000"
+      "published": "Tue, 20 Oct 2026 13:00:39 +0000"
+    },
+    {
+      "title": "KPop Demon Hunters 2 Gets a Theatrical Release After First Movie's Smashing Success on Streaming",
+      "url": "https://www.ign.com/articles/kpop-demon-hunters-2-gets-a-theatrical-release-after-first-movies-smashing-success-on-streaming",
+      "source": "IGN",
+      "published": "Tue, 20 Oct 2026 23:34:42 +0000"
+    },
+    {
+      "title": "Hideo Kojima Returns To Night City For Cyberpunk: Edgerunners Season 2",
+      "url": "https://www.gamespot.com/articles/hideo-kojima-returns-to-night-city-for-cyberpunk-edgerunners-season-2/",
+      "source": "GameSpot",
+      "published": "Mon, 19 Oct 2026 14:28:39 +0000"
+    },
+    {
+      "title": "In this age of pervasive slop maybe we should be grateful for Shrek 2 Remastered",
+      "url": "https://www.pcgamer.com/games/action/in-this-age-of-pervasive-slop-maybe-we-should-be-grateful-for-shrek-2-remastered/",
+      "source": "PC Gamer",
+      "published": "Wed, 21 Oct 2026 02:08:18 +0000"
+    },
+    {
+      "title": "Mel Brooks Insisted on Shooting His Scenes for Spaceballs: The New One Before the Rest of the Cast",
+      "url": "https://www.ign.com/articles/mel-brooks-spaceballs-sequel-scenes-filmed-first",
+      "source": "IGN",
+      "published": "Tue, 20 Oct 2026 21:46:43 +0000"
+    },
+    {
+      "title": "Here Are The Mechanics and Dozens Of New Cards From Magic: The Gathering’s Star Trek Set",
+      "url": "https://www.gamespot.com/articles/here-are-the-mechanics-and-dozens-of-new-cards-from-magic-the-gatherings-star-trek-set/",
+      "source": "GameSpot",
+      "published": "Tue, 20 Oct 2026 18:00:00 +0000"
     },
     {
       "title": "GTA 6 is so detailed no single Rockstar employee knows it all - which is how we got shrinking horse testicles in Red Dead Redemption 2",
@@ -32,10 +50,46 @@
       "published": "Tue, 20 Oct 2026 11:20:20 +0000"
     },
     {
-      "title": "GTA 6 Fans Think Rockstar Games Is Shooting an Elaborate and Expensive Live-Action Trailer in Miami",
-      "url": "https://www.ign.com/articles/gta-6-fans-think-rockstar-games-is-shooting-an-elaborate-and-expensive-live-action-trailer-in-miami",
+      "title": "People who've finished Call of Duty: Modern Warfare 4 on the new YOLO, single-life difficulty share experiences and tips for doing so",
+      "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-finish-yolo-campaign-difficulty",
+      "source": "Eurogamer",
+      "published": "Tue, 20 Oct 2026 12:57:42 +0000"
+    },
+    {
+      "title": "Xbox Series X|S Is Getting A Surprise Graphics Boost From AMD",
+      "url": "https://www.gamespot.com/articles/xbox-series-xs-is-getting-a-surprise-graphics-boost-from-amd/",
+      "source": "GameSpot",
+      "published": "Tue, 20 Oct 2026 17:51:08 +0000"
+    },
+    {
+      "title": "Marvel's VisionQuest Episodes 3 and 4 Review: 'Reboot' and 'Malware'",
+      "url": "https://www.ign.com/articles/marvels-visionquest-episodes-3-and-4-review-recap-reboot-malware",
       "source": "IGN",
-      "published": "Tue, 20 Oct 2026 22:48:37 +0000"
+      "published": "Wed, 21 Oct 2026 01:00:00 +0000"
+    },
+    {
+      "title": "Counter-Strike 2 Pro Aleksib Faces Four-Month Suspended Prison Sentence Over Charges of Aggravated Tax Fraud",
+      "url": "https://www.ign.com/articles/counter-strike-2-pro-aleksib-faces-four-month-suspended-prison-sentence-over-charges-of-aggravated-tax-fraud",
+      "source": "IGN",
+      "published": "Tue, 20 Oct 2026 22:45:55 +0000"
+    },
+    {
+      "title": "'If you can’t show your game to the world without fearing it’ll be cloned, something’s broken' says Moonlighter studio on its canceled demo",
+      "url": "https://www.pcgamer.com/gaming-industry/if-you-cant-show-your-game-to-the-world-without-fearing-itll-be-cloned-somethings-broken-says-moonlighter-studio-on-its-canceled-demo/",
+      "source": "PC Gamer",
+      "published": "Tue, 20 Oct 2026 21:34:35 +0000"
+    },
+    {
+      "title": "Ex-Call of Duty designer \"who survived the crunch\" in order to launch Black Ops 1 & 2 calls out executives \"raking it in\" from sales of remasters",
+      "url": "https://www.eurogamer.net/call-of-duty-black-ops-1-2-re-release-controversy",
+      "source": "Eurogamer",
+      "published": "Tue, 20 Oct 2026 15:45:04 +0000"
+    },
+    {
+      "title": "Founder of bankrupt Samson studio mulls how to use AI for his next attempt: 'Cutting corners in game development has a habit of coming back to bite you in the ass'",
+      "url": "https://www.pcgamer.com/gaming-industry/founder-of-bankrupt-samson-studio-mulls-how-to-use-ai-for-his-next-attempt-cutting-corners-in-game-development-has-a-habit-of-coming-back-to-bite-you-in-the-ass/",
+      "source": "PC Gamer",
+      "published": "Tue, 20 Oct 2026 18:43:15 +0000"
     },
     {
       "title": "My favorite indie roguelike action RPG is tempting me to come back with a transformative new update inspired by Diablo seasons",
@@ -50,82 +104,10 @@
       "published": "Tue, 20 Oct 2026 20:43:59 +0000"
     },
     {
-      "title": "Founder of bankrupt Samson studio mulls how to use AI for his next attempt: 'Cutting corners in game development has a habit of coming back to bite you in the ass'",
-      "url": "https://www.pcgamer.com/gaming-industry/founder-of-bankrupt-samson-studio-mulls-how-to-use-ai-for-his-next-attempt-cutting-corners-in-game-development-has-a-habit-of-coming-back-to-bite-you-in-the-ass/",
-      "source": "PC Gamer",
-      "published": "Tue, 20 Oct 2026 18:43:15 +0000"
-    },
-    {
-      "title": "The Chronicles of Narnia Books are on Sale at Amazon, Including a Deluxe Edition Hardcover",
-      "url": "https://www.ign.com/articles/the-chronicles-of-narnia-books-are-on-sale-at-amazon-october-2026",
-      "source": "IGN",
-      "published": "Tue, 20 Oct 2026 23:01:00 +0000"
-    },
-    {
-      "title": "EA Sports FC 27 gets a PEGI 16 rating in Europe because of loot boxes",
-      "url": "https://www.pcgamer.com/gaming-industry/ea-sports-fc-27-gets-a-pegi-16-rating-in-europe-because-of-loot-boxes/",
-      "source": "PC Gamer",
-      "published": "Tue, 20 Oct 2026 21:56:37 +0000"
-    },
-    {
-      "title": "Save $50 Off a 512GB Nintendo Switch 2 Memory Card That We've Personally Tested and Vetted",
-      "url": "https://www.ign.com/articles/samsung-p9-512gb-nintendo-switch-2-memory-card-deal-october-2026",
-      "source": "IGN",
-      "published": "Tue, 20 Oct 2026 22:05:00 +0000"
-    },
-    {
-      "title": "People who've finished Call of Duty: Modern Warfare 4 on the new YOLO, single-life difficulty share experiences and tips for doing so",
-      "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-finish-yolo-campaign-difficulty",
+      "title": "Cyberpunk 2077 getting a substantial update to coincide with Edgerunners' Netflix Season 2 release",
+      "url": "https://www.eurogamer.net/cyberpunk-2077-25-update-free-egerunners-2-release",
       "source": "Eurogamer",
-      "published": "Tue, 20 Oct 2026 12:57:42 +0000"
-    },
-    {
-      "title": "Ex-Call of Duty designer \"who survived the crunch\" in order to launch Black Ops 1 & 2 calls out executives \"raking it in\" from sales of remasters",
-      "url": "https://www.eurogamer.net/call-of-duty-black-ops-1-2-re-release-controversy",
-      "source": "Eurogamer",
-      "published": "Tue, 20 Oct 2026 15:45:04 +0000"
-    },
-    {
-      "title": "Here Are The Mechanics and Dozens Of New Cards From Magic: The Gathering’s Star Trek Set",
-      "url": "https://www.gamespot.com/articles/here-are-the-mechanics-and-dozens-of-new-cards-from-magic-the-gatherings-star-trek-set/",
-      "source": "GameSpot",
-      "published": "Tue, 20 Oct 2026 18:00:00 +0000"
-    },
-    {
-      "title": "In this age of pervasive slop maybe we should be grateful for Shrek 2 Remastered",
-      "url": "https://www.pcgamer.com/games/action/in-this-age-of-pervasive-slop-maybe-we-should-be-grateful-for-shrek-2-remastered/",
-      "source": "PC Gamer",
-      "published": "Wed, 21 Oct 2026 02:08:18 +0000"
-    },
-    {
-      "title": "Next-Gen Xbox Could Be $1,800 And Launch In 2028 – Report",
-      "url": "https://www.gamespot.com/articles/next-gen-xbox-could-be-1800-and-launch-in-2028-report/",
-      "source": "GameSpot",
-      "published": "Tue, 20 Oct 2026 19:29:33 +0000"
-    },
-    {
-      "title": "Final Fantasy Resonance review",
-      "url": "https://www.eurogamer.net/final-fantasy-resonance-review",
-      "source": "Eurogamer",
-      "published": "Tue, 20 Oct 2026 13:00:39 +0000"
-    },
-    {
-      "title": "Watch Out GTA 6, A Shrek 2 Remaster Was Just Announced",
-      "url": "https://www.gamespot.com/articles/shrek-2-remaster-leaks-looks-amazing-and-i-need-it-now/",
-      "source": "GameSpot",
-      "published": "Fri, 16 Oct 2026 18:21:13 +0000"
-    },
-    {
-      "title": "KPop Demon Hunters 2 Gets a Theatrical Release After First Movie's Smashing Success on Streaming",
-      "url": "https://www.ign.com/articles/kpop-demon-hunters-2-gets-a-theatrical-release-after-first-movies-smashing-success-on-streaming",
-      "source": "IGN",
-      "published": "Tue, 20 Oct 2026 23:34:42 +0000"
-    },
-    {
-      "title": "Marvel's VisionQuest Episodes 3 and 4 Review: 'Reboot' and 'Malware'",
-      "url": "https://www.ign.com/articles/marvels-visionquest-episodes-3-and-4-review-recap-reboot-malware",
-      "source": "IGN",
-      "published": "Wed, 21 Oct 2026 01:00:00 +0000"
+      "published": "Tue, 20 Oct 2026 11:29:50 +0000"
     },
     {
       "title": "Helldivers 2 swaps over to Easy anti-cheat, with developers admitting Gameguard \"wasn't as effective as it could have been\"",
@@ -134,28 +116,22 @@
       "published": "Tue, 20 Oct 2026 13:13:19 +0000"
     },
     {
-      "title": "Mel Brooks Insisted on Shooting His Scenes for Spaceballs: The New One Before the Rest of the Cast",
-      "url": "https://www.ign.com/articles/mel-brooks-spaceballs-sequel-scenes-filmed-first",
+      "title": "Next-Gen Xbox Could Be $1,800 And Launch In 2028 – Report",
+      "url": "https://www.gamespot.com/articles/next-gen-xbox-could-be-1800-and-launch-in-2028-report/",
+      "source": "GameSpot",
+      "published": "Tue, 20 Oct 2026 19:29:33 +0000"
+    },
+    {
+      "title": "The Chronicles of Narnia Books are on Sale at Amazon, Including a Deluxe Edition Hardcover",
+      "url": "https://www.ign.com/articles/the-chronicles-of-narnia-books-are-on-sale-at-amazon-october-2026",
       "source": "IGN",
-      "published": "Tue, 20 Oct 2026 21:46:43 +0000"
+      "published": "Tue, 20 Oct 2026 23:01:00 +0000"
     },
     {
-      "title": "Xbox Series X|S Is Getting A Surprise Graphics Boost From AMD",
-      "url": "https://www.gamespot.com/articles/xbox-series-xs-is-getting-a-surprise-graphics-boost-from-amd/",
+      "title": "Watch Out GTA 6, A Shrek 2 Remaster Was Just Announced",
+      "url": "https://www.gamespot.com/articles/shrek-2-remaster-leaks-looks-amazing-and-i-need-it-now/",
       "source": "GameSpot",
-      "published": "Tue, 20 Oct 2026 17:51:08 +0000"
-    },
-    {
-      "title": "After talking to Capcom, I'm a lot more optimistic about Onimusha 3 getting a remaster",
-      "url": "https://www.pcgamer.com/games/action/after-talking-to-capcom-im-a-lot-more-optimistic-about-onimusha-3-getting-a-remaster/",
-      "source": "PC Gamer",
-      "published": "Tue, 20 Oct 2026 20:34:43 +0000"
-    },
-    {
-      "title": "Hideo Kojima Returns To Night City For Cyberpunk: Edgerunners Season 2",
-      "url": "https://www.gamespot.com/articles/hideo-kojima-returns-to-night-city-for-cyberpunk-edgerunners-season-2/",
-      "source": "GameSpot",
-      "published": "Mon, 19 Oct 2026 14:28:39 +0000"
+      "published": "Fri, 16 Oct 2026 18:21:13 +0000"
     },
     {
       "title": "Helldivers 2 studio warns mods may break as it switches to new anti-cheat, and the negative reviews are dropping on Steam like Hellbombs",
@@ -164,22 +140,46 @@
       "published": "Tue, 20 Oct 2026 18:19:34 +0000"
     },
     {
+      "title": "EA Sports FC 27 gets a PEGI 16 rating in Europe because of loot boxes",
+      "url": "https://www.pcgamer.com/gaming-industry/ea-sports-fc-27-gets-a-pegi-16-rating-in-europe-because-of-loot-boxes/",
+      "source": "PC Gamer",
+      "published": "Tue, 20 Oct 2026 21:56:37 +0000"
+    },
+    {
+      "title": "Castlevania: Belmont’s Curse Relics Guide",
+      "url": "https://www.gamespot.com/articles/castlevania-belmonts-curse-relics-guide/",
+      "source": "GameSpot",
+      "published": "Mon, 19 Oct 2026 10:17:17 +0000"
+    },
+    {
+      "title": "Cooking Up Magick Book Review",
+      "url": "https://www.ign.com/articles/cooking-up-magick-book-review",
+      "source": "IGN",
+      "published": "Wed, 21 Oct 2026 00:01:59 +0000"
+    },
+    {
       "title": "European age-ratings body PEGI begins raising age-limit of loot box games, like EA Sports FC, to 16",
       "url": "https://www.eurogamer.net/pegi-age-ratings-16-loot-boxes-digital-only",
       "source": "Eurogamer",
       "published": "Tue, 20 Oct 2026 11:43:36 +0000"
     },
     {
-      "title": "Cyberpunk 2077 getting a substantial update to coincide with Edgerunners' Netflix Season 2 release",
-      "url": "https://www.eurogamer.net/cyberpunk-2077-25-update-free-egerunners-2-release",
+      "title": "Nintendo Switch Sports Resort review",
+      "url": "https://www.eurogamer.net/nintendo-switch-sports-resort-review",
       "source": "Eurogamer",
-      "published": "Tue, 20 Oct 2026 11:29:50 +0000"
+      "published": "Tue, 20 Oct 2026 13:03:25 +0000"
     },
     {
       "title": "CoD: Modern Warfare 4 Has Thrilling Campaign And Exciting DMZ Mode Changes",
       "url": "https://www.gamespot.com/reviews/call-of-duty-modern-warfare-4-campaign-review/",
       "source": "GameSpot",
       "published": "Fri, 16 Oct 2026 17:00:00 +0000"
+    },
+    {
+      "title": "Save $50 Off a 512GB Nintendo Switch 2 Memory Card That We've Personally Tested and Vetted",
+      "url": "https://www.ign.com/articles/samsung-p9-512gb-nintendo-switch-2-memory-card-deal-october-2026",
+      "source": "IGN",
+      "published": "Tue, 20 Oct 2026 22:05:00 +0000"
     }
   ]
 }
