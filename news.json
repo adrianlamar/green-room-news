@@ -1,155 +1,11 @@
 {
-  "updated": "2026-10-21T18:35:31.351050+00:00",
+  "updated": "2026-10-21T19:13:46.185637+00:00",
   "articles": [
-    {
-      "title": "GTA 6 Will Feature Lots Of Small Details Like Red Dead’s Dynamic Horse Testicle Physics",
-      "url": "https://www.gamespot.com/articles/gta-6-will-feature-lots-of-small-details-like-red-deads-dynamic-horse-testicle-physics/",
-      "source": "GameSpot",
-      "published": "Wed, 21 Oct 2026 16:16:36 +0000"
-    },
-    {
-      "title": "The Ultra-Slim Baseus Blade 20,000mAh Power Bank Drops to $39 Ahead of Black Friday",
-      "url": "https://www.ign.com/articles/baseus-blade-slim-power-bank-deal-october-2026",
-      "source": "IGN",
-      "published": "Wed, 21 Oct 2026 17:30:00 +0000"
-    },
-    {
-      "title": "BioWare is closing down and Mass Effect 5 is cancelled, months after Saudi Arabia's $55bn EA buyout",
-      "url": "https://www.eurogamer.net/bioware-closing-down-mass-effect-5-cancelled",
-      "source": "Eurogamer",
-      "published": "Wed, 21 Oct 2026 17:55:57 +0000"
-    },
-    {
-      "title": "After a few hours with Yakuza studio's soulful Stranger Than Heaven, I'm smitten, but I suspect it'll be a divisive game",
-      "url": "https://www.eurogamer.net/stranger-than-heaven-preview",
-      "source": "Eurogamer",
-      "published": "Wed, 21 Oct 2026 14:00:41 +0000"
-    },
-    {
-      "title": "Cyberpunk 2077 | Edgerunners 2 Update Features Overview Trailer",
-      "url": "https://www.gamespot.com/videos/cyberpunk-2077-edgerunners-2-update-features-overview-trailer/",
-      "source": "GameSpot",
-      "published": "Wed, 21 Oct 2026 17:42:33 +0000"
-    },
-    {
-      "title": "Xbox follows in PlayStation's footsteps, introducing AMD FSR 4.1, targeting better graphics and performance on Series X/S",
-      "url": "https://www.eurogamer.net/xbox-series-x-s-amd-fsr-4-1-upscaling",
-      "source": "Eurogamer",
-      "published": "Wed, 21 Oct 2026 14:13:43 +0000"
-    },
-    {
-      "title": "US government leaks the best GTA 6 promo yet: Pißwasser is real",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/us-government-leaks-the-best-gta-6-promo-yet-pisswasser-is-real/",
-      "source": "PC Gamer",
-      "published": "Wed, 21 Oct 2026 16:12:33 +0000"
-    },
-    {
-      "title": "Another Day, Another Pokemon Card Heist Worth Nearly $1 Million",
-      "url": "https://www.gamespot.com/articles/another-day-another-pokemon-card-heist-worth-nearly-1-million/",
-      "source": "GameSpot",
-      "published": "Wed, 21 Oct 2026 17:50:47 +0000"
-    },
-    {
-      "title": "This Massive 70\" 4K Fire TV Drops to a Mere $299.99 With Free Delivery Ahead of Black Friday",
-      "url": "https://www.ign.com/articles/massive-70-4k-fire-tv-deal-ahead-of-black-friday",
-      "source": "IGN",
-      "published": "Wed, 21 Oct 2026 17:20:00 +0000"
-    },
-    {
-      "title": "Slow Horses Season 6, Episode 6 Review — ’Judgement Day’",
-      "url": "https://www.ign.com/articles/slow-horses-season-6-episode-6-review-judgement-day",
-      "source": "IGN",
-      "published": "Wed, 21 Oct 2026 17:20:13 +0000"
-    },
-    {
-      "title": "GOG taken offline for maintenance in wake of PHP security emergency",
-      "url": "https://www.pcgamer.com/software/security/gog-taken-offline-for-maintenance-in-wake-of-php-security-emergency/",
-      "source": "PC Gamer",
-      "published": "Wed, 21 Oct 2026 16:20:08 +0000"
-    },
-    {
-      "title": "EA Shuts Down Dragon Age, Mass Effect Studio BioWare",
-      "url": "https://www.gamespot.com/articles/ea-shuts-down-dragon-age-mass-effect-studio-bioware/",
-      "source": "GameSpot",
-      "published": "Wed, 21 Oct 2026 17:12:53 +0000"
-    },
-    {
-      "title": "COD: Modern Warfare 4 DMZ players are spawning in the middle of a road and being flattened before they can do anything",
-      "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-spawn-runover",
-      "source": "Eurogamer",
-      "published": "Wed, 21 Oct 2026 13:21:37 +0000"
-    },
-    {
-      "title": "Black Friday gaming mouse deals",
-      "url": "https://www.pcgamer.com/hardware/gaming-mice/black-friday-gaming-mouse-deals/",
-      "source": "PC Gamer",
-      "published": "Wed, 21 Oct 2026 16:11:02 +0000"
-    },
-    {
-      "title": "Diablo Is Getting a New Board Game Adaptation You Can Play Solo or With Friends",
-      "url": "https://www.ign.com/articles/diablo-unbound-board-game-announcement",
-      "source": "IGN",
-      "published": "Wed, 21 Oct 2026 17:57:42 +0000"
-    },
-    {
-      "title": "We Build LEGO Hubble Space Telescope: a Miniature Homage to Cosmic Discovery",
-      "url": "https://www.ign.com/articles/we-build-lego-hubble-space-telescope-11382",
-      "source": "IGN",
-      "published": "Wed, 21 Oct 2026 17:47:32 +0000"
-    },
-    {
-      "title": "Rayman Legends Retold’s New Baguette Costumes Are A Tip Of The Beret To Expedition 33",
-      "url": "https://www.gamespot.com/articles/rayman-legends-retold-new-baguette-costumes-are-a-tip-of-the-beret-to-expedition-33/",
-      "source": "GameSpot",
-      "published": "Wed, 21 Oct 2026 18:02:00 +0000"
-    },
-    {
-      "title": "RIP BioWare: EA has shut down the legendary RPG developer",
-      "url": "https://www.pcgamer.com/gaming-industry/rip-bioware-ea-has-shut-down-the-legendary-rpg-developer/",
-      "source": "PC Gamer",
-      "published": "Wed, 21 Oct 2026 17:16:53 +0000"
-    },
     {
       "title": "Don't get hit with the BIOS update hammer for COD MW4 like my colleagues - here's how to ensure you can play multiplayer and DMZ",
       "url": "https://www.pcgamer.com/games/call-of-duty/dont-get-hit-with-the-bios-update-hammer-for-cod-mw4-like-my-colleagues-heres-how-to-ensure-you-can-play-multiplayer-and-dmz/",
       "source": "PC Gamer",
       "published": "Wed, 21 Oct 2026 15:55:30 +0000"
-    },
-    {
-      "title": "GTA 6 Might Give America A Very Expensive Sick Day",
-      "url": "https://www.gamespot.com/articles/gta-6-might-give-america-a-very-expensive-sick-day/",
-      "source": "GameSpot",
-      "published": "Wed, 21 Oct 2026 16:02:00 +0000"
-    },
-    {
-      "title": "WoW: Forever Is Continuing A Long-Running Questing Tradition",
-      "url": "https://www.gamespot.com/articles/wow-forever-is-continuing-a-long-running-questing-tradition/",
-      "source": "GameSpot",
-      "published": "Wed, 21 Oct 2026 17:26:51 +0000"
-    },
-    {
-      "title": "Beyond Good & Evil 2 reportedly still in development 18 years after being announced, now a \"solo-first\" adventure",
-      "url": "https://www.eurogamer.net/beyond-good-and-evil-bge2-report-ubisoft",
-      "source": "Eurogamer",
-      "published": "Wed, 21 Oct 2026 16:01:00 +0000"
-    },
-    {
-      "title": "AMD has shipped FSR 4.1 early for RX 6000 graphics cards, and it's coming to Ryzen APUs, Vulkan, and Xbox too",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-has-shipped-fsr-4-1-early-for-rx-6000-graphics-cards-and-its-coming-to-ryzen-apus-vulkan-and-xbox-too/",
-      "source": "PC Gamer",
-      "published": "Wed, 21 Oct 2026 15:35:07 +0000"
-    },
-    {
-      "title": "Xbox Insiders Can Now Stream Games by Buying Cloud Playtime Without Game Pass, Introductory Launch Pricing Revealed",
-      "url": "https://www.ign.com/articles/xbox-insiders-can-now-stream-games-by-buying-cloud-playtime-without-game-pass-introductory-launch-pricing-revealed",
-      "source": "IGN",
-      "published": "Wed, 21 Oct 2026 18:00:23 +0000"
-    },
-    {
-      "title": "'You've taken us free cash flow negative as a company, so congratulations': Amazon has plenty of Nvidia GPUs, but not enough energy to power its AI boom",
-      "url": "https://www.pcgamer.com/software/ai/youve-taken-us-free-cash-flow-negative-as-a-company-so-congratulations-amazon-has-plenty-of-nvidia-gpus-but-not-enough-energy-to-power-its-ai-boom/",
-      "source": "PC Gamer",
-      "published": "Wed, 21 Oct 2026 15:09:46 +0000"
     },
     {
       "title": "Nvidia Just Tackled One Of PC Gaming’s Biggest Headaches: Shader Compilation",
@@ -158,10 +14,46 @@
       "published": "Wed, 21 Oct 2026 17:44:12 +0000"
     },
     {
-      "title": "EA Confirms DICE and Respawn Are Collaborating on a New Project Amidst Star Wars: Battlefront 3 Rumors",
-      "url": "https://www.ign.com/articles/ea-confirms-dice-and-respawn-are-collaborating-on-a-new-project-amidst-star-wars-battlefront-3-rumors",
+      "title": "After a few hours with Yakuza studio's soulful Stranger Than Heaven, I'm smitten, but I suspect it'll be a divisive game",
+      "url": "https://www.eurogamer.net/stranger-than-heaven-preview",
+      "source": "Eurogamer",
+      "published": "Wed, 21 Oct 2026 14:00:41 +0000"
+    },
+    {
+      "title": "Glee Reboot Is Officially a Go at Disney+ and Hulu, and Gleeks Have Plenty of Thoughts",
+      "url": "https://www.ign.com/articles/glee-reboot-series-order-disney-plus-hulu-internet-reacts",
       "source": "IGN",
-      "published": "Wed, 21 Oct 2026 17:43:59 +0000"
+      "published": "Wed, 21 Oct 2026 18:16:50 +0000"
+    },
+    {
+      "title": "Another Day, Another Pokemon Card Heist Worth Nearly $1 Million",
+      "url": "https://www.gamespot.com/articles/another-day-another-pokemon-card-heist-worth-nearly-1-million/",
+      "source": "GameSpot",
+      "published": "Wed, 21 Oct 2026 17:50:47 +0000"
+    },
+    {
+      "title": "EA Shuts Down Dragon Age, Mass Effect Studio BioWare",
+      "url": "https://www.gamespot.com/articles/ea-shuts-down-dragon-age-mass-effect-studio-bioware/",
+      "source": "GameSpot",
+      "published": "Wed, 21 Oct 2026 17:12:53 +0000"
+    },
+    {
+      "title": "US government leaks the best GTA 6 promo yet: Pißwasser is real",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/us-government-leaks-the-best-gta-6-promo-yet-pisswasser-is-real/",
+      "source": "PC Gamer",
+      "published": "Wed, 21 Oct 2026 16:12:33 +0000"
+    },
+    {
+      "title": "World of Warcraft: Forever's beta has been extended, as community members mourn the loss of their hunter pets",
+      "url": "https://www.eurogamer.net/world-of-warcraft-forever-beta-extended",
+      "source": "Eurogamer",
+      "published": "Wed, 21 Oct 2026 15:46:24 +0000"
+    },
+    {
+      "title": "AMD has shipped FSR 4.1 early for RX 6000 graphics cards, and it's coming to Ryzen APUs, Vulkan, and Xbox too",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-has-shipped-fsr-4-1-early-for-rx-6000-graphics-cards-and-its-coming-to-ryzen-apus-vulkan-and-xbox-too/",
+      "source": "PC Gamer",
+      "published": "Wed, 21 Oct 2026 15:35:07 +0000"
     },
     {
       "title": "Nearly $1 million worth of PSA-graded Pokémon and other TCG have been stolen right outside PSA's headquarters",
@@ -170,16 +62,124 @@
       "published": "Wed, 21 Oct 2026 16:41:42 +0000"
     },
     {
-      "title": "WoW Forever Beta Extended to Friday, Name Reservations Go Live Tuesday",
-      "url": "https://www.ign.com/articles/wow-forever-beta-extended-to-friday-name-reservations-go-live-tuesday",
+      "title": "Xbox follows in PlayStation's footsteps, introducing AMD FSR 4.1, targeting better graphics and performance on Series X/S",
+      "url": "https://www.eurogamer.net/xbox-series-x-s-amd-fsr-4-1-upscaling",
+      "source": "Eurogamer",
+      "published": "Wed, 21 Oct 2026 14:13:43 +0000"
+    },
+    {
+      "title": "Today’s Top Deals: $100 Nintendo, PS, & Xbox Gift Cards, Clair Obscur: Expedition 33, and MTG x Marvel",
+      "url": "https://www.ign.com/articles/best-deals-for-october-21-2026",
       "source": "IGN",
-      "published": "Wed, 21 Oct 2026 17:52:23 +0000"
+      "published": "Wed, 21 Oct 2026 18:20:00 +0000"
+    },
+    {
+      "title": "Get Psychonauts, Brutal Legend, and 9 More Double Fine Games for Just $8 in New Humble Bundle",
+      "url": "https://www.ign.com/articles/get-psychonauts-brutal-legend-and-9-more-double-fine-games-for-just-8-in-new-humble-bundle",
+      "source": "IGN",
+      "published": "Wed, 21 Oct 2026 18:02:07 +0000"
+    },
+    {
+      "title": "With BioWare dead, EA lays out its 'next chapter,' and it's pretty much as predicted: Guns and football are fine, and everything else is under the microscope",
+      "url": "https://www.pcgamer.com/gaming-industry/with-bioware-dead-ea-lays-out-its-next-chapter-and-its-pretty-much-as-predicted-guns-and-football-are-fine-and-everything-else-is-under-the-microscope/",
+      "source": "PC Gamer",
+      "published": "Wed, 21 Oct 2026 18:41:11 +0000"
+    },
+    {
+      "title": "EA Sports Confirms It's Developing an Open-World Football Game",
+      "url": "https://www.ign.com/articles/ea-sports-confirms-its-developing-an-open-world-football-game",
+      "source": "IGN",
+      "published": "Wed, 21 Oct 2026 18:12:58 +0000"
+    },
+    {
+      "title": "Xbox Insiders Can Now Stream Games by Buying Cloud Playtime Without Game Pass, Introductory Launch Pricing Revealed",
+      "url": "https://www.ign.com/articles/xbox-insiders-can-now-stream-games-by-buying-cloud-playtime-without-game-pass-introductory-launch-pricing-revealed",
+      "source": "IGN",
+      "published": "Wed, 21 Oct 2026 18:00:23 +0000"
+    },
+    {
+      "title": "BioWare is closing down and Mass Effect 5 is cancelled, months after Saudi Arabia's $55bn EA buyout",
+      "url": "https://www.eurogamer.net/bioware-closing-down-mass-effect-5-cancelled",
+      "source": "Eurogamer",
+      "published": "Wed, 21 Oct 2026 17:55:57 +0000"
+    },
+    {
+      "title": "Rayman Legends Retold’s New Baguette Costumes Are A Tip Of The Beret To Expedition 33",
+      "url": "https://www.gamespot.com/articles/rayman-legends-retold-new-baguette-costumes-are-a-tip-of-the-beret-to-expedition-33/",
+      "source": "GameSpot",
+      "published": "Wed, 21 Oct 2026 18:02:00 +0000"
+    },
+    {
+      "title": "Cyberpunk 2077 | Edgerunners 2 Update Features Overview Trailer",
+      "url": "https://www.gamespot.com/videos/cyberpunk-2077-edgerunners-2-update-features-overview-trailer/",
+      "source": "GameSpot",
+      "published": "Wed, 21 Oct 2026 17:42:33 +0000"
+    },
+    {
+      "title": "Beyond Good & Evil 2 reportedly still in development 18 years after being announced, now a \"solo-first\" adventure",
+      "url": "https://www.eurogamer.net/beyond-good-and-evil-bge2-report-ubisoft",
+      "source": "Eurogamer",
+      "published": "Wed, 21 Oct 2026 16:01:00 +0000"
+    },
+    {
+      "title": "First-person Soulslike Valor Mortis is already making a profit after seven days, despite launching against some stiff competition",
+      "url": "https://www.eurogamer.net/soulslike-valor-mortis-making-profit-seven-days",
+      "source": "Eurogamer",
+      "published": "Wed, 21 Oct 2026 16:43:42 +0000"
+    },
+    {
+      "title": "RIP BioWare: EA has shut down the legendary RPG developer",
+      "url": "https://www.pcgamer.com/gaming-industry/rip-bioware-ea-has-shut-down-the-legendary-rpg-developer/",
+      "source": "PC Gamer",
+      "published": "Wed, 21 Oct 2026 17:16:53 +0000"
+    },
+    {
+      "title": "EA Cancels New Mass Effect, Pauses New Sims Game, And All The Other  Big EA News That Just Happened",
+      "url": "https://www.gamespot.com/articles/ea-kills-bioware-cancels-new-mass-effect-pauses-new-sims-game-and-all-the-other-big-ea-news-that-just-happened/",
+      "source": "GameSpot",
+      "published": "Wed, 21 Oct 2026 18:20:23 +0000"
+    },
+    {
+      "title": "WoW: Forever Is Continuing A Long-Running Questing Tradition",
+      "url": "https://www.gamespot.com/articles/wow-forever-is-continuing-a-long-running-questing-tradition/",
+      "source": "GameSpot",
+      "published": "Wed, 21 Oct 2026 17:26:51 +0000"
     },
     {
       "title": "CD Projekt Red details new Cyberpunk 2077 update - adding dual-wielding, cross-platform mods, Edgerunners story quests, and more",
       "url": "https://www.eurogamer.net/cyberpunk-2077-update-edgerunners-2-mod-support",
       "source": "Eurogamer",
       "published": "Wed, 21 Oct 2026 16:03:54 +0000"
+    },
+    {
+      "title": "Black Friday gaming mouse deals",
+      "url": "https://www.pcgamer.com/hardware/gaming-mice/black-friday-gaming-mouse-deals/",
+      "source": "PC Gamer",
+      "published": "Wed, 21 Oct 2026 16:11:02 +0000"
+    },
+    {
+      "title": "GOG taken offline for maintenance in wake of PHP security emergency",
+      "url": "https://www.pcgamer.com/software/security/gog-taken-offline-for-maintenance-in-wake-of-php-security-emergency/",
+      "source": "PC Gamer",
+      "published": "Wed, 21 Oct 2026 16:20:08 +0000"
+    },
+    {
+      "title": "EA cancels unannounced The Sims project, trims the Skate team and plans to lay off 400 workers: \"We're the number one publisher in Western HD gaming\"",
+      "url": "https://www.eurogamer.net/ea-cancels-sims-skate-400-layoffs",
+      "source": "Eurogamer",
+      "published": "Wed, 21 Oct 2026 19:01:46 +0000"
+    },
+    {
+      "title": "Don’t Worry, You’re Not The Only One Dying Too Much In Modern Warfare 4’s Campaign",
+      "url": "https://www.gamespot.com/articles/dont-worry-youre-not-the-only-one-dying-too-much-in-modern-warfare-4s-campaign/",
+      "source": "GameSpot",
+      "published": "Wed, 21 Oct 2026 18:23:00 +0000"
+    },
+    {
+      "title": "Clayface Review",
+      "url": "https://www.ign.com/articles/clayface-movie-review",
+      "source": "IGN",
+      "published": "Wed, 21 Oct 2026 19:00:00 +0000"
     }
   ]
 }
