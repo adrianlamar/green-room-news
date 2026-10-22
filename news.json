@@ -1,47 +1,17 @@
 {
-  "updated": "2026-10-22T22:03:11.213818+00:00",
+  "updated": "2026-10-22T22:29:40.448346+00:00",
   "articles": [
     {
-      "title": "Save $700 Off the HyperX OMEN Gaming Laptop With GeForce RTX 5060 (115W) Graphics",
-      "url": "https://www.ign.com/articles/hyperx-omen-gaming-laptop-deal-october-2026",
-      "source": "IGN",
-      "published": "Thu, 22 Oct 2026 19:50:00 +0000"
-    },
-    {
-      "title": "EA Has A New Plan For Madden, And It Leans Into Everything The Company Gets Wrong",
-      "url": "https://www.gamespot.com/articles/ea-project-gridiron-open-world-football-leans-into-everything-the-company-gets-wrong/",
-      "source": "GameSpot",
-      "published": "Thu, 22 Oct 2026 21:00:06 +0000"
-    },
-    {
-      "title": "WoW: Forever Is Keeping Its Secrets Close To The Chest",
-      "url": "https://www.gamespot.com/articles/wow-forever-is-keeping-its-secrets-close-to-the-chest/",
-      "source": "GameSpot",
-      "published": "Thu, 22 Oct 2026 19:10:38 +0000"
-    },
-    {
-      "title": "GTA 6 and Gasoline in Video Games",
-      "url": "https://www.gamespot.com/videos/gta-6-and-gasoline-in-video-games/",
-      "source": "GameSpot",
-      "published": "Thu, 22 Oct 2026 21:00:00 +0000"
-    },
-    {
-      "title": "Saber Interactive CEO Says Clive Barker’s Hellraiser: Revival is Performing 'Extremely Well on PC and Consoles' with More to Come",
-      "url": "https://www.ign.com/articles/saber-interactive-ceo-says-clive-barkers-hellraiser-revival-is-performing-extremely-well-on-pc-and-consoles-with-more-to-come",
-      "source": "IGN",
-      "published": "Thu, 22 Oct 2026 20:19:59 +0000"
-    },
-    {
-      "title": "Smash Bros. director Masahiro Sakurai thinks gen-AI will cause a surge of unoriginal games, but says human creativity can't be replicated",
-      "url": "https://www.eurogamer.net/smash-bros-masahiro-sakurai-generative-ai-unoriginal-games",
-      "source": "Eurogamer",
-      "published": "Thu, 22 Oct 2026 17:00:49 +0000"
-    },
-    {
-      "title": "Canadian politician calls on government to help BioWare employees buy the studio and run it themselves",
-      "url": "https://www.pcgamer.com/games/mass-effect/canadian-politician-calls-on-government-to-help-bioware-employees-buy-the-studio-and-run-it-themselves/",
+      "title": "A new Fallout 4 mod adds an entire town, but more importantly, it lets you join a gang",
+      "url": "https://www.pcgamer.com/games/fallout/a-new-fallout-4-mod-adds-an-entire-town-but-more-importantly-it-lets-you-join-a-gang/",
       "source": "PC Gamer",
-      "published": "Thu, 22 Oct 2026 21:26:29 +0000"
+      "published": "Thu, 22 Oct 2026 22:22:04 +0000"
+    },
+    {
+      "title": "Farewell BioWare, you inspired so many of us, and you deserved so much better than this",
+      "url": "https://www.eurogamer.net/farewell-bioware-closed-ea",
+      "source": "Eurogamer",
+      "published": "Thu, 22 Oct 2026 16:45:25 +0000"
     },
     {
       "title": "Epic announces game jam where you have to use AI, then walks back the requirement",
@@ -50,82 +20,16 @@
       "published": "Thu, 22 Oct 2026 21:39:30 +0000"
     },
     {
-      "title": "Tom Skerritt Dies: Alien and Top Gun Actor Was 93",
-      "url": "https://www.ign.com/articles/tom-skerritt-alien-top-gun-actor-dies-93",
-      "source": "IGN",
-      "published": "Thu, 22 Oct 2026 20:59:59 +0000"
-    },
-    {
-      "title": "After The BioWare Shutdown, Mass Effect Spiritual Successor Exodus Gets A New Look",
-      "url": "https://www.gamespot.com/articles/after-the-bioware-shutdown-mass-effect-spiritual-successor-exodus-gets-a-new-look/",
-      "source": "GameSpot",
-      "published": "Thu, 22 Oct 2026 21:37:24 +0000"
-    },
-    {
-      "title": "How to get King's outfit in Cyberpunk 2077",
-      "url": "https://www.pcgamer.com/games/rpg/cyberpunk-2077-king-outfit-clampdown-edgerunners/",
-      "source": "PC Gamer",
-      "published": "Thu, 22 Oct 2026 19:32:18 +0000"
-    },
-    {
-      "title": "Future Capcom games will have Onimusha to thank for RE Engine's gnarly dismemberments",
-      "url": "https://www.pcgamer.com/games/action/future-capcom-games-will-have-onimusha-to-thank-for-re-engines-gnarly-dismemberments/",
-      "source": "PC Gamer",
-      "published": "Thu, 22 Oct 2026 19:18:23 +0000"
-    },
-    {
-      "title": "Games industry mourns sudden BioWare closure - \"Anyone who participated in this travesty should be ashamed\"",
-      "url": "https://www.eurogamer.net/video-game-industry-reacts-to-bioware-closure",
-      "source": "Eurogamer",
-      "published": "Thu, 22 Oct 2026 12:56:13 +0000"
-    },
-    {
-      "title": "The Leaked Mass Effect 5 Trailer Is Absolutely Heartbreaking",
-      "url": "https://www.gamespot.com/articles/the-leaked-mass-effect-5-trailer-is-absolutely-heartbreaking/",
-      "source": "GameSpot",
-      "published": "Thu, 22 Oct 2026 19:06:27 +0000"
-    },
-    {
-      "title": "Final Fantasy 14, Umamusume: Pretty Derby, and more impacted as PHP vulnerability outages hit games around the globe",
-      "url": "https://www.eurogamer.net/video-games-down-php-vulnerability",
-      "source": "Eurogamer",
-      "published": "Thu, 22 Oct 2026 14:11:14 +0000"
-    },
-    {
       "title": "Despite its mixed reception, Marvel's Wolverine was September's top-selling new game in the US, making Sony launch revenues it hasn't seen since Helldivers 2",
       "url": "https://www.eurogamer.net/marvels-wolverine-top-seling-september-us-circana",
       "source": "Eurogamer",
       "published": "Thu, 22 Oct 2026 13:22:52 +0000"
     },
     {
-      "title": "How to dual wield in Cyberpunk 2077",
-      "url": "https://www.pcgamer.com/games/rpg/how-to-dual-wield-in-cyberpunk-2077/",
-      "source": "PC Gamer",
-      "published": "Thu, 22 Oct 2026 19:35:48 +0000"
-    },
-    {
-      "title": "Half-Life 3 re-re-re-confirmed: A Valve dev just said 'HLX' out loud",
-      "url": "https://www.pcgamer.com/games/fps/half-life-3-re-re-re-confirmed-a-valve-dev-just-said-hlx-out-loud/",
-      "source": "PC Gamer",
-      "published": "Thu, 22 Oct 2026 20:16:39 +0000"
-    },
-    {
-      "title": "Alienware's Outstanding 32\" 4K 240Hz Quantum-Dot OLED Gaming Monitor Drops to an All-Time Low",
-      "url": "https://www.ign.com/articles/alienware-aw3225qf-4k-oled-gaming-monitor-deal-october-2026",
-      "source": "IGN",
-      "published": "Thu, 22 Oct 2026 20:55:00 +0000"
-    },
-    {
-      "title": "Splash Damage acquired this studio just 3 months after laying off a bunch of people—now it's laying them off, too",
-      "url": "https://www.pcgamer.com/gaming-industry/splash-damage-acquired-this-studio-just-3-months-after-laying-off-a-bunch-of-people-now-its-laying-them-off-too/",
-      "source": "PC Gamer",
-      "published": "Thu, 22 Oct 2026 17:34:04 +0000"
-    },
-    {
-      "title": "It Isn’t Debra Wilson’s Fault She’s In Everything",
-      "url": "https://www.gamespot.com/articles/it-isnt-debra-wilsons-fault-shes-in-everything/",
+      "title": "BioWare Did Something Very Rare For The Time: It Took Star Wars Seriously",
+      "url": "https://www.gamespot.com/articles/bioware-did-something-very-rare-for-the-time-it-took-star-wars-seriously/",
       "source": "GameSpot",
-      "published": "Thu, 22 Oct 2026 19:18:10 +0000"
+      "published": "Thu, 22 Oct 2026 22:01:28 +0000"
     },
     {
       "title": "GTA 6’s New TV Trailer Is A Bit Different, See It For Yourself",
@@ -140,22 +44,34 @@
       "published": "Thu, 22 Oct 2026 09:10:43 +0000"
     },
     {
-      "title": "BioWare's cancelled Mass Effect game would've learned from Baldur's Gate 3 and The Witcher to deliver \"a level of autonomy and choice that no other game has\"",
-      "url": "https://www.eurogamer.net/cancelled-mass-effect-bioware-unprecedented-levels-of-autonomy",
-      "source": "Eurogamer",
-      "published": "Thu, 22 Oct 2026 13:35:34 +0000"
+      "title": "EA Has A New Plan For Madden, And It Leans Into Everything The Company Gets Wrong",
+      "url": "https://www.gamespot.com/articles/ea-project-gridiron-open-world-football-leans-into-everything-the-company-gets-wrong/",
+      "source": "GameSpot",
+      "published": "Thu, 22 Oct 2026 21:00:06 +0000"
     },
     {
-      "title": "Farewell BioWare, you inspired so many of us, and you deserved so much better than this",
-      "url": "https://www.eurogamer.net/farewell-bioware-closed-ea",
-      "source": "Eurogamer",
-      "published": "Thu, 22 Oct 2026 16:45:25 +0000"
-    },
-    {
-      "title": "New Look at Avengers: Doomsday to Premiere During MLB World Series",
-      "url": "https://www.ign.com/articles/new-look-at-avengers-doomsday-to-premiere-during-mlb-world-series",
+      "title": "Alienware's Outstanding 32\" 4K 240Hz Quantum-Dot OLED Gaming Monitor Drops to an All-Time Low",
+      "url": "https://www.ign.com/articles/alienware-aw3225qf-4k-oled-gaming-monitor-deal-october-2026",
       "source": "IGN",
-      "published": "Thu, 22 Oct 2026 20:48:49 +0000"
+      "published": "Thu, 22 Oct 2026 20:55:00 +0000"
+    },
+    {
+      "title": "Amazon Has a Sale on Magic: The Gathering Booster Boxes Even Before Black Friday Kicks Off",
+      "url": "https://www.ign.com/articles/magic-the-gathering-booster-box-deals-amazon-black-friday-early-deals",
+      "source": "IGN",
+      "published": "Thu, 22 Oct 2026 22:00:00 +0000"
+    },
+    {
+      "title": "GTA 6 and Gasoline in Video Games",
+      "url": "https://www.gamespot.com/videos/gta-6-and-gasoline-in-video-games/",
+      "source": "GameSpot",
+      "published": "Thu, 22 Oct 2026 21:00:00 +0000"
+    },
+    {
+      "title": "Smash Bros. director Masahiro Sakurai thinks gen-AI will cause a surge of unoriginal games, but says human creativity can't be replicated",
+      "url": "https://www.eurogamer.net/smash-bros-masahiro-sakurai-generative-ai-unoriginal-games",
+      "source": "Eurogamer",
+      "published": "Thu, 22 Oct 2026 17:00:49 +0000"
     },
     {
       "title": "A Talent for Murder Review",
@@ -164,22 +80,106 @@
       "published": "Thu, 22 Oct 2026 20:47:11 +0000"
     },
     {
-      "title": "Following shock BioWare closure, scope of EA job cuts becomes clear as layoffs hit Respawn, Maxis, Full Circle, EA Motive, and more",
-      "url": "https://www.eurogamer.net/ea-cuts-massive-ripple-effect-motive-full-circle-respawn",
-      "source": "Eurogamer",
-      "published": "Thu, 22 Oct 2026 11:43:30 +0000"
-    },
-    {
       "title": "'No other studio in the world did it better' than BioWare at its peak, says former Dragon Age lead writer David Gaider",
       "url": "https://www.pcgamer.com/games/dragon-age/no-other-studio-in-the-world-did-it-better-than-bioware-at-its-peak-says-former-dragon-age-lead-writer-david-gaider/",
       "source": "PC Gamer",
       "published": "Thu, 22 Oct 2026 17:57:26 +0000"
     },
     {
-      "title": "Amazon Has a Sale on Magic: The Gathering Booster Boxes Even Before Black Friday Kicks Off",
-      "url": "https://www.ign.com/articles/magic-the-gathering-booster-box-deals-amazon-black-friday-early-deals",
+      "title": "I’m Getting Very Worried About Skate Following EA Layoffs",
+      "url": "https://www.gamespot.com/articles/im-getting-very-worried-about-skate-following-ea-layoffs/",
+      "source": "GameSpot",
+      "published": "Thu, 22 Oct 2026 19:49:22 +0000"
+    },
+    {
+      "title": "How to dual wield in Cyberpunk 2077",
+      "url": "https://www.pcgamer.com/games/rpg/how-to-dual-wield-in-cyberpunk-2077/",
+      "source": "PC Gamer",
+      "published": "Thu, 22 Oct 2026 19:35:48 +0000"
+    },
+    {
+      "title": "Save $700 Off the HyperX OMEN Gaming Laptop With GeForce RTX 5060 (115W) Graphics",
+      "url": "https://www.ign.com/articles/hyperx-omen-gaming-laptop-deal-october-2026",
       "source": "IGN",
-      "published": "Thu, 22 Oct 2026 22:00:00 +0000"
+      "published": "Thu, 22 Oct 2026 19:50:00 +0000"
+    },
+    {
+      "title": "Final Fantasy 14, Umamusume: Pretty Derby, and more impacted as PHP vulnerability outages hit games around the globe",
+      "url": "https://www.eurogamer.net/video-games-down-php-vulnerability",
+      "source": "Eurogamer",
+      "published": "Thu, 22 Oct 2026 14:11:14 +0000"
+    },
+    {
+      "title": "New Look at Avengers: Doomsday to Premiere During MLB World Series",
+      "url": "https://www.ign.com/articles/new-look-at-avengers-doomsday-to-premiere-during-mlb-world-series",
+      "source": "IGN",
+      "published": "Thu, 22 Oct 2026 20:48:49 +0000"
+    },
+    {
+      "title": "Young Sheldon Star Annie Potts Says She Was a ‘Little Sad’ About Jim Parsons Cameo as 'Mean and Unchanged' Sheldon in Show's Finale",
+      "url": "https://www.ign.com/articles/young-sheldon-star-annie-potts-says-she-was-a-little-sad-about-jim-parsons-cameo-as-mean-and-unchanged-sheldon-in-shows-finale",
+      "source": "IGN",
+      "published": "Thu, 22 Oct 2026 21:27:02 +0000"
+    },
+    {
+      "title": "After The BioWare Shutdown, Mass Effect Spiritual Successor Exodus Gets A New Look",
+      "url": "https://www.gamespot.com/articles/after-the-bioware-shutdown-mass-effect-spiritual-successor-exodus-gets-a-new-look/",
+      "source": "GameSpot",
+      "published": "Thu, 22 Oct 2026 21:37:24 +0000"
+    },
+    {
+      "title": "Canadian politician calls on government to help BioWare employees buy the studio and run it themselves",
+      "url": "https://www.pcgamer.com/games/mass-effect/canadian-politician-calls-on-government-to-help-bioware-employees-buy-the-studio-and-run-it-themselves/",
+      "source": "PC Gamer",
+      "published": "Thu, 22 Oct 2026 21:26:29 +0000"
+    },
+    {
+      "title": "Saber Interactive CEO Says Clive Barker’s Hellraiser: Revival is Performing 'Extremely Well on PC and Consoles' with More to Come",
+      "url": "https://www.ign.com/articles/saber-interactive-ceo-says-clive-barkers-hellraiser-revival-is-performing-extremely-well-on-pc-and-consoles-with-more-to-come",
+      "source": "IGN",
+      "published": "Thu, 22 Oct 2026 20:19:59 +0000"
+    },
+    {
+      "title": "It Isn’t Debra Wilson’s Fault She’s In Everything",
+      "url": "https://www.gamespot.com/articles/it-isnt-debra-wilsons-fault-shes-in-everything/",
+      "source": "GameSpot",
+      "published": "Thu, 22 Oct 2026 19:18:10 +0000"
+    },
+    {
+      "title": "BioWare's cancelled Mass Effect game would've learned from Baldur's Gate 3 and The Witcher to deliver \"a level of autonomy and choice that no other game has\"",
+      "url": "https://www.eurogamer.net/cancelled-mass-effect-bioware-unprecedented-levels-of-autonomy",
+      "source": "Eurogamer",
+      "published": "Thu, 22 Oct 2026 13:35:34 +0000"
+    },
+    {
+      "title": "Tom Skerritt Dies: Alien and Top Gun Actor Was 93",
+      "url": "https://www.ign.com/articles/tom-skerritt-alien-top-gun-actor-dies-93",
+      "source": "IGN",
+      "published": "Thu, 22 Oct 2026 20:59:59 +0000"
+    },
+    {
+      "title": "Games industry mourns sudden BioWare closure - \"Anyone who participated in this travesty should be ashamed\"",
+      "url": "https://www.eurogamer.net/video-game-industry-reacts-to-bioware-closure",
+      "source": "Eurogamer",
+      "published": "Thu, 22 Oct 2026 12:56:13 +0000"
+    },
+    {
+      "title": "Future Capcom games will have Onimusha to thank for RE Engine's gnarly dismemberments",
+      "url": "https://www.pcgamer.com/games/action/future-capcom-games-will-have-onimusha-to-thank-for-re-engines-gnarly-dismemberments/",
+      "source": "PC Gamer",
+      "published": "Thu, 22 Oct 2026 19:18:23 +0000"
+    },
+    {
+      "title": "WoW: Forever Is Keeping Its Secrets Close To The Chest",
+      "url": "https://www.gamespot.com/articles/wow-forever-is-keeping-its-secrets-close-to-the-chest/",
+      "source": "GameSpot",
+      "published": "Thu, 22 Oct 2026 19:10:38 +0000"
+    },
+    {
+      "title": "How to get King's outfit in Cyberpunk 2077",
+      "url": "https://www.pcgamer.com/games/rpg/cyberpunk-2077-king-outfit-clampdown-edgerunners/",
+      "source": "PC Gamer",
+      "published": "Thu, 22 Oct 2026 19:32:18 +0000"
     }
   ]
 }
