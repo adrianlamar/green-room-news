@@ -1,125 +1,17 @@
 {
-  "updated": "2026-10-22T00:39:24.044961+00:00",
+  "updated": "2026-10-22T01:34:54.512048+00:00",
   "articles": [
     {
-      "title": "Mass Effect TV Series Remains Active at Prime Video Despite BioWare Closure",
-      "url": "https://www.ign.com/articles/mass-effect-tv-series-prime-video-bioware-closure",
+      "title": "BioWare is closing down and Mass Effect 5 is cancelled, months after Saudi Arabia's $55bn EA buyout",
+      "url": "https://www.eurogamer.net/bioware-closing-down-mass-effect-5-cancelled",
+      "source": "Eurogamer",
+      "published": "Wed, 21 Oct 2026 17:55:57 +0000"
+    },
+    {
+      "title": "Brandon Sanderson Wants to Know Who Really Wrote the Mr. Beast Book",
+      "url": "https://www.ign.com/articles/brandon-sanderson-wants-to-know-who-really-wrote-the-mr-beast-book",
       "source": "IGN",
-      "published": "Wed, 21 Oct 2026 22:06:29 +0000"
-    },
-    {
-      "title": "Don’t Worry, You’re Not The Only One Dying Too Much In Modern Warfare 4’s Campaign",
-      "url": "https://www.gamespot.com/articles/dont-worry-youre-not-the-only-one-dying-too-much-in-modern-warfare-4s-campaign/",
-      "source": "GameSpot",
-      "published": "Wed, 21 Oct 2026 18:23:00 +0000"
-    },
-    {
-      "title": "Beyond Good & Evil 2 reportedly still in development 18 years after being announced, now a \"solo-first\" adventure",
-      "url": "https://www.eurogamer.net/beyond-good-and-evil-bge2-report-ubisoft",
-      "source": "Eurogamer",
-      "published": "Wed, 21 Oct 2026 16:01:00 +0000"
-    },
-    {
-      "title": "CD Projekt Red details new Cyberpunk 2077 update - adding dual-wielding, cross-platform mods, Edgerunners story quests, and more",
-      "url": "https://www.eurogamer.net/cyberpunk-2077-update-edgerunners-2-mod-support",
-      "source": "Eurogamer",
-      "published": "Wed, 21 Oct 2026 16:03:54 +0000"
-    },
-    {
-      "title": "EA cancels unannounced The Sims project, trims the Skate team and reportedly plans to lay off 400 workers: \"We're the number one publisher in Western HD gaming\"",
-      "url": "https://www.eurogamer.net/ea-cancels-sims-skate-400-layoffs",
-      "source": "Eurogamer",
-      "published": "Wed, 21 Oct 2026 19:01:46 +0000"
-    },
-    {
-      "title": "RIP BioWare: EA has shut down the legendary RPG developer",
-      "url": "https://www.pcgamer.com/gaming-industry/rip-bioware-ea-has-shut-down-the-legendary-rpg-developer/",
-      "source": "PC Gamer",
-      "published": "Wed, 21 Oct 2026 17:16:53 +0000"
-    },
-    {
-      "title": "Holy crap, they're making Serious Sam: The Third Encounter",
-      "url": "https://www.pcgamer.com/games/fps/holy-crap-theyre-making-serious-sam-the-third-encounter/",
-      "source": "PC Gamer",
-      "published": "Thu, 22 Oct 2026 00:12:03 +0000"
-    },
-    {
-      "title": "It gives me great nerdly joy that the Next Fest demo on Steam's 100 most-played games list is a shopkeeping sim",
-      "url": "https://www.pcgamer.com/games/sim/it-gives-me-great-nerdly-joy-that-the-next-fest-demo-on-steams-100-most-played-games-list-is-a-shopkeeping-sim/",
-      "source": "PC Gamer",
-      "published": "Wed, 21 Oct 2026 20:06:33 +0000"
-    },
-    {
-      "title": "Max Miller’s Tasting History Is Coming To Your Tabletop With A New Board Game",
-      "url": "https://www.gamespot.com/articles/max-millers-tasting-history-is-coming-to-your-tabletop-with-a-new-board-game/",
-      "source": "GameSpot",
-      "published": "Wed, 21 Oct 2026 20:20:42 +0000"
-    },
-    {
-      "title": "EA Cancels New Mass Effect, Pauses New Sims Game, And All The Other  Big EA News That Just Happened",
-      "url": "https://www.gamespot.com/articles/ea-kills-bioware-cancels-new-mass-effect-pauses-new-sims-game-and-all-the-other-big-ea-news-that-just-happened/",
-      "source": "GameSpot",
-      "published": "Wed, 21 Oct 2026 18:20:23 +0000"
-    },
-    {
-      "title": "Chris Pratt Reaffirms Star-Lord Will Return in the MCU and Plans Are Being Made Right Now",
-      "url": "https://www.ign.com/articles/chris-pratt-reaffirms-star-lord-will-return-in-the-mcu-and-plans-are-being-made-right-now",
-      "source": "IGN",
-      "published": "Wed, 21 Oct 2026 22:43:17 +0000"
-    },
-    {
-      "title": "Former BioWare Executive Producer Mark Darrah Says EA Might Be 'More Likely' to Sell IPs Like Mass Effect and Dragon Age After Studio’s Closure",
-      "url": "https://www.ign.com/articles/former-bioware-executive-producer-mark-darrah-says-ea-might-be-more-likely-to-sell-ips-like-mass-effect-and-dragon-age-after-studios-closure",
-      "source": "IGN",
-      "published": "Wed, 21 Oct 2026 21:40:02 +0000"
-    },
-    {
-      "title": "Modern Warfare 4 players declare 'broken' on DMZ perk that lets you self-revive after full death",
-      "url": "https://www.pcgamer.com/games/call-of-duty/modern-warfare-4-players-declare-broken-on-dmz-perk-that-lets-you-self-revive-after-full-death/",
-      "source": "PC Gamer",
-      "published": "Wed, 21 Oct 2026 21:36:47 +0000"
-    },
-    {
-      "title": "Everyone gets a free ticket to World of Warcraft: Forever today as Blizzard stress tests the servers ahead of launch day",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/everyone-gets-a-free-ticket-to-world-of-warcraft-forever-today-as-blizzard-stress-tests-the-servers-ahead-of-launch-day/",
-      "source": "PC Gamer",
-      "published": "Wed, 21 Oct 2026 19:58:36 +0000"
-    },
-    {
-      "title": "After a few hours with Yakuza studio's soulful Stranger Than Heaven, I'm smitten, but I suspect it'll be a divisive game",
-      "url": "https://www.eurogamer.net/stranger-than-heaven-preview",
-      "source": "Eurogamer",
-      "published": "Wed, 21 Oct 2026 14:00:41 +0000"
-    },
-    {
-      "title": "With BioWare dead, EA lays out its 'next chapter,' and it's pretty much as predicted: Guns and football are fine, and everything else is under the microscope",
-      "url": "https://www.pcgamer.com/gaming-industry/with-bioware-dead-ea-lays-out-its-next-chapter-and-its-pretty-much-as-predicted-guns-and-football-are-fine-and-everything-else-is-under-the-microscope/",
-      "source": "PC Gamer",
-      "published": "Wed, 21 Oct 2026 18:41:11 +0000"
-    },
-    {
-      "title": "The Halo We Grew Up With Is Never Coming Back",
-      "url": "https://www.gamespot.com/articles/the-halo-we-grew-up-with-is-never-coming-back/",
-      "source": "GameSpot",
-      "published": "Wed, 21 Oct 2026 20:04:42 +0000"
-    },
-    {
-      "title": "First-person Soulslike Valor Mortis is already making a profit after seven days, despite launching against some stiff competition",
-      "url": "https://www.eurogamer.net/soulslike-valor-mortis-making-profit-seven-days",
-      "source": "Eurogamer",
-      "published": "Wed, 21 Oct 2026 16:43:42 +0000"
-    },
-    {
-      "title": "World of Warcraft: Forever's beta has been extended, as community members mourn the loss of their hunter pets",
-      "url": "https://www.eurogamer.net/world-of-warcraft-forever-beta-extended",
-      "source": "Eurogamer",
-      "published": "Wed, 21 Oct 2026 15:46:24 +0000"
-    },
-    {
-      "title": "BioWare Was the Greatest RPG Developer Ever",
-      "url": "https://www.ign.com/articles/bioware-was-the-greatest-rpg-developer-ever",
-      "source": "IGN",
-      "published": "Wed, 21 Oct 2026 22:38:17 +0000"
+      "published": "Thu, 22 Oct 2026 00:14:50 +0000"
     },
     {
       "title": "GTA 6's Fast Food Restaurant, Burger Shot, Is Coming to Real Life in the Miami Heat's Arena",
@@ -128,16 +20,28 @@
       "published": "Wed, 21 Oct 2026 23:15:44 +0000"
     },
     {
-      "title": "CD Projekt boss pays tribute to BioWare for helping bring The Witcher to life 20 years ago: 'BioWare has been a massive part of CDPR history'",
-      "url": "https://www.pcgamer.com/gaming-industry/cd-projekt-boss-pays-tribute-to-bioware-for-helping-bring-the-witcher-to-life-20-years-ago-bioware-has-been-a-massive-part-of-cdpr-history/",
+      "title": "The next Mass Effect would have had 'a level of autonomy and choice that no other game has been able to match', according to BioWare veteran",
+      "url": "https://www.pcgamer.com/games/mass-effect/the-next-mass-effect-would-have-had-a-level-of-autonomy-and-choice-that-no-other-game-has-been-able-to-match-according-to-bioware-veteran/",
       "source": "PC Gamer",
-      "published": "Wed, 21 Oct 2026 21:43:06 +0000"
+      "published": "Thu, 22 Oct 2026 01:14:40 +0000"
     },
     {
-      "title": "Call of Duty: Modern Warfare 4 DMZ Review So Far",
-      "url": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-dmz-review",
-      "source": "IGN",
-      "published": "Wed, 21 Oct 2026 23:02:17 +0000"
+      "title": "EA Cancels New Mass Effect, Pauses New Sims Game, And All The Other  Big EA News That Just Happened",
+      "url": "https://www.gamespot.com/articles/ea-kills-bioware-cancels-new-mass-effect-pauses-new-sims-game-and-all-the-other-big-ea-news-that-just-happened/",
+      "source": "GameSpot",
+      "published": "Wed, 21 Oct 2026 18:20:23 +0000"
+    },
+    {
+      "title": "It gives me great nerdly joy that the Next Fest demo on Steam's 100 most-played games list is a shopkeeping sim",
+      "url": "https://www.pcgamer.com/games/sim/it-gives-me-great-nerdly-joy-that-the-next-fest-demo-on-steams-100-most-played-games-list-is-a-shopkeeping-sim/",
+      "source": "PC Gamer",
+      "published": "Wed, 21 Oct 2026 20:06:33 +0000"
+    },
+    {
+      "title": "The Halo We Grew Up With Is Never Coming Back",
+      "url": "https://www.gamespot.com/articles/the-halo-we-grew-up-with-is-never-coming-back/",
+      "source": "GameSpot",
+      "published": "Wed, 21 Oct 2026 20:04:42 +0000"
     },
     {
       "title": "Machinarium AI tribute cops a flogging from studio: 'This looks disgusting and has nothing to do with us or our craft'",
@@ -146,16 +50,118 @@
       "published": "Wed, 21 Oct 2026 22:26:41 +0000"
     },
     {
-      "title": "BioWare is closing down and Mass Effect 5 is cancelled, months after Saudi Arabia's $55bn EA buyout",
-      "url": "https://www.eurogamer.net/bioware-closing-down-mass-effect-5-cancelled",
-      "source": "Eurogamer",
-      "published": "Wed, 21 Oct 2026 17:55:57 +0000"
+      "title": "Xbox Cloud Gaming Hourly Prices Revealed For Non-Game Pass Members",
+      "url": "https://www.gamespot.com/articles/xbox-cloud-gaming-hourly-prices-revealed-for-non-game-pass-members/",
+      "source": "GameSpot",
+      "published": "Wed, 21 Oct 2026 19:10:33 +0000"
     },
     {
-      "title": "Star Wars: The Old Republic Fans Pay Their Respects to BioWare",
-      "url": "https://www.ign.com/articles/star-wars-the-old-republic-fans-pay-their-respects-to-bioware",
+      "title": "SonicFox Cancels Contract With Gaming Convention After Event Uses Likeness in AI-Generated Poster",
+      "url": "https://www.ign.com/articles/sonicfox-cancels-contract-with-gaming-convention-after-event-uses-likeness-in-ai-generated-poster",
       "source": "IGN",
-      "published": "Wed, 21 Oct 2026 21:16:28 +0000"
+      "published": "Wed, 21 Oct 2026 22:19:55 +0000"
+    },
+    {
+      "title": "Chris Pratt Reaffirms Star-Lord Will Return in the MCU and Plans Are Being Made Right Now",
+      "url": "https://www.ign.com/articles/chris-pratt-reaffirms-star-lord-will-return-in-the-mcu-and-plans-are-being-made-right-now",
+      "source": "IGN",
+      "published": "Wed, 21 Oct 2026 22:43:17 +0000"
+    },
+    {
+      "title": "Modern Warfare 4 players declare 'broken' on DMZ perk that lets you self-revive after full death",
+      "url": "https://www.pcgamer.com/games/call-of-duty/modern-warfare-4-players-declare-broken-on-dmz-perk-that-lets-you-self-revive-after-full-death/",
+      "source": "PC Gamer",
+      "published": "Wed, 21 Oct 2026 21:36:47 +0000"
+    },
+    {
+      "title": "Your Favorite Video Games Will Always Be Influenced By Manga",
+      "url": "https://www.gamespot.com/articles/your-favorite-video-games-will-always-be-influenced-by-manga/",
+      "source": "GameSpot",
+      "published": "Wed, 21 Oct 2026 20:21:08 +0000"
+    },
+    {
+      "title": "Beyond Good & Evil 2 reportedly still in development 18 years after being announced, now a \"solo-first\" adventure",
+      "url": "https://www.eurogamer.net/beyond-good-and-evil-bge2-report-ubisoft",
+      "source": "Eurogamer",
+      "published": "Wed, 21 Oct 2026 16:01:00 +0000"
+    },
+    {
+      "title": "Mass Effect TV Series Remains Active at Prime Video Despite BioWare Closure",
+      "url": "https://www.ign.com/articles/mass-effect-tv-series-prime-video-bioware-closure",
+      "source": "IGN",
+      "published": "Wed, 21 Oct 2026 22:06:29 +0000"
+    },
+    {
+      "title": "World of Warcraft: Forever's beta has been extended, as community members mourn the loss of their hunter pets",
+      "url": "https://www.eurogamer.net/world-of-warcraft-forever-beta-extended",
+      "source": "Eurogamer",
+      "published": "Wed, 21 Oct 2026 15:46:24 +0000"
+    },
+    {
+      "title": "Call of Duty: Modern Warfare 4 DMZ Review So Far",
+      "url": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-dmz-review",
+      "source": "IGN",
+      "published": "Wed, 21 Oct 2026 23:02:17 +0000"
+    },
+    {
+      "title": "CD Projekt Red details new Cyberpunk 2077 update - adding dual-wielding, cross-platform mods, Edgerunners story quests, and more",
+      "url": "https://www.eurogamer.net/cyberpunk-2077-update-edgerunners-2-mod-support",
+      "source": "Eurogamer",
+      "published": "Wed, 21 Oct 2026 16:03:54 +0000"
+    },
+    {
+      "title": "Can you identify the horror game by its horrors?",
+      "url": "https://www.pcgamer.com/games/can-you-identify-the-horror-game-by-its-horrors/",
+      "source": "PC Gamer",
+      "published": "Thu, 22 Oct 2026 01:09:04 +0000"
+    },
+    {
+      "title": "CD Projekt boss pays tribute to BioWare for helping bring The Witcher to life 20 years ago: 'BioWare has been a massive part of CDPR history'",
+      "url": "https://www.pcgamer.com/gaming-industry/cd-projekt-boss-pays-tribute-to-bioware-for-helping-bring-the-witcher-to-life-20-years-ago-bioware-has-been-a-massive-part-of-cdpr-history/",
+      "source": "PC Gamer",
+      "published": "Wed, 21 Oct 2026 21:43:06 +0000"
+    },
+    {
+      "title": "EA cancels unannounced The Sims project, trims the Skate team and reportedly plans to lay off 400 workers: \"We're the number one publisher in Western HD gaming\"",
+      "url": "https://www.eurogamer.net/ea-cancels-sims-skate-400-layoffs",
+      "source": "Eurogamer",
+      "published": "Wed, 21 Oct 2026 19:01:46 +0000"
+    },
+    {
+      "title": "Don’t Worry, You’re Not The Only One Dying Too Much In Modern Warfare 4’s Campaign",
+      "url": "https://www.gamespot.com/articles/dont-worry-youre-not-the-only-one-dying-too-much-in-modern-warfare-4s-campaign/",
+      "source": "GameSpot",
+      "published": "Wed, 21 Oct 2026 18:23:00 +0000"
+    },
+    {
+      "title": "First-person Soulslike Valor Mortis is already making a profit after seven days, despite launching against some stiff competition",
+      "url": "https://www.eurogamer.net/soulslike-valor-mortis-making-profit-seven-days",
+      "source": "Eurogamer",
+      "published": "Wed, 21 Oct 2026 16:43:42 +0000"
+    },
+    {
+      "title": "After a few hours with Yakuza studio's soulful Stranger Than Heaven, I'm smitten, but I suspect it'll be a divisive game",
+      "url": "https://www.eurogamer.net/stranger-than-heaven-preview",
+      "source": "Eurogamer",
+      "published": "Wed, 21 Oct 2026 14:00:41 +0000"
+    },
+    {
+      "title": "Xbox follows in PlayStation's footsteps, introducing AMD FSR 4.1, targeting better graphics and performance on Series X/S",
+      "url": "https://www.eurogamer.net/xbox-series-x-s-amd-fsr-4-1-upscaling",
+      "source": "Eurogamer",
+      "published": "Wed, 21 Oct 2026 14:13:43 +0000"
+    },
+    {
+      "title": "Everyone gets a free ticket to World of Warcraft: Forever today as Blizzard stress tests the servers ahead of launch day",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/everyone-gets-a-free-ticket-to-world-of-warcraft-forever-today-as-blizzard-stress-tests-the-servers-ahead-of-launch-day/",
+      "source": "PC Gamer",
+      "published": "Wed, 21 Oct 2026 19:58:36 +0000"
+    },
+    {
+      "title": "BioWare Was the Greatest RPG Developer Ever",
+      "url": "https://www.ign.com/articles/bioware-was-the-greatest-rpg-developer-ever",
+      "source": "IGN",
+      "published": "Wed, 21 Oct 2026 22:38:17 +0000"
     },
     {
       "title": "Star Wars Battlefront 3 Reportedly In Development By EA’s Top Shooter Studios",
@@ -164,22 +170,16 @@
       "published": "Wed, 21 Oct 2026 19:16:31 +0000"
     },
     {
-      "title": "Xbox Cloud Gaming Hourly Prices Revealed For Non-Game Pass Members",
-      "url": "https://www.gamespot.com/articles/xbox-cloud-gaming-hourly-prices-revealed-for-non-game-pass-members/",
-      "source": "GameSpot",
-      "published": "Wed, 21 Oct 2026 19:10:33 +0000"
+      "title": "Holy crap, they're making Serious Sam: The Third Encounter",
+      "url": "https://www.pcgamer.com/games/fps/holy-crap-theyre-making-serious-sam-the-third-encounter/",
+      "source": "PC Gamer",
+      "published": "Thu, 22 Oct 2026 00:12:03 +0000"
     },
     {
       "title": "Warhammer 40,000: Dawn of War IV Looks To Right The Wrongs Of Its Predecessor | Preview",
       "url": "https://www.gamespot.com/videos/warhammer-40000-dawn-of-war-iv-looks-to-right-the-wrongs-of-its-predecessor-preview/",
       "source": "GameSpot",
       "published": "Wed, 21 Oct 2026 19:00:00 +0000"
-    },
-    {
-      "title": "Your Favorite Video Games Will Always Be Influenced By Manga",
-      "url": "https://www.gamespot.com/articles/your-favorite-video-games-will-always-be-influenced-by-manga/",
-      "source": "GameSpot",
-      "published": "Wed, 21 Oct 2026 20:21:08 +0000"
     }
   ]
 }
