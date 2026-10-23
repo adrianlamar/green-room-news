@@ -1,24 +1,6 @@
 {
-  "updated": "2026-10-23T16:10:43.622265+00:00",
+  "updated": "2026-10-23T17:07:56.840713+00:00",
   "articles": [
-    {
-      "title": "Stolen RTX 5090 from Brazilian airport forklift heist reportedly turns up on second hand market for $6,400, but the rest remain AWOL",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/stolen-rtx-5090-from-brazilian-airport-forklift-heist-reportedly-turns-up-on-second-hand-market-for-usd6-400-but-the-rest-remain-awol/",
-      "source": "PC Gamer",
-      "published": "Fri, 23 Oct 2026 10:42:31 +0000"
-    },
-    {
-      "title": "Farewell BioWare, you inspired so many of us, and you deserved so much better than this",
-      "url": "https://www.eurogamer.net/farewell-bioware-closed-ea",
-      "source": "Eurogamer",
-      "published": "Thu, 22 Oct 2026 16:45:25 +0000"
-    },
-    {
-      "title": "Save Mass Effect Petition Hits 50,000 Signatures, Just Days After BioWare Closure",
-      "url": "https://www.ign.com/articles/save-mass-effect-petition-hits-50000-signatures-just-days-after-bioware-closure",
-      "source": "IGN",
-      "published": "Fri, 23 Oct 2026 14:59:00 +0000"
-    },
     {
       "title": "Phantom Blade Zero isn't even out yet, but it could be 'one of the year's breakout hits' as it shifts half a million copies on Steam alone",
       "url": "https://www.eurogamer.net/phantom-blade-zero-hit-not-out",
@@ -26,70 +8,10 @@
       "published": "Fri, 23 Oct 2026 12:33:45 +0000"
     },
     {
-      "title": "EA Appears to Have Quietly Pulled Mass Effect Content From Battlefield 6 Following BioWare Shutdown",
-      "url": "https://www.ign.com/articles/ea-appears-to-have-quietly-pulled-mass-effect-content-from-battlefield-6-following-bioware-shutdown",
-      "source": "IGN",
-      "published": "Fri, 23 Oct 2026 15:33:47 +0000"
-    },
-    {
-      "title": "All Genshin Impact 7.2 livestream codes",
-      "url": "https://www.pcgamer.com/games/rpg/genshin-impact-codes-7-2-livestream/",
-      "source": "PC Gamer",
-      "published": "Fri, 23 Oct 2026 12:04:33 +0000"
-    },
-    {
-      "title": "I've tested every graphics setting in Call of Duty: Modern Warfare 4—tweak these four options for the best performance",
-      "url": "https://www.pcgamer.com/games/call-of-duty/ive-tested-every-graphics-setting-in-call-of-duty-modern-warfare-4-tweak-these-four-options-for-the-best-performance/",
-      "source": "PC Gamer",
-      "published": "Fri, 23 Oct 2026 10:29:20 +0000"
-    },
-    {
-      "title": "The Wait For GTA 6 Feels Like A Crime, So Grab This Excellent Alternative For Less Than $4",
-      "url": "https://www.gamespot.com/articles/the-wait-for-gta-6-feels-like-a-crime-so-grab-this-excellent-alternative-for-less-than-4/",
+      "title": "WoW: Forever’s Divisive Layering Will See Major Improvements For Launch, Blizzard Says",
+      "url": "https://www.gamespot.com/articles/wow-forevers-divisive-layering-will-see-major-improvements-for-launch-blizzard-says/",
       "source": "GameSpot",
-      "published": "Fri, 23 Oct 2026 15:15:36 +0000"
-    },
-    {
-      "title": "Final Fantasy 14, Umamusume: Pretty Derby, and more impacted as PHP vulnerability outages hit games around the globe",
-      "url": "https://www.eurogamer.net/video-games-down-php-vulnerability",
-      "source": "Eurogamer",
-      "published": "Thu, 22 Oct 2026 14:11:14 +0000"
-    },
-    {
-      "title": "Cancelling Mass Effect And Closing BioWare Was An Obvious Thing For EA To Do, Experts Say",
-      "url": "https://www.gamespot.com/articles/cancelling-mass-effect-and-closing-bioware-was-an-obvious-thing-for-ea-to-do-experts-say/",
-      "source": "GameSpot",
-      "published": "Fri, 23 Oct 2026 14:33:45 +0000"
-    },
-    {
-      "title": "Finger Out How To Prep For GTA 6 With These Exercises",
-      "url": "https://www.gamespot.com/articles/finger-out-how-to-prep-for-gta-6-with-these-exercises/",
-      "source": "GameSpot",
-      "published": "Fri, 23 Oct 2026 15:39:56 +0000"
-    },
-    {
-      "title": "The Ultra-Slim Baseus Blade 20,000mAh Power Bank Drops to $39 Ahead of Black Friday",
-      "url": "https://www.ign.com/articles/baseus-blade-slim-power-bank-deal-october-2026",
-      "source": "IGN",
-      "published": "Fri, 23 Oct 2026 15:50:00 +0000"
-    },
-    {
-      "title": "Nintendo Legend Shigeru Miyamoto Becomes First Game Designer to Be Awarded Japan's Order of Culture",
-      "url": "https://www.ign.com/articles/nintendo-legend-shigeru-miyamoto-becomes-first-game-designer-to-be-awarded-japans-order-of-culture",
-      "source": "IGN",
-      "published": "Fri, 23 Oct 2026 15:47:53 +0000"
-    },
-    {
-      "title": "Battlefield 6 Reportedly Cancels Mass Effect Collab In Wake Of BioWare Closure",
-      "url": "https://www.gamespot.com/articles/battlefield-6-reportedly-cancels-mass-effect-collab-in-wake-of-bioware-closure/",
-      "source": "GameSpot",
-      "published": "Fri, 23 Oct 2026 15:48:29 +0000"
-    },
-    {
-      "title": "Save $50 Off a 512GB Nintendo Switch 2 Memory Card That We've Personally Tested and Vetted",
-      "url": "https://www.ign.com/articles/samsung-p9-512gb-nintendo-switch-2-memory-card-deal-october-2026",
-      "source": "IGN",
-      "published": "Fri, 23 Oct 2026 15:55:00 +0000"
+      "published": "Fri, 23 Oct 2026 16:29:06 +0000"
     },
     {
       "title": "\"Why the f**k would they add a perk like that?\" - Modern Warfare 4 DMZ players are up in arms over the ability to self-revive",
@@ -98,58 +20,10 @@
       "published": "Fri, 23 Oct 2026 14:55:40 +0000"
     },
     {
-      "title": "Smash Bros. director Masahiro Sakurai thinks gen-AI will cause a surge of unoriginal games, but says human creativity can't be replicated",
-      "url": "https://www.eurogamer.net/smash-bros-masahiro-sakurai-generative-ai-unoriginal-games",
-      "source": "Eurogamer",
-      "published": "Thu, 22 Oct 2026 17:00:49 +0000"
-    },
-    {
-      "title": "Vote now: The Mammoth Tank and Priest go head-to-head to determine the best RTS unit of all time",
-      "url": "https://www.pcgamer.com/games/rts/vote-now-the-mammoth-tank-and-priest-go-head-to-head-to-determine-the-best-rts-unit-of-all-time/",
+      "title": "Call of Duty: Modern Warfare 4 actually runs pretty smoothly with Activision's 'recommended' RTX 3060 Ti graphics card, and here are the settings I use to get the best performance from it",
+      "url": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-modern-warfare-4-actually-runs-pretty-smoothly-with-activisions-recommended-rtx-3060-ti-graphics-card-and-here-are-the-settings-i-use-to-get-the-best-performance-from-it/",
       "source": "PC Gamer",
-      "published": "Fri, 23 Oct 2026 13:16:54 +0000"
-    },
-    {
-      "title": "Half-Life 3 is back in the news again as Valve developer accidentally sort-of references it in public, reigniting hope once more",
-      "url": "https://www.eurogamer.net/half-life-3-developer-references-codename-public",
-      "source": "Eurogamer",
-      "published": "Fri, 23 Oct 2026 12:43:22 +0000"
-    },
-    {
-      "title": "Rideshare Stimulator’s Biggest Problem Isn’t AI, It’s That The Game Just Isn’t Very Good",
-      "url": "https://www.gamespot.com/articles/rideshare-stimulators-biggest-problem-isnt-ai-its-that-the-game-just-isnt-very-good/",
-      "source": "GameSpot",
-      "published": "Fri, 23 Oct 2026 15:54:47 +0000"
-    },
-    {
-      "title": "Graphics card wholesale prices are on the rise once again in China, so it's time to brace yourself for even more GPU pricing pain",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/graphics-card-wholesale-prices-are-on-the-rise-once-again-in-china-so-its-time-to-brace-yourself-for-even-more-gpu-pricing-pain/",
-      "source": "PC Gamer",
-      "published": "Fri, 23 Oct 2026 13:36:34 +0000"
-    },
-    {
-      "title": "AMD says its working on FSR's frame pacing issues, but there's still conspicuously no mention of Multi Frame Generation",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-says-its-working-on-fsrs-frame-pacing-issues-but-theres-still-conspicuously-no-mention-of-multi-frame-generation/",
-      "source": "PC Gamer",
-      "published": "Fri, 23 Oct 2026 16:04:04 +0000"
-    },
-    {
-      "title": "LG UltraGear Evo 52G930B Evo gaming monitor review",
-      "url": "https://www.pcgamer.com/hardware/gaming-monitors/lg-ultragear-evo-52g930b-review/",
-      "source": "PC Gamer",
-      "published": "Fri, 23 Oct 2026 14:31:50 +0000"
-    },
-    {
-      "title": "Fallout Shelter: The Experiment Is the Official Title for the Prime Video Reality Competition Show, Release Date Announced on Fallout Day",
-      "url": "https://www.ign.com/articles/fallout-shelter-the-experiment-is-the-official-title-for-the-prime-video-reality-competition-show-release-date-announced-on-fallout-day",
-      "source": "IGN",
-      "published": "Fri, 23 Oct 2026 15:16:16 +0000"
-    },
-    {
-      "title": "In a rare instance of good news, Philips has announced the world's first 36-inch, 260 Hz gaming monitor. So that's nice",
-      "url": "https://www.pcgamer.com/hardware/gaming-monitors/in-a-rare-instance-of-good-news-philips-has-announced-the-worlds-first-36-inch-260-hz-gaming-monitor-so-thats-nice/",
-      "source": "PC Gamer",
-      "published": "Fri, 23 Oct 2026 14:55:41 +0000"
+      "published": "Fri, 23 Oct 2026 16:13:25 +0000"
     },
     {
       "title": "Arkane Lyon Could Be Shut Down Within Weeks As Deadline To Find A Buyer Looms",
@@ -158,28 +32,154 @@
       "published": "Fri, 23 Oct 2026 15:31:00 +0000"
     },
     {
-      "title": "Mondo Celebrates Over the Garden Wall With New Figures and Poster",
-      "url": "https://www.ign.com/articles/mondo-celebrates-over-the-garden-wall-with-new-figures-and-poster",
+      "title": "Smash Bros. director Masahiro Sakurai thinks gen-AI will cause a surge of unoriginal games, but says human creativity can't be replicated",
+      "url": "https://www.eurogamer.net/smash-bros-masahiro-sakurai-generative-ai-unoriginal-games",
+      "source": "Eurogamer",
+      "published": "Thu, 22 Oct 2026 17:00:49 +0000"
+    },
+    {
+      "title": "Rideshare Stimulator’s Biggest Problem Isn’t AI, It’s That The Game Just Isn’t Very Good",
+      "url": "https://www.gamespot.com/articles/rideshare-stimulators-biggest-problem-isnt-ai-its-that-the-game-just-isnt-very-good/",
+      "source": "GameSpot",
+      "published": "Fri, 23 Oct 2026 15:54:47 +0000"
+    },
+    {
+      "title": "Half-Life 3 is back in the news again as Valve developer accidentally sort-of references it in public, reigniting hope once more",
+      "url": "https://www.eurogamer.net/half-life-3-developer-references-codename-public",
+      "source": "Eurogamer",
+      "published": "Fri, 23 Oct 2026 12:43:22 +0000"
+    },
+    {
+      "title": "IGN Is Partnering with Best Buy for 3 Weeks of Giveaways Leading Up to GTA VI’s Release",
+      "url": "https://www.ign.com/articles/ign-is-partnering-with-best-buy-for-3-weeks-of-giveaways-leading-up-to-gta-vis-release",
       "source": "IGN",
+      "published": "Fri, 23 Oct 2026 17:00:00 +0000"
+    },
+    {
+      "title": "Yaga Episodes 1 & 2 Recap and Review",
+      "url": "https://www.ign.com/articles/yaga-episodes-1-2-recap-and-review-hudson-williams-carrie-anne-moss-noah-reid-clark-backo",
+      "source": "IGN",
+      "published": "Fri, 23 Oct 2026 17:00:00 +0000"
+    },
+    {
+      "title": "BioWare's cancelled Mass Effect game would've learned from Baldur's Gate 3 and The Witcher to deliver \"a level of autonomy and choice that no other game has\"",
+      "url": "https://www.eurogamer.net/cancelled-mass-effect-bioware-unprecedented-levels-of-autonomy",
+      "source": "Eurogamer",
+      "published": "Thu, 22 Oct 2026 13:35:34 +0000"
+    },
+    {
+      "title": "Upcoming Mass Effect-like Exodus himbo-fies protagonist after fans complain about his face",
+      "url": "https://www.pcgamer.com/games/rpg/upcoming-mass-effect-like-exodus-himbo-fies-protagonist-after-fans-complain-about-his-face/",
+      "source": "PC Gamer",
+      "published": "Fri, 23 Oct 2026 16:27:52 +0000"
+    },
+    {
+      "title": "Farewell BioWare, you inspired so many of us, and you deserved so much better than this",
+      "url": "https://www.eurogamer.net/farewell-bioware-closed-ea",
+      "source": "Eurogamer",
+      "published": "Thu, 22 Oct 2026 16:45:25 +0000"
+    },
+    {
+      "title": "Your Mind Is Playing Tricks On You: Why You Hear What You Want To Hear In Control Resonant",
+      "url": "https://www.gamespot.com/articles/your-mind-is-playing-tricks-on-you-why-you-hear-what-you-want-to-hear-in-control-resonant/",
+      "source": "GameSpot",
+      "published": "Fri, 23 Oct 2026 16:15:00 +0000"
+    },
+    {
+      "title": "CoD: Modern Warfare 4 DMZ – Best Hot Spots And Loot Locations",
+      "url": "https://www.gamespot.com/articles/cod-modern-warfare-4-dmz-best-hot-spots-and-loot-locations/",
+      "source": "GameSpot",
+      "published": "Fri, 23 Oct 2026 16:40:54 +0000"
+    },
+    {
+      "title": "In a rare instance of good news, Philips has announced the world's first 36-inch, 260 Hz gaming monitor. So that's nice",
+      "url": "https://www.pcgamer.com/hardware/gaming-monitors/in-a-rare-instance-of-good-news-philips-has-announced-the-worlds-first-36-inch-260-hz-gaming-monitor-so-thats-nice/",
+      "source": "PC Gamer",
+      "published": "Fri, 23 Oct 2026 14:55:41 +0000"
+    },
+    {
+      "title": "Clayface’s 4K Steelbook Is Now Available To Preorder – Here’s Where To Buy It",
+      "url": "https://www.ign.com/articles/clayface-4k-steelbook-where-to-buy",
+      "source": "IGN",
+      "published": "Fri, 23 Oct 2026 16:42:56 +0000"
+    },
+    {
+      "title": "LG UltraGear Evo 52G930B Evo gaming monitor review",
+      "url": "https://www.pcgamer.com/hardware/gaming-monitors/lg-ultragear-evo-52g930b-review/",
+      "source": "PC Gamer",
+      "published": "Fri, 23 Oct 2026 14:31:50 +0000"
+    },
+    {
+      "title": "In A (Biddy) Blas Of Glory: How Star Wars: Galactic Racer’s Smallest Racer Made Such A Huge Impact",
+      "url": "https://www.gamespot.com/articles/in-a-biddy-blas-of-glory-how-star-wars-galactic-racers-smallest-racer-made-such-a-huge-impact/",
+      "source": "GameSpot",
       "published": "Fri, 23 Oct 2026 16:00:00 +0000"
     },
     {
-      "title": "'Press Play' — Amazon Reveals Full PlayStation x Lisa Merch Collection as the Blackpink Star Drops New EP",
-      "url": "https://www.ign.com/articles/press-play-amazon-reveals-full-playstation-x-lisa-merch-collection-as-the-blackpink-star-drops-new-ep",
-      "source": "IGN",
-      "published": "Fri, 23 Oct 2026 15:59:38 +0000"
-    },
-    {
-      "title": "Flashy internal trailer for now-cancelled Mass Effect Universe appears online, following EA's closure of BioWare",
-      "url": "https://www.eurogamer.net/mass-effect-universe-trailer-leak-real",
-      "source": "Eurogamer",
-      "published": "Fri, 23 Oct 2026 09:11:49 +0000"
-    },
-    {
-      "title": "GTA 6 Burgers Will Be Available In Florida Throughout The Year",
-      "url": "https://www.gamespot.com/articles/gta-6-burgers-will-be-available-in-florida-throughout-the-year/",
+      "title": "Battlefield 6 Reportedly Cancels Mass Effect Collab In Wake Of BioWare Closure",
+      "url": "https://www.gamespot.com/articles/battlefield-6-reportedly-cancels-mass-effect-collab-in-wake-of-bioware-closure/",
       "source": "GameSpot",
-      "published": "Fri, 23 Oct 2026 15:13:13 +0000"
+      "published": "Fri, 23 Oct 2026 15:48:29 +0000"
+    },
+    {
+      "title": "AMD says the re-release of the Ryzen 7 5800X3D was 'like a final gift to our loyal [AM4] users' and it was CEO Dr. Lisa Su who first came up with the idea",
+      "url": "https://www.pcgamer.com/hardware/processors/amd-says-the-re-release-of-the-ryzen-7-5800x3d-was-like-a-final-gift-to-our-loyal-am4-users-and-it-was-ceo-dr-lisa-su-who-first-came-up-with-the-idea/",
+      "source": "PC Gamer",
+      "published": "Fri, 23 Oct 2026 16:11:07 +0000"
+    },
+    {
+      "title": "Acer's New $1299 Predator Atlas 8 Intel Arc G3 Extreme Handheld Gaming PC Is Now Available at Best Buy",
+      "url": "https://www.ign.com/articles/acer-predator-atlas-8-intel-arc-g3-extreme-handheld-gaming-pc-is-now-available",
+      "source": "IGN",
+      "published": "Fri, 23 Oct 2026 17:00:00 +0000"
+    },
+    {
+      "title": "Work, Game, Watch, Create: The Lenovo Legion 5i Is Strong Enough for All of It",
+      "url": "https://www.ign.com/articles/work-game-watch-create-the-lenovo-legion-5i-is-strong-enough-for-all-of-it",
+      "source": "IGN",
+      "published": "Fri, 23 Oct 2026 17:00:00 +0000"
+    },
+    {
+      "title": "AMD says its working on FSR's frame pacing issues, but there's still conspicuously no mention of Multi Frame Generation",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-says-its-working-on-fsrs-frame-pacing-issues-but-theres-still-conspicuously-no-mention-of-multi-frame-generation/",
+      "source": "PC Gamer",
+      "published": "Fri, 23 Oct 2026 16:04:04 +0000"
+    },
+    {
+      "title": "Abyssal Lapidary is making the social media rounds and I can confirm cutting gemstones is just as satisfying as it looks",
+      "url": "https://www.pcgamer.com/games/sim/abyssal-lapidary-is-making-the-social-media-rounds-and-i-can-confirm-cutting-gemstones-is-just-as-satisfying-as-it-looks/",
+      "source": "PC Gamer",
+      "published": "Fri, 23 Oct 2026 16:47:44 +0000"
+    },
+    {
+      "title": "Humble Bundle’s Sci-Fi Exposure Bundle Is Stacked With 8 Games for $25, Including Marathon",
+      "url": "https://www.ign.com/articles/humble-bundles-sci-fi-exposure-bundle-is-stacked-with-8-games-for-25-including-marathon",
+      "source": "IGN",
+      "published": "Fri, 23 Oct 2026 16:40:24 +0000"
+    },
+    {
+      "title": "Inde Navarrette Reveals Sneak Peek at Her Rogue Accent Ahead of X-Men Debut",
+      "url": "https://www.ign.com/articles/inde-navarrette-reveals-sneak-peek-at-her-rogue-accent-ahead-of-x-men-debut",
+      "source": "IGN",
+      "published": "Fri, 23 Oct 2026 16:57:32 +0000"
+    },
+    {
+      "title": "Graphics card wholesale prices are on the rise once again in China, so it's time to brace yourself for even more GPU pricing pain",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/graphics-card-wholesale-prices-are-on-the-rise-once-again-in-china-so-its-time-to-brace-yourself-for-even-more-gpu-pricing-pain/",
+      "source": "PC Gamer",
+      "published": "Fri, 23 Oct 2026 13:36:34 +0000"
+    },
+    {
+      "title": "Finger Out How To Prep For GTA 6 With These Exercises",
+      "url": "https://www.gamespot.com/articles/finger-out-how-to-prep-for-gta-6-with-these-exercises/",
+      "source": "GameSpot",
+      "published": "Fri, 23 Oct 2026 15:39:56 +0000"
+    },
+    {
+      "title": "BioWare May Be Gone, But Its Spirit Lives On in These Games",
+      "url": "https://www.ign.com/articles/bioware-may-be-gone-but-its-spirit-lives-on-in-these-games",
+      "source": "IGN",
+      "published": "Fri, 23 Oct 2026 16:52:35 +0000"
     }
   ]
 }
