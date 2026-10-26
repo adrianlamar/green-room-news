@@ -1,161 +1,11 @@
 {
-  "updated": "2026-10-26T19:19:42.957519+00:00",
+  "updated": "2026-10-26T20:06:08.906765+00:00",
   "articles": [
     {
-      "title": "A long-overdue conversation with Jordan Mechner",
-      "url": "https://www.pcgamer.com/gaming-industry/an-overdue-conversation-with-jordan-mechner/",
-      "source": "PC Gamer",
-      "published": "Mon, 26 Oct 2026 18:52:49 +0000"
-    },
-    {
-      "title": "Valve adds CD-ROM support to Steam Frame kernel less than ten minutes after saying it would look into it",
-      "url": "https://www.pcgamer.com/hardware/vr-hardware/valve-adds-cd-rom-support-to-steam-frame-kernel-less-than-ten-minutes-after-saying-it-would-look-into-it/",
-      "source": "PC Gamer",
-      "published": "Mon, 26 Oct 2026 16:11:08 +0000"
-    },
-    {
-      "title": "Amid sweeping layoffs at Xbox and massive AI investments, Microsoft introduces a \"Voluntary Exit Offer\" to 60,000 workers",
-      "url": "https://www.eurogamer.net/xbox-ai-microsoft-voluntary-exit-offer-60000",
-      "source": "Eurogamer",
-      "published": "Mon, 26 Oct 2026 18:44:22 +0000"
-    },
-    {
-      "title": "'I no longer think we’re going to be able to patch all bugs' says AI Pandora's box opener Sam Altman: 'We're going to have to completely switch the defense model'",
-      "url": "https://www.pcgamer.com/software/ai/i-no-longer-think-were-going-to-be-able-to-patch-all-bugs-says-ai-pandoras-box-opener-sam-altman-were-going-to-have-to-completely-switch-the-defense-model/",
-      "source": "PC Gamer",
-      "published": "Mon, 26 Oct 2026 15:24:27 +0000"
-    },
-    {
-      "title": "Mass Effect Fans Buy #SaveMassEffect Billboard in Times Square — and They Have Plans for More",
-      "url": "https://www.ign.com/articles/mass-effect-fans-buy-savemasseffect-billboard-in-times-square-and-they-have-plans-for-more",
-      "source": "IGN",
-      "published": "Mon, 26 Oct 2026 18:23:33 +0000"
-    },
-    {
-      "title": "Despite initial player concerns, Capcom feels good about Onimusha: Way of the Sword's difficulty, and says it has the data to prove it got it right",
-      "url": "https://www.eurogamer.net/onimusha-way-of-the-sword-enemy-difficulty-capcom",
-      "source": "Eurogamer",
-      "published": "Mon, 26 Oct 2026 12:32:53 +0000"
-    },
-    {
-      "title": "Why There Won’t Be A Helldivers 3 Anytime Soon, If Ever",
-      "url": "https://www.gamespot.com/articles/why-there-wont-be-a-helldivers-3-anytime-soon-if-ever/",
+      "title": "Diablo 4’s War Plans Are Getting A Huge Upgrade In Season 16",
+      "url": "https://www.gamespot.com/articles/diablo-4s-war-plans-are-getting-a-huge-upgrade-in-season-16/",
       "source": "GameSpot",
-      "published": "Mon, 26 Oct 2026 15:29:15 +0000"
-    },
-    {
-      "title": "Total War: Warhammer 3 And DLC Are Cheaper Than Ever, And The Chaos Gods Approve",
-      "url": "https://www.gamespot.com/articles/total-war-warhammer-3-and-dlc-are-cheaper-than-ever-and-the-chaos-gods-approve/",
-      "source": "GameSpot",
-      "published": "Mon, 26 Oct 2026 15:34:31 +0000"
-    },
-    {
-      "title": "PlayStation Pulse Explore Wireless Earbuds Drop to a New All-Time Low Price",
-      "url": "https://www.ign.com/articles/playstation-pulse-explore-wireless-earbuds-drop-to-a-new-all-time-low-price",
-      "source": "IGN",
-      "published": "Mon, 26 Oct 2026 18:19:05 +0000"
-    },
-    {
-      "title": "Xbox Game Pass Is Now Included With A Phone Plan",
-      "url": "https://www.gamespot.com/articles/xbox-game-pass-is-now-included-with-a-phone-plan/",
-      "source": "GameSpot",
-      "published": "Mon, 26 Oct 2026 14:20:47 +0000"
-    },
-    {
-      "title": "The Street Fighter Movie Cast Reportedly Signed on for Three Films",
-      "url": "https://www.ign.com/articles/the-street-fighter-movie-cast-reportedly-signed-on-for-three-films",
-      "source": "IGN",
-      "published": "Mon, 26 Oct 2026 17:58:03 +0000"
-    },
-    {
-      "title": "Microsoft Offer Buyouts to 60,000 Workers as It Doubles Down on AI Investment",
-      "url": "https://www.ign.com/articles/microsoft-voluntary-exits-60000-workers",
-      "source": "IGN",
-      "published": "Mon, 26 Oct 2026 17:50:17 +0000"
-    },
-    {
-      "title": "New Windows 11 Insider Experimental build adds the ability to check your internet speed without a browser",
-      "url": "https://www.pcgamer.com/software/windows/new-windows-11-insider-experimental-build-adds-the-ability-to-check-your-internet-speed-without-a-browser/",
-      "source": "PC Gamer",
-      "published": "Mon, 26 Oct 2026 17:29:05 +0000"
-    },
-    {
-      "title": "Call of Duty Franchise Surpasses $40 Billion Lifetime Revenue Following Launch of Modern Warfare 4",
-      "url": "https://www.ign.com/articles/call-of-duty-franchise-surpasses-40-billion-lifetime-revenue-following-launch-of-modern-warfare-4",
-      "source": "IGN",
-      "published": "Mon, 26 Oct 2026 18:38:46 +0000"
-    },
-    {
-      "title": "After a year of testing, one of Steam's best features is finally out of beta, making it easier to find games you might actually like",
-      "url": "https://www.eurogamer.net/steam-personal-calendar-full-release",
-      "source": "Eurogamer",
-      "published": "Mon, 26 Oct 2026 14:06:37 +0000"
-    },
-    {
-      "title": "Ghost of Yotei studio Sucker Punch reportedly lays off 26 developers \"after carefully observing the challenges in the market\"",
-      "url": "https://www.eurogamer.net/ghost-of-yotei-sucker-punch-lays-off-developers",
-      "source": "Eurogamer",
-      "published": "Mon, 26 Oct 2026 17:48:33 +0000"
-    },
-    {
-      "title": "Arkane Lyon Gets Another Chance To Find A New Home And Finish Marvel’s Blade",
-      "url": "https://www.gamespot.com/articles/arkane-lyon-gets-another-chance-to-find-a-new-home-and-finish-marvels-blade/",
-      "source": "GameSpot",
-      "published": "Mon, 26 Oct 2026 14:23:35 +0000"
-    },
-    {
-      "title": "The 13 scariest, spookiest video games you should play this Halloween",
-      "url": "https://www.eurogamer.net/13-scariest-spookiest-video-games-this-halloween",
-      "source": "Eurogamer",
-      "published": "Mon, 26 Oct 2026 15:29:45 +0000"
-    },
-    {
-      "title": "Shenmue 3: Enhanced Edition has been delayed to \"get everything right\"",
-      "url": "https://www.eurogamer.net/shenmue-3-enhanced-edition-delayed",
-      "source": "Eurogamer",
-      "published": "Mon, 26 Oct 2026 12:05:37 +0000"
-    },
-    {
-      "title": "CD Projekt marks the 19th anniversary of its first Witcher RPG with a tribute to BioWare: 'Their support helped turn our vision into Geralt’s first interactive adventure'",
-      "url": "https://www.pcgamer.com/games/the-witcher/cd-projekt-marks-the-19th-anniversary-of-its-first-witcher-rpg-with-a-tribute-to-bioware-their-support-helped-turn-our-vision-into-geralts-first-interactive-adventure/",
-      "source": "PC Gamer",
-      "published": "Mon, 26 Oct 2026 19:05:30 +0000"
-    },
-    {
-      "title": "T-Mobile Is Offering a $1,000 Off Discount on the Apple iPhone Duo Foldable Smartphone",
-      "url": "https://www.ign.com/articles/t-mobiles-apple-iphone-duo-deal-explained",
-      "source": "IGN",
-      "published": "Mon, 26 Oct 2026 18:50:00 +0000"
-    },
-    {
-      "title": "Robert Pattinson Says Steven Soderbergh Is 'Completely Selfless' for Taking Over on The Batman Part 2",
-      "url": "https://www.ign.com/articles/robert-pattinson-says-steven-soderbergh-is-completely-selfless-for-taking-over-on-the-batman-part-2",
-      "source": "IGN",
-      "published": "Mon, 26 Oct 2026 18:41:00 +0000"
-    },
-    {
-      "title": "The Best PS5 Games In 2026",
-      "url": "https://www.gamespot.com/gallery/best-ps5-games/2900-3832/",
-      "source": "GameSpot",
-      "published": "Mon, 06 Apr 2026 10:13:00 +0000"
-    },
-    {
-      "title": "Control loreheads shouldn't put too much stock into what The Board says in Control Resonant - the devs say it's \"basically gibberish\"",
-      "url": "https://www.eurogamer.net/control-resonant-the-board-dialogue-crafted-gibberish",
-      "source": "Eurogamer",
-      "published": "Mon, 26 Oct 2026 15:10:30 +0000"
-    },
-    {
-      "title": "Save 50% Off the Wolfbox Cordless Car Jump Starter and 24,000mAh Power Bank Ahead of Black Friday",
-      "url": "https://www.ign.com/articles/wolfbox-cordless-car-jump-starter-deal-october-2026",
-      "source": "IGN",
-      "published": "Mon, 26 Oct 2026 17:50:00 +0000"
-    },
-    {
-      "title": "A whole host of Steam PC games can now run locally on a jailbroken PlayStation 5, including Portal, Left 4 Dead 2, and many more",
-      "url": "https://www.pcgamer.com/hardware/a-whole-host-of-steam-pc-games-can-now-run-locally-on-a-jailbroken-playstation-5-including-portal-left-4-dead-2-and-many-more/",
-      "source": "PC Gamer",
-      "published": "Mon, 26 Oct 2026 16:56:44 +0000"
+      "published": "Mon, 26 Oct 2026 19:14:12 +0000"
     },
     {
       "title": "The Scariest Game Of The Year Is This Demo For A Game That Isn’t Coming Out",
@@ -164,10 +14,64 @@
       "published": "Mon, 26 Oct 2026 15:28:21 +0000"
     },
     {
-      "title": "Microsoft is looking to cut more than 25% of its workforce",
-      "url": "https://www.pcgamer.com/gaming-industry/microsoft-is-looking-to-cut-more-than-25-percent-of-its-workforce/",
+      "title": "Robert Pattinson Says Steven Soderbergh Is 'Completely Selfless' for Taking Over on The Batman Part 2",
+      "url": "https://www.ign.com/articles/robert-pattinson-says-steven-soderbergh-is-completely-selfless-for-taking-over-on-the-batman-part-2",
+      "source": "IGN",
+      "published": "Mon, 26 Oct 2026 18:41:00 +0000"
+    },
+    {
+      "title": "Palworld's First Official Toy Collection Is Here, Complete With Mystery Eggs and Adorable Pals",
+      "url": "https://www.ign.com/articles/palworld-official-toy-collection-mystery-eggs",
+      "source": "IGN",
+      "published": "Mon, 26 Oct 2026 19:48:39 +0000"
+    },
+    {
+      "title": "T-Mobile Is Offering a $1,000 Off Discount on the Apple iPhone Duo Foldable Smartphone",
+      "url": "https://www.ign.com/articles/t-mobiles-apple-iphone-duo-deal-explained",
+      "source": "IGN",
+      "published": "Mon, 26 Oct 2026 18:50:00 +0000"
+    },
+    {
+      "title": "Call of Duty Franchise Surpasses $40 Billion Lifetime Revenue Following Launch of Modern Warfare 4",
+      "url": "https://www.ign.com/articles/call-of-duty-franchise-surpasses-40-billion-lifetime-revenue-following-launch-of-modern-warfare-4",
+      "source": "IGN",
+      "published": "Mon, 26 Oct 2026 18:38:46 +0000"
+    },
+    {
+      "title": "Why There Won’t Be A Helldivers 3 Anytime Soon, If Ever",
+      "url": "https://www.gamespot.com/articles/why-there-wont-be-a-helldivers-3-anytime-soon-if-ever/",
+      "source": "GameSpot",
+      "published": "Mon, 26 Oct 2026 15:29:15 +0000"
+    },
+    {
+      "title": "The 13 scariest, spookiest video games you should play this Halloween",
+      "url": "https://www.eurogamer.net/13-scariest-spookiest-video-games-this-halloween",
+      "source": "Eurogamer",
+      "published": "Mon, 26 Oct 2026 15:29:45 +0000"
+    },
+    {
+      "title": "Total War: Warhammer 3 And DLC Are Cheaper Than Ever, And The Chaos Gods Approve",
+      "url": "https://www.gamespot.com/articles/total-war-warhammer-3-and-dlc-are-cheaper-than-ever-and-the-chaos-gods-approve/",
+      "source": "GameSpot",
+      "published": "Mon, 26 Oct 2026 15:34:31 +0000"
+    },
+    {
+      "title": "The Best PS5 Games In 2026",
+      "url": "https://www.gamespot.com/gallery/best-ps5-games/2900-3832/",
+      "source": "GameSpot",
+      "published": "Mon, 06 Apr 2026 10:13:00 +0000"
+    },
+    {
+      "title": "What to play this Halloween, plus last-minute costume ideas and spooky movie recommendations",
+      "url": "https://www.pcgamer.com/games/horror/2026-halloween-horror-gaming-hub-recommendations/",
       "source": "PC Gamer",
-      "published": "Mon, 26 Oct 2026 17:49:25 +0000"
+      "published": "Mon, 26 Oct 2026 18:59:37 +0000"
+    },
+    {
+      "title": "We Build Star Wars Executor Super Star Destroyer, the Longest Build in LEGO History",
+      "url": "https://www.ign.com/articles/we-build-star-wars-executor-super-star-destroyer-75457",
+      "source": "IGN",
+      "published": "Mon, 26 Oct 2026 19:14:32 +0000"
     },
     {
       "title": "Cyberpunk 2077 Hits Its Biggest Steam Player Peak Since Phantom Liberty, And You Can Guess Why",
@@ -176,10 +80,106 @@
       "published": "Mon, 26 Oct 2026 14:57:15 +0000"
     },
     {
+      "title": "Canned Paranormal Activity Game Back From The Dead as Playable Archive, Free on Steam",
+      "url": "https://www.ign.com/articles/canned-paranormal-activity-game-back-from-the-dead-as-playable-archive-free-on-steam",
+      "source": "IGN",
+      "published": "Mon, 26 Oct 2026 19:43:55 +0000"
+    },
+    {
+      "title": "Mass Effect Fans Buy #SaveMassEffect Billboard in Times Square — and They Have Plans for More",
+      "url": "https://www.ign.com/articles/mass-effect-fans-buy-savemasseffect-billboard-in-times-square-and-they-have-plans-for-more",
+      "source": "IGN",
+      "published": "Mon, 26 Oct 2026 18:23:33 +0000"
+    },
+    {
+      "title": "Arkane Lyon Gets Another Chance To Find A New Home And Finish Marvel’s Blade",
+      "url": "https://www.gamespot.com/articles/arkane-lyon-gets-another-chance-to-find-a-new-home-and-finish-marvels-blade/",
+      "source": "GameSpot",
+      "published": "Mon, 26 Oct 2026 14:23:35 +0000"
+    },
+    {
       "title": "As beloved Dishonored studio faces closure, Xbox agrees union request to extend negotiations deadline in hope of saving 217 jobs",
       "url": "https://www.eurogamer.net/arkane-lyon-consultation-period-extended-december",
       "source": "Eurogamer",
       "published": "Mon, 26 Oct 2026 14:47:30 +0000"
+    },
+    {
+      "title": "After a year of testing, one of Steam's best features is finally out of beta, making it easier to find games you might actually like",
+      "url": "https://www.eurogamer.net/steam-personal-calendar-full-release",
+      "source": "Eurogamer",
+      "published": "Mon, 26 Oct 2026 14:06:37 +0000"
+    },
+    {
+      "title": "Shenmue 3: Enhanced Edition has been delayed to \"get everything right\"",
+      "url": "https://www.eurogamer.net/shenmue-3-enhanced-edition-delayed",
+      "source": "Eurogamer",
+      "published": "Mon, 26 Oct 2026 12:05:37 +0000"
+    },
+    {
+      "title": "Ghost of Yotei studio Sucker Punch reportedly lays off 26 developers \"after carefully observing the challenges in the market\"",
+      "url": "https://www.eurogamer.net/ghost-of-yotei-sucker-punch-lays-off-developers",
+      "source": "Eurogamer",
+      "published": "Mon, 26 Oct 2026 17:48:33 +0000"
+    },
+    {
+      "title": "The Regreening is a post-apocalyptic farm sim where you grow animal habitats instead of cash crops",
+      "url": "https://www.pcgamer.com/games/life-sim/the-regreening-is-a-post-apocalyptic-farm-sim-where-you-grow-animal-habitats-instead-of-cash-crops/",
+      "source": "PC Gamer",
+      "published": "Mon, 26 Oct 2026 19:55:11 +0000"
+    },
+    {
+      "title": "Control loreheads shouldn't put too much stock into what The Board says in Control Resonant - the devs say it's \"basically gibberish\"",
+      "url": "https://www.eurogamer.net/control-resonant-the-board-dialogue-crafted-gibberish",
+      "source": "Eurogamer",
+      "published": "Mon, 26 Oct 2026 15:10:30 +0000"
+    },
+    {
+      "title": "Microsoft is looking to cut more than 25% of its workforce",
+      "url": "https://www.pcgamer.com/gaming-industry/microsoft-is-looking-to-cut-more-than-25-percent-of-its-workforce/",
+      "source": "PC Gamer",
+      "published": "Mon, 26 Oct 2026 17:49:25 +0000"
+    },
+    {
+      "title": "Emberville Delays Early Access Launch at the Last Minute",
+      "url": "https://www.ign.com/articles/emberville-delays-early-access-launch-at-the-last-minute",
+      "source": "IGN",
+      "published": "Mon, 26 Oct 2026 19:08:28 +0000"
+    },
+    {
+      "title": "New Windows 11 Insider Experimental build adds the ability to check your internet speed without a browser",
+      "url": "https://www.pcgamer.com/software/windows/new-windows-11-insider-experimental-build-adds-the-ability-to-check-your-internet-speed-without-a-browser/",
+      "source": "PC Gamer",
+      "published": "Mon, 26 Oct 2026 17:29:05 +0000"
+    },
+    {
+      "title": "A long-overdue conversation with Jordan Mechner",
+      "url": "https://www.pcgamer.com/gaming-industry/an-overdue-conversation-with-jordan-mechner/",
+      "source": "PC Gamer",
+      "published": "Mon, 26 Oct 2026 18:52:49 +0000"
+    },
+    {
+      "title": "CoD: Modern Warfare 4 Players Discover A Secret Gun Printer In Multiplayer",
+      "url": "https://www.gamespot.com/articles/cod-modern-warfare-4-players-discover-a-secret-gun-printer-in-multiplayer/",
+      "source": "GameSpot",
+      "published": "Mon, 26 Oct 2026 17:29:44 +0000"
+    },
+    {
+      "title": "Mass Effect fan group buys billboard in Times Square promoting petition to save series",
+      "url": "https://www.pcgamer.com/games/mass-effect/mass-effect-fan-group-buys-billboard-in-times-square-promoting-petition-to-save-series/",
+      "source": "PC Gamer",
+      "published": "Mon, 26 Oct 2026 19:53:51 +0000"
+    },
+    {
+      "title": "CD Projekt marks the 19th anniversary of its first Witcher RPG with a tribute to BioWare: 'Their support helped turn our vision into Geralt’s first interactive adventure'",
+      "url": "https://www.pcgamer.com/games/the-witcher/cd-projekt-marks-the-19th-anniversary-of-its-first-witcher-rpg-with-a-tribute-to-bioware-their-support-helped-turn-our-vision-into-geralts-first-interactive-adventure/",
+      "source": "PC Gamer",
+      "published": "Mon, 26 Oct 2026 19:05:30 +0000"
+    },
+    {
+      "title": "Despite initial player concerns, Capcom feels good about Onimusha: Way of the Sword's difficulty, and says it has the data to prove it got it right",
+      "url": "https://www.eurogamer.net/onimusha-way-of-the-sword-enemy-difficulty-capcom",
+      "source": "Eurogamer",
+      "published": "Mon, 26 Oct 2026 12:32:53 +0000"
     }
   ]
 }
