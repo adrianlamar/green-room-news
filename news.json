@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-27T15:19:37.718283+00:00",
+  "updated": "2026-10-27T16:18:49.996346+00:00",
   "articles": [
+    {
+      "title": "Steam Next Fest Was Flooded With Slop. These 50 Demos Cut Through The Noise",
+      "url": "https://www.gamespot.com/articles/steam-next-fest-was-flooded-with-slop-these-50-demos-cut-through-the-noise/",
+      "source": "GameSpot",
+      "published": "Tue, 27 Oct 2026 14:29:19 +0000"
+    },
+    {
+      "title": "Roblox users have made a playable version of Counter-Strike and full, working PlayStation games that you can play right now",
+      "url": "https://www.eurogamer.net/roblox-counter-strike-playstation-homepage-super-hot-simpsons-hit-and-run",
+      "source": "Eurogamer",
+      "published": "Tue, 27 Oct 2026 15:01:29 +0000"
+    },
     {
       "title": "AI fan wikis riddled with errors are muddying the waters of an already contested part of games culture",
       "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
@@ -8,10 +20,58 @@
       "published": "Tue, 27 Oct 2026 10:00:41 +0000"
     },
     {
-      "title": "Mass Effect Has Been Taken Away Just When We Needed It Most",
-      "url": "https://www.ign.com/articles/mass-effect-has-been-taken-away-just-when-we-needed-it-most",
+      "title": "Nintendo is hosting a new Indie World showcase tomorrow, featuring games for Switch and Switch 2, and it'll be 15 minutes long",
+      "url": "https://www.eurogamer.net/nintendo-new-indie-world-showcase-october-28",
+      "source": "Eurogamer",
+      "published": "Tue, 27 Oct 2026 14:06:39 +0000"
+    },
+    {
+      "title": "BioShock Movie Is Still Happening, But Director Says It’s A “Tough Nut To Crack”",
+      "url": "https://www.gamespot.com/articles/bioshock-movie-is-still-happening-but-director-says-its-a-tough-nut-to-crack/",
+      "source": "GameSpot",
+      "published": "Tue, 27 Oct 2026 13:38:57 +0000"
+    },
+    {
+      "title": "Square Enix vets say devs of the future will need to 'master the use of AI', but the human touch will still be vital",
+      "url": "https://www.pcgamer.com/gaming-industry/game-development/square-enix-vets-say-devs-of-the-future-will-need-to-master-the-use-of-ai-but-the-human-touch-will-still-be-vital/",
+      "source": "PC Gamer",
+      "published": "Tue, 27 Oct 2026 15:15:52 +0000"
+    },
+    {
+      "title": "Nintendo Announces Indie World Showcase For October 28",
+      "url": "https://www.gamespot.com/articles/nintendo-announces-indie-world-showcase-for-october-28/",
+      "source": "GameSpot",
+      "published": "Tue, 27 Oct 2026 13:54:50 +0000"
+    },
+    {
+      "title": "Composer shares 20 minutes of music created for Mass Effect 5 following tragic closure of BioWare",
+      "url": "https://www.eurogamer.net/mass-effect-5-pitched-music-composer",
+      "source": "Eurogamer",
+      "published": "Tue, 27 Oct 2026 10:02:28 +0000"
+    },
+    {
+      "title": "The Wolf Among Us Remastered Doesn’t Change Much, And That’s A Good Thing",
+      "url": "https://www.gamespot.com/articles/the-wolf-among-us-remastered-doesnt-change-much-and-thats-a-good-thing/",
+      "source": "GameSpot",
+      "published": "Tue, 27 Oct 2026 13:40:00 +0000"
+    },
+    {
+      "title": "DRAWQUARIUM – Official Release Date Trailer",
+      "url": "https://www.gamespot.com/videos/drawquarium-official-release-date-trailer/",
+      "source": "GameSpot",
+      "published": "Tue, 27 Oct 2026 13:37:58 +0000"
+    },
+    {
+      "title": "Wandering Cat's Cage Is a Dystopian Manga Worth Reading",
+      "url": "https://www.ign.com/articles/wandering-cats-cage-is-a-dystopian-manga-worth-reading",
       "source": "IGN",
-      "published": "Tue, 27 Oct 2026 10:43:00 +0000"
+      "published": "Tue, 27 Oct 2026 15:30:00 +0000"
+    },
+    {
+      "title": "Dragonproof Is a Perfect Fusion of Gargoyles and Buffy the Vampire Slayer",
+      "url": "https://www.ign.com/articles/dragonproof-is-a-perfect-fusion-of-gargoyles-and-buffy-the-vampire-slayer",
+      "source": "IGN",
+      "published": "Tue, 27 Oct 2026 16:00:00 +0000"
     },
     {
       "title": "Ratata, A 4-Player Physics-Chaos Co-op Game Where You Play as Anthropomorphic Animals, Announced",
@@ -26,82 +86,40 @@
       "published": "Tue, 27 Oct 2026 10:56:34 +0000"
     },
     {
+      "title": "Walmart Announces First Wave of 2026 Black Friday Deals, Starting November 12",
+      "url": "https://www.ign.com/articles/walmart-announces-first-wave-of-2026-black-friday-deals-starting-november-12",
+      "source": "IGN",
+      "published": "Tue, 27 Oct 2026 15:22:46 +0000"
+    },
+    {
+      "title": "Dungeons & Dragons: World of Warcraft's class designer 'crammed as much' of the MMO into it so that even veteran tabletop players can experience something new",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/dungeons-and-dragons-world-of-warcrafts-class-designer-crammed-as-much-of-the-mmo-into-it-so-that-even-veteran-tabletop-players-can-experience-something-new/",
+      "source": "PC Gamer",
+      "published": "Tue, 27 Oct 2026 16:12:10 +0000"
+    },
+    {
       "title": "Nvidia may not have discontinued the RTX 5090, but one AIB partner says it can't get hold of the parts required to make the card",
       "url": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-may-not-have-discontinued-the-rtx-5090-but-one-aib-partner-says-it-cant-get-hold-of-the-parts-required-to-make-the-card/",
       "source": "PC Gamer",
       "published": "Tue, 27 Oct 2026 14:22:56 +0000"
     },
     {
-      "title": "Deadline: Afterlife Processing lets you take morality into your own hands and judge who deserves eternal salvation or damnation",
-      "url": "https://www.pcgamer.com/games/sim/deadline-afterlife-processing-lets-you-take-morality-into-your-own-hands-and-judge-who-deserves-eternal-salvation-or-damnation/",
-      "source": "PC Gamer",
-      "published": "Tue, 27 Oct 2026 14:20:39 +0000"
-    },
-    {
-      "title": "Assassin's Creed Black Flag Resynced's final major update adds long-awaited New Game Plus, new Nightmare difficulty and much more",
-      "url": "https://www.eurogamer.net/assassins-creed-black-flag-resynced-new-game-plus-final-update",
-      "source": "Eurogamer",
-      "published": "Tue, 27 Oct 2026 09:18:45 +0000"
-    },
-    {
-      "title": "Silent Hill Remake Coming 2027, First Cast Details Leaked",
-      "url": "https://www.ign.com/articles/silent-hill-remake-coming-2027-cast-details-leaked",
+      "title": "The Lord of the Rings: The Rings of Power Shakes Things Up for Season 3 With a Time Jump and ‘The Orc with an Arc’",
+      "url": "https://www.ign.com/articles/rings-of-power-season-3-time-jump-orc-arc",
       "source": "IGN",
-      "published": "Tue, 27 Oct 2026 10:19:55 +0000"
+      "published": "Tue, 27 Oct 2026 14:00:00 +0000"
     },
     {
-      "title": "The Most Unexpectedly Emotional Trailer Of The Year Is For A Game About Drawing Fish",
-      "url": "https://www.gamespot.com/articles/the-most-unexpectedly-emotional-trailer-of-the-year-is-for-a-game-about-drawing-fish/",
+      "title": "Check Out 46 Seconds Of New Final Fantasy 7 Revelation Gameplay (And A Pink Chocobo)",
+      "url": "https://www.gamespot.com/articles/check-out-46-seconds-of-new-final-fantasy-7-revelation-gameplay-and-a-pink-chocobo/",
       "source": "GameSpot",
-      "published": "Tue, 27 Oct 2026 14:16:51 +0000"
+      "published": "Tue, 27 Oct 2026 15:48:44 +0000"
     },
     {
-      "title": "Edge magazine went to Rockstar to see GTA 6, and will tell you all about in lavish detail this Thursday, October 29",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/edge-magazine-went-to-rockstar-to-see-gta-6-and-will-tell-you-all-about-in-lavish-detail-this-thursday-october-29/",
-      "source": "PC Gamer",
-      "published": "Tue, 27 Oct 2026 15:00:00 +0000"
-    },
-    {
-      "title": "DRAWQUARIUM – Official Release Date Trailer",
-      "url": "https://www.gamespot.com/videos/drawquarium-official-release-date-trailer/",
-      "source": "GameSpot",
-      "published": "Tue, 27 Oct 2026 13:37:58 +0000"
-    },
-    {
-      "title": "Roblox users have made playable version of Counter-Strike and full, working versions of PlayStation games that you can play right now",
-      "url": "https://www.eurogamer.net/roblox-counter-strike-playstation-homepage-super-hot-simpsons-hit-and-run",
+      "title": "Revisiting Ecstatica - the pioneering survival horror that used its fancy ellipsoid graphics tech to fill its world with dongs",
+      "url": "https://www.eurogamer.net/ecstatica-now-playing",
       "source": "Eurogamer",
-      "published": "Tue, 27 Oct 2026 15:01:29 +0000"
-    },
-    {
-      "title": "Kingdom Come, Lord of the Rings studio Warhorse 'hit by a cyberattack'",
-      "url": "https://www.pcgamer.com/gaming-industry/kingdom-come-lord-of-the-rings-studio-warhorse-hit-by-a-cyberattack/",
-      "source": "PC Gamer",
-      "published": "Tue, 27 Oct 2026 11:55:58 +0000"
-    },
-    {
-      "title": "Phantom Blade Zero is asking players to free up 300GB of space for pre-loading, double its actual 145GB file size",
-      "url": "https://www.eurogamer.net/phantom-blade-zero-300gb-pre-load-space",
-      "source": "Eurogamer",
-      "published": "Tue, 27 Oct 2026 13:06:03 +0000"
-    },
-    {
-      "title": "Call of Duty passes $40 billion in lifetime revenue, making it one of the most-lucrative videogame franchise ever",
-      "url": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-passes-usd40-billion-in-lifetime-revenue-making-it-one-of-the-most-lucrative-videogame-franchise-ever/",
-      "source": "PC Gamer",
-      "published": "Tue, 27 Oct 2026 13:55:38 +0000"
-    },
-    {
-      "title": "The Wolf Among Us Remastered Review",
-      "url": "https://www.ign.com/articles/the-wolf-among-us-remastered-review",
-      "source": "IGN",
-      "published": "Tue, 27 Oct 2026 13:00:00 +0000"
-    },
-    {
-      "title": "Composer shares 20 minutes of music created for Mass Effect 5 following tragic closure of BioWare",
-      "url": "https://www.eurogamer.net/mass-effect-5-pitched-music-composer",
-      "source": "Eurogamer",
-      "published": "Tue, 27 Oct 2026 10:02:28 +0000"
+      "published": "Tue, 27 Oct 2026 15:36:35 +0000"
     },
     {
       "title": "Xbox Workers Are Eligible For Buyouts As Part Of Huge Shakeup At Microsoft",
@@ -110,22 +128,28 @@
       "published": "Tue, 27 Oct 2026 14:20:36 +0000"
     },
     {
-      "title": "Should You Play The Wolf Among Us Remastered?",
-      "url": "https://www.gamespot.com/videos/should-you-play-the-wolf-among-us-remastered/",
-      "source": "GameSpot",
-      "published": "Tue, 27 Oct 2026 13:00:00 +0000"
+      "title": "You just can't win—despite Ghost of Yōtei selling millions of copies, 24 people are reportedly being let go from Sucker Punch",
+      "url": "https://www.pcgamer.com/gaming-industry/you-just-cant-win-despite-ghost-of-yotei-selling-millions-of-copies-24-people-are-reportedly-being-let-go-from-sucker-punch/",
+      "source": "PC Gamer",
+      "published": "Tue, 27 Oct 2026 14:01:58 +0000"
     },
     {
-      "title": "Kingdom Come: Deliverance Developer Hit by 'Serious' Cybersecurity Incident",
-      "url": "https://www.ign.com/articles/kingdom-come-deliverance-developer-serious-cybersecurity-incident",
+      "title": "Deadline: Afterlife Processing lets you take morality into your own hands and judge who deserves eternal salvation or damnation",
+      "url": "https://www.pcgamer.com/games/sim/deadline-afterlife-processing-lets-you-take-morality-into-your-own-hands-and-judge-who-deserves-eternal-salvation-or-damnation/",
+      "source": "PC Gamer",
+      "published": "Tue, 27 Oct 2026 14:20:39 +0000"
+    },
+    {
+      "title": "Edge magazine went to Rockstar to see GTA 6, and will tell you all about it in lavish detail this Thursday, October 29",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/edge-magazine-went-to-rockstar-to-see-gta-6-and-will-tell-you-all-about-in-lavish-detail-this-thursday-october-29/",
+      "source": "PC Gamer",
+      "published": "Tue, 27 Oct 2026 15:00:00 +0000"
+    },
+    {
+      "title": "Matthew Lillard Calls His Superman 2 Character 'A Very James Gunn Moment'",
+      "url": "https://www.ign.com/articles/matthew-lillard-superman-2-character-james-gunn-moment",
       "source": "IGN",
-      "published": "Tue, 27 Oct 2026 11:35:33 +0000"
-    },
-    {
-      "title": "Nintendo Announces Indie World Showcase For October 28",
-      "url": "https://www.gamespot.com/articles/nintendo-announces-indie-world-showcase-for-october-28/",
-      "source": "GameSpot",
-      "published": "Tue, 27 Oct 2026 13:54:50 +0000"
+      "published": "Tue, 27 Oct 2026 16:00:03 +0000"
     },
     {
       "title": "Peter Molyneux speaks candidly about AI: 'We, as the industry, are pretending we're not using AI, but the reality is, it's almost impossible to code now without using AI'",
@@ -134,28 +158,16 @@
       "published": "Tue, 27 Oct 2026 13:30:01 +0000"
     },
     {
-      "title": "Dark Messiah's new edition adds co-op, cut content and console-exclusive maps to the 20-year-old orc-kicking extravaganza, and it's coming to Steam this year",
-      "url": "https://www.pcgamer.com/games/rpg/dark-messiahs-new-edition-adds-co-op-cut-content-and-console-exclusive-maps-to-the-20-year-old-orc-kicking-extravaganza-and-its-coming-to-steam-this-year/",
-      "source": "PC Gamer",
-      "published": "Tue, 27 Oct 2026 12:11:37 +0000"
-    },
-    {
-      "title": "Nintendo is hosting a new Indie World showcase tomorrow, featuring games for Switch and Switch 2, and it'll be 15 minutes long",
-      "url": "https://www.eurogamer.net/nintendo-new-indie-world-showcase-october-28",
-      "source": "Eurogamer",
-      "published": "Tue, 27 Oct 2026 14:06:39 +0000"
-    },
-    {
-      "title": "Steam Next Fest Was Flooded With Slop. These 50 Demos Cut Through The Noise",
-      "url": "https://www.gamespot.com/articles/steam-next-fest-was-flooded-with-slop-these-50-demos-cut-through-the-noise/",
-      "source": "GameSpot",
-      "published": "Tue, 27 Oct 2026 14:29:19 +0000"
-    },
-    {
-      "title": "Riftbound’s New Radiance Booster Set Brings an Awesome New Music Component to the League of Legends TCG",
-      "url": "https://www.ign.com/articles/riftbounds-new-radiance-booster-set-brings-an-awesome-new-music-component-to-the-league-of-legends-tcg",
+      "title": "Get GTA 6 Ultimate Edition on PS5 for Just $85 Using This Trick – Today Only",
+      "url": "https://www.ign.com/articles/get-gta-6-ultimate-edition-on-ps5-for-just-85-using-this-trick-today-only",
       "source": "IGN",
-      "published": "Tue, 27 Oct 2026 12:00:00 +0000"
+      "published": "Tue, 27 Oct 2026 14:00:19 +0000"
+    },
+    {
+      "title": "The Most Unexpectedly Emotional Trailer Of The Year Is For A Game About Drawing Fish",
+      "url": "https://www.gamespot.com/articles/the-most-unexpectedly-emotional-trailer-of-the-year-is-for-a-game-about-drawing-fish/",
+      "source": "GameSpot",
+      "published": "Tue, 27 Oct 2026 14:16:51 +0000"
     },
     {
       "title": "Fan favourite map Shipment arrives today in Modern Warfare 4, just four days after launch - a new record for Call of Duty",
@@ -164,22 +176,10 @@
       "published": "Tue, 27 Oct 2026 11:42:58 +0000"
     },
     {
-      "title": "Get GTA 6 Ultimate Edition on PS5 for Just $85 Using This Trick – Today Only",
-      "url": "https://www.ign.com/articles/get-gta-6-ultimate-edition-on-ps5-for-just-85-using-this-trick-today-only",
-      "source": "IGN",
-      "published": "Tue, 27 Oct 2026 14:00:19 +0000"
-    },
-    {
-      "title": "The Wolf Among Us Remastered Doesn’t Change Much, And That’s A Good Thing",
-      "url": "https://www.gamespot.com/articles/the-wolf-among-us-remastered-doesnt-change-much-and-thats-a-good-thing/",
-      "source": "GameSpot",
-      "published": "Tue, 27 Oct 2026 13:40:00 +0000"
-    },
-    {
-      "title": "The Lord of the Rings: The Rings of Power Shakes Things Up for Season 3 With a Time Jump and ‘The Orc with an Arc’",
-      "url": "https://www.ign.com/articles/rings-of-power-season-3-time-jump-orc-arc",
-      "source": "IGN",
-      "published": "Tue, 27 Oct 2026 14:00:00 +0000"
+      "title": "Phantom Blade Zero is asking players to free up 300GB of space for pre-loading, double its actual 145GB file size",
+      "url": "https://www.eurogamer.net/phantom-blade-zero-300gb-pre-load-space",
+      "source": "Eurogamer",
+      "published": "Tue, 27 Oct 2026 13:06:03 +0000"
     }
   ]
 }
