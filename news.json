@@ -1,155 +1,11 @@
 {
-  "updated": "2026-10-28T12:48:49.356832+00:00",
+  "updated": "2026-10-28T13:56:32.505911+00:00",
   "articles": [
     {
-      "title": "\"This is a serious incident\" - Kingdom Come: Deliverance developer Warhorse suffers cyberattack",
-      "url": "https://www.eurogamer.net/warhorse-cyberattack-kingdom-come-deliverance",
-      "source": "Eurogamer",
-      "published": "Tue, 27 Oct 2026 16:53:16 +0000"
-    },
-    {
-      "title": "How To Watch The October Nintendo Indie World Showcase",
-      "url": "https://www.gamespot.com/articles/nintendo-announces-indie-world-showcase-for-october-28/",
+      "title": "Mobile Suit Gundam: BATTLE OPERATION 3 – Official Announcement Trailer",
+      "url": "https://www.gamespot.com/videos/mobile-suit-gundam-battle-operation-3-official-announcement-trailer/",
       "source": "GameSpot",
-      "published": "Tue, 27 Oct 2026 13:54:50 +0000"
-    },
-    {
-      "title": "Nintendo is hosting a new Indie World showcase tomorrow, featuring games for Switch and Switch 2, and it'll be 15 minutes long",
-      "url": "https://www.eurogamer.net/nintendo-new-indie-world-showcase-october-28",
-      "source": "Eurogamer",
-      "published": "Tue, 27 Oct 2026 14:06:39 +0000"
-    },
-    {
-      "title": "\"We need to understand what the need is here\" - Arc Raiders studio still undecided about the future of PvE despite a seemingly successful test",
-      "url": "https://www.eurogamer.net/arc-raiders-pve-mode-embark-undecided",
-      "source": "Eurogamer",
-      "published": "Wed, 28 Oct 2026 11:58:27 +0000"
-    },
-    {
-      "title": "You Need to Have Completed Crimson Desert's Main Storyline to Begin Kliff, Oongka, and Damiane's New DLC Stories",
-      "url": "https://www.ign.com/articles/you-need-to-have-completed-crimson-deserts-main-storyline-to-begin-kliff-oongka-and-damianes-new-dlc-stories",
-      "source": "IGN",
-      "published": "Wed, 28 Oct 2026 11:52:50 +0000"
-    },
-    {
-      "title": "Here's the Phantom Blade Zero release time for your region",
-      "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-release-date-launch-times/",
-      "source": "PC Gamer",
-      "published": "Wed, 28 Oct 2026 02:00:00 +0000"
-    },
-    {
-      "title": "Rockstar Games employees have locked in a union vote next month, and it'll take place over Grand Theft Auto 6's release window",
-      "url": "https://www.eurogamer.net/rockstar-union-vote-november",
-      "source": "Eurogamer",
-      "published": "Wed, 28 Oct 2026 09:49:39 +0000"
-    },
-    {
-      "title": "Phantom Blade Zero Looks Like a Hit Before It's Even Come Out, With an Estimated 1 Million Prelaunch Copies Sold",
-      "url": "https://www.ign.com/articles/phantom-blade-zero-looks-like-a-hit-before-its-even-come-out-with-an-estimated-1-million-prelaunch-copies-sold",
-      "source": "IGN",
-      "published": "Wed, 28 Oct 2026 10:57:05 +0000"
-    },
-    {
-      "title": "You Can Make Your WoW: Forever Character Now And Be Ready For Launch",
-      "url": "https://www.gamespot.com/articles/you-can-make-your-wow-forever-character-now-and-be-ready-for-launch/",
-      "source": "GameSpot",
-      "published": "Tue, 27 Oct 2026 20:00:00 +0000"
-    },
-    {
-      "title": "You Can Unlock Lots Of Free Stuff In Pokemon Go’s Halloween 2026 Event",
-      "url": "https://www.gamespot.com/articles/heres-everything-you-can-unlock-for-pokemon-go-halloween-2026/",
-      "source": "GameSpot",
-      "published": "Tue, 27 Oct 2026 22:07:25 +0000"
-    },
-    {
-      "title": "Project Titan's end 'immediately instilled a culture of humility' in the Overwatch team which has helped them see the last decade through",
-      "url": "https://www.pcgamer.com/games/fps/project-titans-end-immediately-instilled-a-culture-of-humility-in-the-overwatch-team-which-has-helped-them-see-the-last-decade-through/",
-      "source": "PC Gamer",
-      "published": "Wed, 28 Oct 2026 11:53:09 +0000"
-    },
-    {
-      "title": "FF14's new Evolved jobs won't deal a 'huge amount' more damage than their Reborn counterparts, says Koji Fox",
-      "url": "https://www.pcgamer.com/games/mmo/ff14s-new-evolved-jobs-wont-deal-a-huge-amount-more-damage-than-their-reborn-counterparts-says-koji-fox/",
-      "source": "PC Gamer",
-      "published": "Wed, 28 Oct 2026 11:58:20 +0000"
-    },
-    {
-      "title": "Mass Effect composer Sam Hulick is working on a 're-scored' version of the leaked Mass Effect 5 trailer for N7 Day",
-      "url": "https://www.pcgamer.com/games/mass-effect/mass-effect-composer-sam-hulick-is-working-on-a-re-scored-version-of-the-leaked-mass-effect-5-trailer-for-n7-day/",
-      "source": "PC Gamer",
-      "published": "Tue, 27 Oct 2026 21:12:29 +0000"
-    },
-    {
-      "title": "From Cryptids To Carinderias, Here Are 8 Games To Celebrate Filipino American History Month",
-      "url": "https://www.gamespot.com/articles/from-cryptids-to-carinderias-here-are-8-games-to-celebrate-filipino-american-history-month/",
-      "source": "GameSpot",
-      "published": "Tue, 27 Oct 2026 19:53:46 +0000"
-    },
-    {
-      "title": "This Company Is Paying You To Play GTA 6, But It’s A Long Shot",
-      "url": "https://www.gamespot.com/articles/this-company-is-paying-you-to-play-gta-6-but-its-a-long-shot/",
-      "source": "GameSpot",
-      "published": "Tue, 27 Oct 2026 19:03:48 +0000"
-    },
-    {
-      "title": "Valve Knows Steam Next Fest Has An AI Slop Problem, And It’s Looking For Solutions",
-      "url": "https://www.gamespot.com/articles/valve-knows-steam-next-fest-has-an-ai-slop-problem-and-its-looking-for-solutions/",
-      "source": "GameSpot",
-      "published": "Wed, 28 Oct 2026 12:30:33 +0000"
-    },
-    {
-      "title": "Pocketpair Would Love to Release Palworld on Nintendo Switch 2, Despite Pokémon Legal Battle",
-      "url": "https://www.ign.com/articles/pocketpair-wants-palworld-on-nintendo-switch-2-pokemon",
-      "source": "IGN",
-      "published": "Wed, 28 Oct 2026 10:17:33 +0000"
-    },
-    {
-      "title": "The Upcoming Blade Runner 2099 Board Game Will Feature a Different Story Than the TV Series",
-      "url": "https://www.ign.com/articles/blade-runner-2099-the-board-game-will-feature-a-different-story-than-the-tv-series",
-      "source": "IGN",
-      "published": "Wed, 28 Oct 2026 03:39:28 +0000"
-    },
-    {
-      "title": "Rockstar Games Staff Set for 'Historic' Union Vote at the Same Time GTA 6 Comes Out",
-      "url": "https://www.ign.com/articles/rockstar-games-staff-set-for-historic-union-vote-at-the-same-time-gta-6-comes-out",
-      "source": "IGN",
-      "published": "Wed, 28 Oct 2026 10:06:45 +0000"
-    },
-    {
-      "title": "Revisiting Ecstatica - the pioneering survival horror that used its fancy ellipsoid graphics tech to fill its world with dongs",
-      "url": "https://www.eurogamer.net/ecstatica-now-playing",
-      "source": "Eurogamer",
-      "published": "Tue, 27 Oct 2026 15:36:35 +0000"
-    },
-    {
-      "title": "Marvel's VisionQuest Episodes 5 & 6 Recap and Review",
-      "url": "https://www.ign.com/articles/marvels-visionquest-episodes-5-6-recap-and-review",
-      "source": "IGN",
-      "published": "Wed, 28 Oct 2026 01:00:00 +0000"
-    },
-    {
-      "title": "GTA 6 is a massive 210GB download on PlayStation 5",
-      "url": "https://www.eurogamer.net/gta-6-ps5-download-size",
-      "source": "Eurogamer",
-      "published": "Wed, 28 Oct 2026 09:14:37 +0000"
-    },
-    {
-      "title": "Here's the Crimson Desert: Charting the Unknown release time for your region",
-      "url": "https://www.pcgamer.com/games/rpg/crimson-desert-charting-the-unknown-dlc-release-date-launch-times/",
-      "source": "PC Gamer",
-      "published": "Wed, 28 Oct 2026 12:14:17 +0000"
-    },
-    {
-      "title": "Roblox users have made a playable version of Counter-Strike and full, working PlayStation games that you can play right now",
-      "url": "https://www.eurogamer.net/roblox-counter-strike-playstation-homepage-super-hot-simpsons-hit-and-run",
-      "source": "Eurogamer",
-      "published": "Tue, 27 Oct 2026 15:01:29 +0000"
-    },
-    {
-      "title": "Messages in certain large public Discord servers will be searchable on the web after December",
-      "url": "https://www.pcgamer.com/software/platforms/messages-in-certain-large-public-discord-servers-will-be-searchable-on-the-web-after-december/",
-      "source": "PC Gamer",
-      "published": "Tue, 27 Oct 2026 21:53:41 +0000"
+      "published": "Wed, 28 Oct 2026 13:20:50 +0000"
     },
     {
       "title": "Inside Buckshot Roulette developer Mike Klubnika's terrifically nasty horror universe of post-Soviet malaise",
@@ -158,10 +14,34 @@
       "published": "Wed, 28 Oct 2026 11:45:33 +0000"
     },
     {
-      "title": "Remember That Time BioWare Made A Sonic The Hedgehog RPG?",
-      "url": "https://www.gamespot.com/articles/remember-that-time-bioware-made-a-sonic-the-hedgehog-rpg/",
+      "title": "Marvel's VisionQuest Episodes 5 & 6 Recap and Review",
+      "url": "https://www.ign.com/articles/marvels-visionquest-episodes-5-6-recap-and-review",
+      "source": "IGN",
+      "published": "Wed, 28 Oct 2026 01:00:00 +0000"
+    },
+    {
+      "title": "Valve 'Thinking About How to Solve' Steam's AI Slop Problem, but Won't Limit Developer Access",
+      "url": "https://www.ign.com/articles/valve-ai-slop-on-steam-comments",
+      "source": "IGN",
+      "published": "Wed, 28 Oct 2026 12:59:20 +0000"
+    },
+    {
+      "title": "Valve Knows Steam Next Fest Has An AI Slop Problem, And It’s Looking For Solutions",
+      "url": "https://www.gamespot.com/articles/valve-knows-steam-next-fest-has-an-ai-slop-problem-and-its-looking-for-solutions/",
       "source": "GameSpot",
-      "published": "Tue, 27 Oct 2026 21:31:38 +0000"
+      "published": "Wed, 28 Oct 2026 12:30:33 +0000"
+    },
+    {
+      "title": "Phantom Blade Zero Looks Like a Hit Before It's Even Come Out, With an Estimated 1 Million Prelaunch Copies Sold",
+      "url": "https://www.ign.com/articles/phantom-blade-zero-looks-like-a-hit-before-its-even-come-out-with-an-estimated-1-million-prelaunch-copies-sold",
+      "source": "IGN",
+      "published": "Wed, 28 Oct 2026 10:57:05 +0000"
+    },
+    {
+      "title": "\"We need to understand what the need is here\" - Arc Raiders studio still undecided about the future of PvE despite a seemingly successful test",
+      "url": "https://www.eurogamer.net/arc-raiders-pve-mode-embark-undecided",
+      "source": "Eurogamer",
+      "published": "Wed, 28 Oct 2026 11:58:27 +0000"
     },
     {
       "title": "Former Halo boss is now in charge of Wizards of the Coast and Hasbro Digital Games",
@@ -170,16 +50,136 @@
       "published": "Tue, 27 Oct 2026 19:48:09 +0000"
     },
     {
+      "title": "Revisiting Ecstatica - the pioneering survival horror that used its fancy ellipsoid graphics tech to fill its world with dongs",
+      "url": "https://www.eurogamer.net/ecstatica-now-playing",
+      "source": "Eurogamer",
+      "published": "Tue, 27 Oct 2026 15:36:35 +0000"
+    },
+    {
+      "title": "Rockstar Games employees have locked in a union vote next month, and it'll take place over Grand Theft Auto 6's release window",
+      "url": "https://www.eurogamer.net/rockstar-union-vote-november",
+      "source": "Eurogamer",
+      "published": "Wed, 28 Oct 2026 09:49:39 +0000"
+    },
+    {
+      "title": "You Can Unlock Lots Of Free Stuff In Pokemon Go’s Halloween 2026 Event",
+      "url": "https://www.gamespot.com/articles/heres-everything-you-can-unlock-for-pokemon-go-halloween-2026/",
+      "source": "GameSpot",
+      "published": "Tue, 27 Oct 2026 22:07:25 +0000"
+    },
+    {
+      "title": "Dawn of War 4 may be the most generous RTS I've played",
+      "url": "https://www.eurogamer.net/dawn-of-war-4-preview-most-generous-rts",
+      "source": "Eurogamer",
+      "published": "Wed, 28 Oct 2026 13:53:43 +0000"
+    },
+    {
+      "title": "How To Watch The October Nintendo Indie World Showcase",
+      "url": "https://www.gamespot.com/articles/nintendo-announces-indie-world-showcase-for-october-28/",
+      "source": "GameSpot",
+      "published": "Tue, 27 Oct 2026 13:54:50 +0000"
+    },
+    {
+      "title": "You Can Make Your WoW: Forever Character Now And Be Ready For Launch",
+      "url": "https://www.gamespot.com/articles/you-can-make-your-wow-forever-character-now-and-be-ready-for-launch/",
+      "source": "GameSpot",
+      "published": "Tue, 27 Oct 2026 20:00:00 +0000"
+    },
+    {
+      "title": "Mass Effect composer Sam Hulick is working on a 're-scored' version of the leaked Mass Effect 5 trailer for N7 Day",
+      "url": "https://www.pcgamer.com/games/mass-effect/mass-effect-composer-sam-hulick-is-working-on-a-re-scored-version-of-the-leaked-mass-effect-5-trailer-for-n7-day/",
+      "source": "PC Gamer",
+      "published": "Tue, 27 Oct 2026 21:12:29 +0000"
+    },
+    {
+      "title": "Backrooms Director Wears A Valve Hoodie To Interview And People Think He’s Teasing A Portal Movie",
+      "url": "https://www.gamespot.com/articles/backrooms-director-wears-a-valve-hoodie-to-interview-and-people-think-hes-teasing-a-portal-movie/",
+      "source": "GameSpot",
+      "published": "Wed, 28 Oct 2026 13:15:27 +0000"
+    },
+    {
+      "title": "You Need to Have Completed Crimson Desert's Main Storyline to Begin Kliff, Oongka, and Damiane's New DLC Stories",
+      "url": "https://www.ign.com/articles/you-need-to-have-completed-crimson-deserts-main-storyline-to-begin-kliff-oongka-and-damianes-new-dlc-stories",
+      "source": "IGN",
+      "published": "Wed, 28 Oct 2026 11:52:50 +0000"
+    },
+    {
+      "title": "As Skydance merges with Warner Bros. and Paramount, the company offers voluntary redundancy and mandates return to the office",
+      "url": "https://www.eurogamer.net/skydance-return-to-office-voluntary-buyouts",
+      "source": "Eurogamer",
+      "published": "Wed, 28 Oct 2026 13:22:47 +0000"
+    },
+    {
+      "title": "GTA 6 is a massive 210GB download on PlayStation 5",
+      "url": "https://www.eurogamer.net/gta-6-ps5-download-size",
+      "source": "Eurogamer",
+      "published": "Wed, 28 Oct 2026 09:14:37 +0000"
+    },
+    {
+      "title": "The Upcoming Blade Runner 2099 Board Game Will Feature a Different Story Than the TV Series",
+      "url": "https://www.ign.com/articles/blade-runner-2099-the-board-game-will-feature-a-different-story-than-the-tv-series",
+      "source": "IGN",
+      "published": "Wed, 28 Oct 2026 03:39:28 +0000"
+    },
+    {
+      "title": "Project Titan's end 'immediately instilled a culture of humility' in the Overwatch team which has helped them see the last decade through",
+      "url": "https://www.pcgamer.com/games/fps/project-titans-end-immediately-instilled-a-culture-of-humility-in-the-overwatch-team-which-has-helped-them-see-the-last-decade-through/",
+      "source": "PC Gamer",
+      "published": "Wed, 28 Oct 2026 11:53:09 +0000"
+    },
+    {
       "title": "The 2026 55\" LG Evo C6 4K OLED TV Drops to Black Friday Pricing Plus Get a Free Xbox Controller",
       "url": "https://www.ign.com/articles/lg-evo-c6-4k-oled-tv-deal-free-xbox-controller-october-2026",
       "source": "IGN",
       "published": "Wed, 28 Oct 2026 00:00:00 +0000"
     },
     {
-      "title": "Masahiro Sakurai Shrugs Off AI Games as ‘Unprofitable Titles’ as Clones and Mods Boom",
-      "url": "https://www.ign.com/articles/masahiro-sakurai-shrugs-off-ai-games-as-unprofitable-titles-as-clones-and-mods-boom",
+      "title": "From Cryptids To Carinderias, Here Are 8 Games To Celebrate Filipino American History Month",
+      "url": "https://www.gamespot.com/articles/from-cryptids-to-carinderias-here-are-8-games-to-celebrate-filipino-american-history-month/",
+      "source": "GameSpot",
+      "published": "Tue, 27 Oct 2026 19:53:46 +0000"
+    },
+    {
+      "title": "Here's the Crimson Desert: Charting the Unknown release time for your region",
+      "url": "https://www.pcgamer.com/games/rpg/crimson-desert-charting-the-unknown-dlc-release-date-launch-times/",
+      "source": "PC Gamer",
+      "published": "Wed, 28 Oct 2026 12:14:17 +0000"
+    },
+    {
+      "title": "Rockstar will hold union vote right on top of Grand Theft Auto 6 release",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-will-hold-union-vote-right-on-top-of-grand-theft-auto-6-release/",
+      "source": "PC Gamer",
+      "published": "Tue, 27 Oct 2026 22:23:23 +0000"
+    },
+    {
+      "title": "Messages in certain large public Discord servers will be searchable on the web after December",
+      "url": "https://www.pcgamer.com/software/platforms/messages-in-certain-large-public-discord-servers-will-be-searchable-on-the-web-after-december/",
+      "source": "PC Gamer",
+      "published": "Tue, 27 Oct 2026 21:53:41 +0000"
+    },
+    {
+      "title": "FF14's new Evolved jobs won't deal a 'huge amount' more damage than their Reborn counterparts, says Koji Fox",
+      "url": "https://www.pcgamer.com/games/mmo/ff14s-new-evolved-jobs-wont-deal-a-huge-amount-more-damage-than-their-reborn-counterparts-says-koji-fox/",
+      "source": "PC Gamer",
+      "published": "Wed, 28 Oct 2026 11:58:20 +0000"
+    },
+    {
+      "title": "Rockstar Games Staff Set for 'Historic' Union Vote at the Same Time GTA 6 Comes Out",
+      "url": "https://www.ign.com/articles/rockstar-games-staff-set-for-historic-union-vote-at-the-same-time-gta-6-comes-out",
       "source": "IGN",
-      "published": "Tue, 27 Oct 2026 23:27:51 +0000"
+      "published": "Wed, 28 Oct 2026 10:06:45 +0000"
+    },
+    {
+      "title": "Remember That Time BioWare Made A Sonic The Hedgehog RPG?",
+      "url": "https://www.gamespot.com/articles/remember-that-time-bioware-made-a-sonic-the-hedgehog-rpg/",
+      "source": "GameSpot",
+      "published": "Tue, 27 Oct 2026 21:31:38 +0000"
+    },
+    {
+      "title": "Pocketpair Would Love to Release Palworld on Nintendo Switch 2, Despite Pokémon Legal Battle",
+      "url": "https://www.ign.com/articles/pocketpair-wants-palworld-on-nintendo-switch-2-pokemon",
+      "source": "IGN",
+      "published": "Wed, 28 Oct 2026 10:17:33 +0000"
     }
   ]
 }
