@@ -1,6 +1,168 @@
 {
-  "updated": "2026-11-03T15:48:32.503724+00:00",
+  "updated": "2026-11-03T16:53:17.967174+00:00",
   "articles": [
+    {
+      "title": "It looks like Call of Duty: Modern Warfare 4 had fewer active players at launch in the US compared to last year's Black Ops 7",
+      "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-player-engagement-black-ops-7",
+      "source": "Eurogamer",
+      "published": "Tue, 03 Nov 2026 11:22:41 +0000"
+    },
+    {
+      "title": "Days Gone studio's next PlayStation exclusive to be revealed and released in 2027, according to new report",
+      "url": "https://www.eurogamer.net/sony-bend-studio-next-playstation-game-2027",
+      "source": "Eurogamer",
+      "published": "Tue, 03 Nov 2026 09:18:39 +0000"
+    },
+    {
+      "title": "2 of my favorite studios are teaming up for their first-ever showcase this week, and have a Steam sale going right now",
+      "url": "https://www.pcgamer.com/games/adventure/2-of-my-favorite-studios-are-teaming-up-for-their-first-ever-showcase-this-week-and-have-a-steam-sale-going-right-now/",
+      "source": "PC Gamer",
+      "published": "Tue, 03 Nov 2026 14:38:29 +0000"
+    },
+    {
+      "title": "Morrowind's gravity is no longer '0.01% off' in the new release of its fan-made engine, finally making it playable",
+      "url": "https://www.pcgamer.com/games/the-elder-scrolls/morrowinds-gravity-is-no-longer-0-01-percent-off-in-the-new-release-of-its-fan-made-engine-finally-making-it-playable/",
+      "source": "PC Gamer",
+      "published": "Tue, 03 Nov 2026 15:19:10 +0000"
+    },
+    {
+      "title": "Nintendo Reveals the Changes It Made to The Legend of Zelda: Ocarina of Time's Notoriously Difficult Water Temple for the Remake",
+      "url": "https://www.ign.com/articles/nintendo-reveals-the-changes-it-made-to-the-legend-of-zelda-ocarina-of-times-notoriously-difficult-water-temple-for-the-remake",
+      "source": "IGN",
+      "published": "Tue, 3 Nov 2026 14:29:11 +0000"
+    },
+    {
+      "title": "GTA 6 Preload, Global Release Times and Install Size Confirmed, Rockstar Announces Physical Cover Art Poster and Map of Leonida",
+      "url": "https://www.ign.com/articles/gta-6-preload-times-and-install-size-confirmed-rockstar-announces-physical-cover-art-poster-and-map-of-leonida",
+      "source": "IGN",
+      "published": "Tue, 3 Nov 2026 15:08:41 +0000"
+    },
+    {
+      "title": "Indie game website itch.io expands its AI disclosure filter as 'AI slop' continues to overwhelm Steam and other storefronts",
+      "url": "https://www.eurogamer.net/itchio-generative-ai-filters-slop",
+      "source": "Eurogamer",
+      "published": "Tue, 03 Nov 2026 12:03:56 +0000"
+    },
+    {
+      "title": "The top 100 PC games",
+      "url": "https://www.pcgamer.com/games/the-top-100-pc-games-2026/",
+      "source": "PC Gamer",
+      "published": "Tue, 03 Nov 2026 15:30:00 +0000"
+    },
+    {
+      "title": "GTA 6 Preloading: Start Date And What To Know About Digital And Physical Copies",
+      "url": "https://www.gamespot.com/articles/gta-6-preloading-start-date-and-what-to-know-about-digital-and-physical-copies/",
+      "source": "GameSpot",
+      "published": "Fri, 10 Jul 2026 16:42:48 +0000"
+    },
+    {
+      "title": "Video Game Release Dates: The Biggest Games Coming Soon",
+      "url": "https://www.ign.com/articles/video-game-release-dates-ps4-ps5-xbox-one-series-x-nintendo-switch",
+      "source": "IGN",
+      "published": "Tue, 3 Nov 2026 15:20:00 +0000"
+    },
+    {
+      "title": "Mike Flanagan thinks 'Warhammer is a fascinating world' but can't tell us anything else about the upcoming Warhammer 40,000 project because 'Henry Cavill would be furious'",
+      "url": "https://www.pcgamer.com/movies-tv/mike-flanagan-thinks-warhammer-is-a-fascinating-world-but-cant-tell-us-anything-else-about-the-upcoming-warhammer-40-000-project-because-henry-cavill-would-be-furious/",
+      "source": "PC Gamer",
+      "published": "Tue, 03 Nov 2026 14:08:33 +0000"
+    },
+    {
+      "title": "GTA 6 File Size Revealed, And It’s Truly Massive–See How It Compares To Other Huge Games",
+      "url": "https://www.gamespot.com/articles/gta-6-file-size-revealed-and-its-massive/",
+      "source": "GameSpot",
+      "published": "Tue, 27 Oct 2026 17:48:21 +0000"
+    },
+    {
+      "title": "Arc Raiders devs say that using generative AI voice acting was necessary as actors \"would just go crazy if they had to read all of that\"",
+      "url": "https://www.eurogamer.net/arc-raiders-ai-voice-acting-would-go-crazy",
+      "source": "Eurogamer",
+      "published": "Tue, 03 Nov 2026 15:34:03 +0000"
+    },
+    {
+      "title": "The Elder Scrolls 6: Sentinel is confirmed, finally getting new trailer and full name, 8 years, 4 months, and 23 days after its reveal",
+      "url": "https://www.eurogamer.net/the-elder-scrolls-6-sentinel-revealed-bethesda-xbox",
+      "source": "Eurogamer",
+      "published": "Tue, 03 Nov 2026 15:08:07 +0000"
+    },
+    {
+      "title": "Modders bring Steam Frame build of SteamOS and all of its translation layer goodness to Mac",
+      "url": "https://www.pcgamer.com/software/operating-systems/modders-bring-steam-frame-build-of-steamos-and-all-of-its-translation-layer-goodness-to-mac/",
+      "source": "PC Gamer",
+      "published": "Tue, 03 Nov 2026 13:55:31 +0000"
+    },
+    {
+      "title": "COD: Modern Warfare 4 DMZ patch has nerfed UAV Towers so you're not immediately visible everywhere you go",
+      "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-uav-tower-nerf",
+      "source": "Eurogamer",
+      "published": "Tue, 03 Nov 2026 13:36:19 +0000"
+    },
+    {
+      "title": "The Overwatch devs hear your complaints about skin distribution but concede that some cosmetics need to 'support the actual bottom-line business'",
+      "url": "https://www.pcgamer.com/games/fps/the-overwatch-devs-hear-your-complaints-about-skin-distribution-but-concede-that-some-cosmetics-need-to-support-the-actual-bottom-line-business/",
+      "source": "PC Gamer",
+      "published": "Tue, 03 Nov 2026 13:44:01 +0000"
+    },
+    {
+      "title": "Upcoming 4K UHD and Blu-ray Release Dates",
+      "url": "https://www.ign.com/articles/upcoming-4k-uhd-and-blu-ray-release-dates",
+      "source": "IGN",
+      "published": "Tue, 3 Nov 2026 13:30:13 +0000"
+    },
+    {
+      "title": "25 Years Of Xbox Bundle Includes All These Games For $570",
+      "url": "https://www.gamespot.com/articles/25-years-of-xbox-bundle-includes-all-these-games-for-570/",
+      "source": "GameSpot",
+      "published": "Tue, 03 Nov 2026 16:13:50 +0000"
+    },
+    {
+      "title": "LEGO Godzilla Announced, Releases on Black Friday",
+      "url": "https://www.ign.com/articles/lego-godzilla-announced-releases-on-black-friday",
+      "source": "IGN",
+      "published": "Tue, 3 Nov 2026 14:55:46 +0000"
+    },
+    {
+      "title": "The Elder Scrolls 6: Sentinel Name, Logo, Officially Revealed as Bethesda Marks 40th Anniversary",
+      "url": "https://www.ign.com/articles/the-elder-scrolls-6-sentinel-name-logo-officially-revealed-as-bethesda-marks-40th-anniversary",
+      "source": "IGN",
+      "published": "Tue, 3 Nov 2026 15:02:00 +0000"
+    },
+    {
+      "title": "Here's the WoW: Forever release time for your region",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/forever-release-date-launch-times/",
+      "source": "PC Gamer",
+      "published": "Tue, 03 Nov 2026 15:00:00 +0000"
+    },
+    {
+      "title": "The Elder Scrolls 6 Is Officially Titled Sentinel",
+      "url": "https://www.gamespot.com/articles/the-elder-scrolls-6-is-officially-titled-sentinel/",
+      "source": "GameSpot",
+      "published": "Tue, 03 Nov 2026 15:05:08 +0000"
+    },
+    {
+      "title": "This Puzzling “Very Positive” Roguelite Is Now Less Than Half Price, So It’s Time To Enter The Mysterious Manor",
+      "url": "https://www.gamespot.com/articles/this-puzzling-very-positive-roguelite-is-now-less-than-half-price-so-its-time-to-enter-the-mysterious-manor/",
+      "source": "GameSpot",
+      "published": "Tue, 03 Nov 2026 15:00:00 +0000"
+    },
+    {
+      "title": "One Popular PC Game Storefront Has Had Enough Of AI Slop, And It’s Taking Action",
+      "url": "https://www.gamespot.com/articles/one-popular-pc-game-storefront-has-had-enough-of-ai-slop-and-its-taking-action/",
+      "source": "GameSpot",
+      "published": "Tue, 03 Nov 2026 15:12:19 +0000"
+    },
+    {
+      "title": "GTA 6 Worldwide Release Times Revealed, And The US Gets It Almost Last",
+      "url": "https://www.gamespot.com/articles/unofficial-gta-6-worldwide-release-times-revealed-and-the-us-gets-it-almost-last/",
+      "source": "GameSpot",
+      "published": "Thu, 10 Sep 2026 14:34:11 +0000"
+    },
+    {
+      "title": "Remedy revenue soars by 226% following release of Control Resonant, the developer's fastest-selling game ever",
+      "url": "https://www.eurogamer.net/control-resonant-remedy-revenue-leaps",
+      "source": "Eurogamer",
+      "published": "Tue, 03 Nov 2026 09:56:48 +0000"
+    },
     {
       "title": "'Horror Is Always at Its Strongest When Something Bad Is Happening to the World' – Boss of Silent Hill Remake Dev Bloober Reveals the Secret to His Studio's Success",
       "url": "https://www.ign.com/articles/horror-is-always-at-its-strongest-when-something-bad-is-happening-to-the-world-boss-of-silent-hill-remake-dev-bloober-reveals-the-secret-to-his-studios-success",
@@ -14,172 +176,10 @@
       "published": "Tue, 03 Nov 2026 15:26:02 +0000"
     },
     {
-      "title": "The Elder Scrolls 6: Sentinel Name, Logo, Officially Revealed as Bethesda Marks 40th Anniversary",
-      "url": "https://www.ign.com/articles/the-elder-scrolls-6-sentinel-name-logo-officially-revealed-as-bethesda-marks-40th-anniversary",
-      "source": "IGN",
-      "published": "Tue, 3 Nov 2026 15:02:00 +0000"
-    },
-    {
-      "title": "Buying GTA 6 Could Save You $5,000, Or At Least This Guy Thinks So",
-      "url": "https://www.gamespot.com/articles/buying-gta-6-could-save-you-5000-or-at-least-this-guy-thinks-so/",
-      "source": "GameSpot",
-      "published": "Tue, 03 Nov 2026 14:53:41 +0000"
-    },
-    {
-      "title": "GTA 6 Preload Times and Install Size Confirmed, Rockstar Announces Physical Cover Art Poster and Map of Leonida",
-      "url": "https://www.ign.com/articles/gta-6-preload-times-and-install-size-confirmed-rockstar-announces-physical-cover-art-poster-and-map-of-leonida",
-      "source": "IGN",
-      "published": "Tue, 3 Nov 2026 15:08:41 +0000"
-    },
-    {
-      "title": "Morrowind's gravity is no longer '0.01% off' in the new release of its fan-made engine, finally making it playable",
-      "url": "https://www.pcgamer.com/games/the-elder-scrolls/morrowinds-gravity-is-no-longer-0-01-percent-off-in-the-new-release-of-its-fan-made-engine-finally-making-it-playable/",
-      "source": "PC Gamer",
-      "published": "Tue, 03 Nov 2026 15:19:10 +0000"
-    },
-    {
-      "title": "Mike Flanagan thinks 'Warhammer is a fascinating world' but can't tell us anything else about the upcoming Warhammer 40,000 project because 'Henry Cavill would be furious'",
-      "url": "https://www.pcgamer.com/movies-tv/mike-flanagan-thinks-warhammer-is-a-fascinating-world-but-cant-tell-us-anything-else-about-the-upcoming-warhammer-40-000-project-because-henry-cavill-would-be-furious/",
-      "source": "PC Gamer",
-      "published": "Tue, 03 Nov 2026 14:08:33 +0000"
-    },
-    {
-      "title": "Modders bring Steam Frame build of SteamOS and all of its translation layer goodness to Mac",
-      "url": "https://www.pcgamer.com/software/operating-systems/modders-bring-steam-frame-build-of-steamos-and-all-of-its-translation-layer-goodness-to-mac/",
-      "source": "PC Gamer",
-      "published": "Tue, 03 Nov 2026 13:55:31 +0000"
-    },
-    {
-      "title": "It looks like Call of Duty: Modern Warfare 4 had fewer active players at launch in the US compared to last year's Black Ops 7",
-      "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-player-engagement-black-ops-7",
-      "source": "Eurogamer",
-      "published": "Tue, 03 Nov 2026 11:22:41 +0000"
-    },
-    {
-      "title": "Upcoming 4K UHD and Blu-ray Release Dates",
-      "url": "https://www.ign.com/articles/upcoming-4k-uhd-and-blu-ray-release-dates",
-      "source": "IGN",
-      "published": "Tue, 3 Nov 2026 13:30:13 +0000"
-    },
-    {
-      "title": "Days Gone studio's next PlayStation exclusive to be revealed and released in 2027, according to new report",
-      "url": "https://www.eurogamer.net/sony-bend-studio-next-playstation-game-2027",
-      "source": "Eurogamer",
-      "published": "Tue, 03 Nov 2026 09:18:39 +0000"
-    },
-    {
-      "title": "Remedy revenue soars by 226% following release of Control Resonant, the developer's fastest-selling game ever",
-      "url": "https://www.eurogamer.net/control-resonant-remedy-revenue-leaps",
-      "source": "Eurogamer",
-      "published": "Tue, 03 Nov 2026 09:56:48 +0000"
-    },
-    {
-      "title": "Here's the WoW: Forever release time for your region",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/forever-release-date-launch-times/",
-      "source": "PC Gamer",
-      "published": "Tue, 03 Nov 2026 15:00:00 +0000"
-    },
-    {
-      "title": "Indie Game Storefront Itch Deletes a 'Couple of Terabytes of AI Slop,' Adds 'No AI' Filter to Search Results",
-      "url": "https://www.ign.com/articles/itch-deletes-a-couple-of-terabytes-of-ai-slop",
-      "source": "IGN",
-      "published": "Tue, 3 Nov 2026 13:51:47 +0000"
-    },
-    {
-      "title": "This Puzzling “Very Positive” Roguelite Is Now Less Than Half Price, So It’s Time To Enter The Mysterious Manor",
-      "url": "https://www.gamespot.com/articles/this-puzzling-very-positive-roguelite-is-now-less-than-half-price-so-its-time-to-enter-the-mysterious-manor/",
-      "source": "GameSpot",
-      "published": "Tue, 03 Nov 2026 15:00:00 +0000"
-    },
-    {
-      "title": "Nintendo Reveals the Changes It Made to The Legend of Zelda: Ocarina of Time's Notoriously Difficult Water Temple for the Remake",
-      "url": "https://www.ign.com/articles/nintendo-reveals-the-changes-it-made-to-the-legend-of-zelda-ocarina-of-times-notoriously-difficult-water-temple-for-the-remake",
-      "source": "IGN",
-      "published": "Tue, 3 Nov 2026 14:29:11 +0000"
-    },
-    {
-      "title": "GTA 6 Worldwide Release Times Revealed, And The US Gets It Almost Last",
-      "url": "https://www.gamespot.com/articles/unofficial-gta-6-worldwide-release-times-revealed-and-the-us-gets-it-almost-last/",
-      "source": "GameSpot",
-      "published": "Thu, 10 Sep 2026 14:34:11 +0000"
-    },
-    {
-      "title": "The Elder Scrolls 6: Sentinel is confirmed, finally getting new trailer and full name, 8 years, 4 months, and 23 days after its reveal",
-      "url": "https://www.eurogamer.net/the-elder-scrolls-6-sentinel-revealed-bethesda-xbox",
-      "source": "Eurogamer",
-      "published": "Tue, 03 Nov 2026 15:08:07 +0000"
-    },
-    {
-      "title": "LEGO Godzilla Announced, Releases on Black Friday",
-      "url": "https://www.ign.com/articles/lego-godzilla-announced-releases-on-black-friday",
-      "source": "IGN",
-      "published": "Tue, 3 Nov 2026 14:55:46 +0000"
-    },
-    {
-      "title": "Indie game website itch.io expands its AI disclosure filter as 'AI slop' continues to overwhelm Steam and other storefronts",
-      "url": "https://www.eurogamer.net/itchio-generative-ai-filters-slop",
-      "source": "Eurogamer",
-      "published": "Tue, 03 Nov 2026 12:03:56 +0000"
-    },
-    {
-      "title": "The Elder Scrolls VI: Sentinel – Official Name Reveal Trailer",
-      "url": "https://www.gamespot.com/videos/the-elder-scrolls-vi-sentinel-official-name-reveal-trailer/",
-      "source": "GameSpot",
-      "published": "Tue, 03 Nov 2026 15:41:17 +0000"
-    },
-    {
       "title": "The Elder Scrolls 6: Sentinel is finally made official",
       "url": "https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-6-sentinel-is-finally-made-official/",
       "source": "PC Gamer",
       "published": "Tue, 03 Nov 2026 15:33:59 +0000"
-    },
-    {
-      "title": "COD: Modern Warfare 4 DMZ patch has nerfed UAV Towers so you're not immediately visible everywhere you go",
-      "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-uav-tower-nerf",
-      "source": "Eurogamer",
-      "published": "Tue, 03 Nov 2026 13:36:19 +0000"
-    },
-    {
-      "title": "CoD: Modern Warfare 4 Patch Notes Address DMZ’s Biggest Issue",
-      "url": "https://www.gamespot.com/articles/cod-modern-warfare-4-patch-notes-address-dmzs-biggest-issue/",
-      "source": "GameSpot",
-      "published": "Tue, 03 Nov 2026 14:59:01 +0000"
-    },
-    {
-      "title": "The Elder Scrolls 6 Is Officially Titled Sentinel",
-      "url": "https://www.gamespot.com/articles/the-elder-scrolls-6-is-officially-titled-sentinel/",
-      "source": "GameSpot",
-      "published": "Tue, 03 Nov 2026 15:05:08 +0000"
-    },
-    {
-      "title": "One Popular PC Game Storefront Has Had Enough Of AI Slop, And It’s Taking Action",
-      "url": "https://www.gamespot.com/articles/one-popular-pc-game-storefront-has-had-enough-of-ai-slop-and-its-taking-action/",
-      "source": "GameSpot",
-      "published": "Tue, 03 Nov 2026 15:12:19 +0000"
-    },
-    {
-      "title": "2 of my favorite studios are teaming up for their first-ever showcase this week, and have a Steam sale going right now",
-      "url": "https://www.pcgamer.com/games/adventure/2-of-my-favorite-studios-are-teaming-up-for-their-first-ever-showcase-this-week-and-have-a-steam-sale-going-right-now/",
-      "source": "PC Gamer",
-      "published": "Tue, 03 Nov 2026 14:38:29 +0000"
-    },
-    {
-      "title": "The top 100 PC games",
-      "url": "https://www.pcgamer.com/games/the-top-100-pc-games-2026/",
-      "source": "PC Gamer",
-      "published": "Tue, 03 Nov 2026 15:30:00 +0000"
-    },
-    {
-      "title": "Wild Horse Nine Review",
-      "url": "https://www.ign.com/articles/wild-horse-nine-review",
-      "source": "IGN",
-      "published": "Tue, 3 Nov 2026 13:00:00 +0000"
-    },
-    {
-      "title": "Arc Raiders devs say that using generative AI voice acting was necessary as actors \"would just go crazy if they had to read all of that\"",
-      "url": "https://www.eurogamer.net/arc-raiders-ai-voice-acting-would-go-crazy",
-      "source": "Eurogamer",
-      "published": "Tue, 03 Nov 2026 15:34:03 +0000"
     }
   ]
 }
