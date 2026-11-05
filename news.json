@@ -1,35 +1,47 @@
 {
-  "updated": "2026-11-05T05:57:35.482351+00:00",
+  "updated": "2026-11-05T07:11:09.338005+00:00",
   "articles": [
-    {
-      "title": "Nexus Mods introduces new AI disclosure rules, but won't ban AI mods outright",
-      "url": "https://www.eurogamer.net/nexus-mods-gen-ai-disclosure-rules",
-      "source": "Eurogamer",
-      "published": "Wed, 04 Nov 2026 12:18:44 +0000"
-    },
-    {
-      "title": "The Elder Scrolls 6 is reportedly more than two years away, and some fans are not coping well",
-      "url": "https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-6-is-reportedly-more-than-two-years-away-and-some-fans-are-not-coping-well/",
-      "source": "PC Gamer",
-      "published": "Thu, 05 Nov 2026 00:18:02 +0000"
-    },
-    {
-      "title": "The Elder Scrolls 6: Sentinel fans ponder split timelines, alternative histories, and more as story speculation runs wild following latest teaser",
-      "url": "https://www.eurogamer.net/the-elder-scrolls-6-sentinel-story-speculation",
-      "source": "Eurogamer",
-      "published": "Wed, 04 Nov 2026 16:00:00 +0000"
-    },
-    {
-      "title": "John Constantine Movie From Evil Dead Wrath Filmmaker is in Development at DC",
-      "url": "https://www.ign.com/articles/john-constantine-movie-from-evil-dead-wrath-filmmaker-is-in-development-at-dc",
-      "source": "IGN",
-      "published": "Thu, 5 Nov 2026 02:32:58 +0000"
-    },
     {
       "title": "Arkane union says closing the studio \"would probably be more expensive\" for Xbox than simply finishing Marvel's Blade",
       "url": "https://www.eurogamer.net/arkane-union-xbox-more-expensive-marvels-blade",
       "source": "Eurogamer",
       "published": "Wed, 04 Nov 2026 20:33:10 +0000"
+    },
+    {
+      "title": "One of Nintendo's Switch and Switch 2 cartridge manufacturers is exiting the business, which could make physical games more expensive",
+      "url": "https://www.eurogamer.net/nintendo-switch-2-cartridge-macronix-ending-rom-manufacturing",
+      "source": "Eurogamer",
+      "published": "Wed, 04 Nov 2026 13:34:57 +0000"
+    },
+    {
+      "title": "Zelda: Ocarina Of Time Remake Accidentally Made ReDeads Too Scary At One Point",
+      "url": "https://www.gamespot.com/articles/zelda-ocarina-of-time-remake-accidentally-made-redeads-too-scary-at-one-point/",
+      "source": "GameSpot",
+      "published": "Thu, 05 Nov 2026 05:00:00 +0000"
+    },
+    {
+      "title": "Ocarina of Time – Original vs Remake Comparison",
+      "url": "https://www.gamespot.com/videos/ocarina-of-time-original-vs-remake-comparison/",
+      "source": "GameSpot",
+      "published": "Thu, 05 Nov 2026 05:00:00 +0000"
+    },
+    {
+      "title": "French game union accuses Microsoft of 'sabotaging' Blade and then using the fallout to justify closing Arkane",
+      "url": "https://www.pcgamer.com/gaming-industry/french-game-union-accuses-microsoft-of-sabotaging-blade-and-then-using-the-fallout-to-justify-closing-arkane/",
+      "source": "PC Gamer",
+      "published": "Wed, 04 Nov 2026 20:51:28 +0000"
+    },
+    {
+      "title": "Zelda: Ocarina Of Time’s NPCs Stay Busy All Night, And Sounds Like That Was A Pain",
+      "url": "https://www.gamespot.com/articles/zelda-ocarina-of-times-npcs-stay-busy-all-night-and-sounds-like-that-was-a-pain/",
+      "source": "GameSpot",
+      "published": "Thu, 05 Nov 2026 05:00:00 +0000"
+    },
+    {
+      "title": "Halo and Destiny composer Marty O'Donnell loses his race for a seat in the US House of Representatives",
+      "url": "https://www.eurogamer.net/halo-destiny-composer-martin-o-donnell-projected-lose-us-congress-race",
+      "source": "Eurogamer",
+      "published": "Wed, 04 Nov 2026 13:11:26 +0000"
     },
     {
       "title": "World of Warcraft: Forever Review So Far - Beta Impressions",
@@ -38,22 +50,40 @@
       "published": "Wed, 4 Nov 2026 23:20:20 +0000"
     },
     {
-      "title": "You Can Get a 36V 350W Adult Electric Scooter With 19mph Top Speed for Less Than $80 for Black Friday",
-      "url": "https://www.ign.com/articles/best-ladped-lp60-electric-scooter-deal-november-2026",
+      "title": "Scarlett Johansson Says The Batman: Part 2 Role Caused 'Existential Angst'",
+      "url": "https://www.ign.com/articles/scarlett-johansson-the-batman-2-existential-angst",
       "source": "IGN",
-      "published": "Thu, 5 Nov 2026 00:10:00 +0000"
+      "published": "Thu, 5 Nov 2026 00:24:38 +0000"
     },
     {
-      "title": "Pokémon: The Series DVDs Are Getting Early Black Friday Price Drops at Amazon",
-      "url": "https://www.ign.com/articles/pokemon-the-series-dvds-blu-ray-amazon-black-friday-2026",
-      "source": "IGN",
-      "published": "Wed, 4 Nov 2026 23:15:00 +0000"
+      "title": "The Elder Scrolls 6 is reportedly more than two years away, and some fans are not coping well",
+      "url": "https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-6-is-reportedly-more-than-two-years-away-and-some-fans-are-not-coping-well/",
+      "source": "PC Gamer",
+      "published": "Thu, 05 Nov 2026 00:18:02 +0000"
+    },
+    {
+      "title": "Nexus Mods introduces new AI disclosure rules, but won't ban AI mods outright",
+      "url": "https://www.eurogamer.net/nexus-mods-gen-ai-disclosure-rules",
+      "source": "Eurogamer",
+      "published": "Wed, 04 Nov 2026 12:18:44 +0000"
+    },
+    {
+      "title": "Eight years ago the idea of The Elder Scrolls 6: Sentinel had me captivated, but can Bethesda recapture the magic?",
+      "url": "https://www.eurogamer.net/elder-scrolls-6-sentinel-bethesda-recapture-the-magic",
+      "source": "Eurogamer",
+      "published": "Wed, 04 Nov 2026 15:02:30 +0000"
     },
     {
       "title": "Nintendo Wanted Ocarina Of Time To Feel Better In The Remake, Not Just Different",
       "url": "https://www.gamespot.com/articles/nintendo-wanted-ocarina-of-time-to-feel-better-in-the-remake-not-just-different/",
       "source": "GameSpot",
       "published": "Thu, 05 Nov 2026 05:00:00 +0000"
+    },
+    {
+      "title": "You Can Get a 36V 350W Adult Electric Scooter With 19mph Top Speed for Less Than $80 for Black Friday",
+      "url": "https://www.ign.com/articles/best-ladped-lp60-electric-scooter-deal-november-2026",
+      "source": "IGN",
+      "published": "Thu, 5 Nov 2026 00:10:00 +0000"
     },
     {
       "title": "Nintendo Explains How It Made The Zelda: Ocarina Of Time Remake Only It Could Create",
@@ -68,64 +98,10 @@
       "published": "Thu, 05 Nov 2026 01:52:06 +0000"
     },
     {
-      "title": "I Just Found an Actual Deal on Corsair DDR5 Desktop Memory Ahead of Black Friday",
-      "url": "https://www.ign.com/articles/corsair-ddr5-desktop-memory-ram-deal-november-2026",
-      "source": "IGN",
-      "published": "Wed, 4 Nov 2026 23:45:00 +0000"
-    },
-    {
-      "title": "Captain Price Actor Barry Sloane Says He's the Most Qualified Person to Star in the Call of Duty Movie",
-      "url": "https://www.ign.com/articles/captain-price-actor-barry-sloane-says-hes-the-most-qualified-person-to-star-in-the-call-of-duty-movie",
-      "source": "IGN",
-      "published": "Thu, 5 Nov 2026 00:49:28 +0000"
-    },
-    {
-      "title": "French game union accuses Microsoft of 'sabotaging' Blade and then using the fallout to justify closing Arkane",
-      "url": "https://www.pcgamer.com/gaming-industry/french-game-union-accuses-microsoft-of-sabotaging-blade-and-then-using-the-fallout-to-justify-closing-arkane/",
+      "title": "Data centers were some of the biggest losers in last night's US midterm elections",
+      "url": "https://www.pcgamer.com/gaming-industry/data-centers-were-some-of-the-biggest-losers-in-last-nights-us-midterm-elections/",
       "source": "PC Gamer",
-      "published": "Wed, 04 Nov 2026 20:51:28 +0000"
-    },
-    {
-      "title": "World of Warcraft Forever Launch Live Blog: It's Looking Like a Smooth Blizzard Launch",
-      "url": "https://www.ign.com/articles/world-of-warcraft-forever-launch-live-blog",
-      "source": "IGN",
-      "published": "Thu, 5 Nov 2026 00:37:00 +0000"
-    },
-    {
-      "title": "WoW: Forever’s First New Legendary Weapon Revealed",
-      "url": "https://www.gamespot.com/articles/what-might-be-a-brand-new-wow-forever-legendary-weapon-is-being-teased/",
-      "source": "GameSpot",
-      "published": "Wed, 04 Nov 2026 21:39:49 +0000"
-    },
-    {
-      "title": "Halo and Destiny composer Marty O'Donnell loses his race for a seat in the US House of Representatives",
-      "url": "https://www.eurogamer.net/halo-destiny-composer-martin-o-donnell-projected-lose-us-congress-race",
-      "source": "Eurogamer",
-      "published": "Wed, 04 Nov 2026 13:11:26 +0000"
-    },
-    {
-      "title": "Ocarina of Time – Original vs Remake Comparison",
-      "url": "https://www.gamespot.com/videos/ocarina-of-time-original-vs-remake-comparison/",
-      "source": "GameSpot",
-      "published": "Thu, 05 Nov 2026 05:00:00 +0000"
-    },
-    {
-      "title": "Eight years ago the idea of The Elder Scrolls 6: Sentinel had me captivated, but can Bethesda recapture the magic?",
-      "url": "https://www.eurogamer.net/elder-scrolls-6-sentinel-bethesda-recapture-the-magic",
-      "source": "Eurogamer",
-      "published": "Wed, 04 Nov 2026 15:02:30 +0000"
-    },
-    {
-      "title": "One of Nintendo's Switch and Switch 2 cartridge manufacturers is exiting the business, which could make physical games more expensive",
-      "url": "https://www.eurogamer.net/nintendo-switch-2-cartridge-macronix-ending-rom-manufacturing",
-      "source": "Eurogamer",
-      "published": "Wed, 04 Nov 2026 13:34:57 +0000"
-    },
-    {
-      "title": "New Blood CEO would rather shut down the boomer shooter studio than sell out: 'In 20 years, we're done. I'm gonna say goodbye, shut it down'",
-      "url": "https://www.pcgamer.com/games/fps/new-blood-ceo-would-rather-shut-down-the-boomer-shooter-studio-than-sell-out-in-20-years-were-done-im-gonna-say-goodbye-shut-it-down/",
-      "source": "PC Gamer",
-      "published": "Wed, 04 Nov 2026 17:28:16 +0000"
+      "published": "Wed, 04 Nov 2026 21:10:10 +0000"
     },
     {
       "title": "No GTA 6 November: Here's what you can play on PC instead",
@@ -134,34 +110,10 @@
       "published": "Wed, 04 Nov 2026 23:37:01 +0000"
     },
     {
-      "title": "Data centers were some of the biggest losers in last night's US midterm elections",
-      "url": "https://www.pcgamer.com/gaming-industry/data-centers-were-some-of-the-biggest-losers-in-last-nights-us-midterm-elections/",
-      "source": "PC Gamer",
-      "published": "Wed, 04 Nov 2026 21:10:10 +0000"
-    },
-    {
-      "title": "God of War Laufey delayed three months to May 2027, as Sony Santa Monica escapes a packed February",
-      "url": "https://www.eurogamer.net/god-of-war-laufey-delayed-may-three-months",
-      "source": "Eurogamer",
-      "published": "Wed, 04 Nov 2026 17:32:10 +0000"
-    },
-    {
-      "title": "Former Halo composer Marty O'Donnell loses election, then gets absolutely bodied by his opponent: 'The fight is finished'",
-      "url": "https://www.pcgamer.com/games/former-halo-composer-marty-odonnell-loses-election-then-gets-absolutely-bodied-by-his-opponent-the-fight-is-finished/",
-      "source": "PC Gamer",
-      "published": "Wed, 04 Nov 2026 19:21:48 +0000"
-    },
-    {
-      "title": "Zelda: Ocarina Of Time’s NPCs Stay Busy All Night, And Sounds Like That Was A Pain",
-      "url": "https://www.gamespot.com/articles/zelda-ocarina-of-times-npcs-stay-busy-all-night-and-sounds-like-that-was-a-pain/",
+      "title": "How Zelda: Ocarina Of Time Benefits From A Glaringly Obvious Tactic That Few Game Devs Follow",
+      "url": "https://www.gamespot.com/articles/how-zelda-ocarina-of-time-benefits-from-a-glaringly-obvious-tactic-that-few-game-devs-follow/",
       "source": "GameSpot",
       "published": "Thu, 05 Nov 2026 05:00:00 +0000"
-    },
-    {
-      "title": "Scarlett Johansson Says The Batman: Part 2 Role Caused 'Existential Angst'",
-      "url": "https://www.ign.com/articles/scarlett-johansson-the-batman-2-existential-angst",
-      "source": "IGN",
-      "published": "Thu, 5 Nov 2026 00:24:38 +0000"
     },
     {
       "title": "WoW: Forever’s Launch Is Going Surprisingly Smooth",
@@ -170,16 +122,64 @@
       "published": "Thu, 05 Nov 2026 00:45:40 +0000"
     },
     {
+      "title": "I am back modding GTA 5 and being chased by a billion furious, armed cougars",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-am-back-modding-gta-5-and-being-chased-by-a-billion-furious-armed-cougars/",
+      "source": "PC Gamer",
+      "published": "Wed, 04 Nov 2026 18:00:00 +0000"
+    },
+    {
+      "title": "Pokémon: The Series DVDs Are Getting Early Black Friday Price Drops at Amazon",
+      "url": "https://www.ign.com/articles/pokemon-the-series-dvds-blu-ray-amazon-black-friday-2026",
+      "source": "IGN",
+      "published": "Wed, 4 Nov 2026 23:15:00 +0000"
+    },
+    {
+      "title": "Former Halo composer Marty O'Donnell loses election, then gets absolutely bodied by his opponent: 'The fight is finished'",
+      "url": "https://www.pcgamer.com/games/former-halo-composer-marty-odonnell-loses-election-then-gets-absolutely-bodied-by-his-opponent-the-fight-is-finished/",
+      "source": "PC Gamer",
+      "published": "Wed, 04 Nov 2026 19:21:48 +0000"
+    },
+    {
+      "title": "God of War Laufey delayed three months to May 2027, as Sony Santa Monica escapes a packed February",
+      "url": "https://www.eurogamer.net/god-of-war-laufey-delayed-may-three-months",
+      "source": "Eurogamer",
+      "published": "Wed, 04 Nov 2026 17:32:10 +0000"
+    },
+    {
+      "title": "Captain Price Actor Barry Sloane Says He's the Most Qualified Person to Star in the Call of Duty Movie",
+      "url": "https://www.ign.com/articles/captain-price-actor-barry-sloane-says-hes-the-most-qualified-person-to-star-in-the-call-of-duty-movie",
+      "source": "IGN",
+      "published": "Thu, 5 Nov 2026 00:49:28 +0000"
+    },
+    {
+      "title": "WoW: Forever’s First New Legendary Weapon Revealed",
+      "url": "https://www.gamespot.com/articles/what-might-be-a-brand-new-wow-forever-legendary-weapon-is-being-teased/",
+      "source": "GameSpot",
+      "published": "Wed, 04 Nov 2026 21:39:49 +0000"
+    },
+    {
+      "title": "I Just Found an Actual Deal on Corsair DDR5 Desktop Memory Ahead of Black Friday",
+      "url": "https://www.ign.com/articles/corsair-ddr5-desktop-memory-ram-deal-november-2026",
+      "source": "IGN",
+      "published": "Wed, 4 Nov 2026 23:45:00 +0000"
+    },
+    {
       "title": "The Legend of Zelda: Ocarina of Time's Navi actor reprises her role after 28 years, but it was a total accident due to Nintendo's blind auditions",
       "url": "https://www.eurogamer.net/nintendo-cast-navi-actor-zelda-ocarina-of-time",
       "source": "Eurogamer",
       "published": "Wed, 04 Nov 2026 19:15:40 +0000"
     },
     {
-      "title": "I am back modding GTA 5 and being chased by a billion furious, armed cougars",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-am-back-modding-gta-5-and-being-chased-by-a-billion-furious-armed-cougars/",
+      "title": "John Constantine Movie From Evil Dead Wrath Filmmaker is in Development at DC",
+      "url": "https://www.ign.com/articles/john-constantine-movie-from-evil-dead-wrath-filmmaker-is-in-development-at-dc",
+      "source": "IGN",
+      "published": "Thu, 5 Nov 2026 02:32:58 +0000"
+    },
+    {
+      "title": "New Blood CEO would rather shut down the boomer shooter studio than sell out: 'In 20 years, we're done. I'm gonna say goodbye, shut it down'",
+      "url": "https://www.pcgamer.com/games/fps/new-blood-ceo-would-rather-shut-down-the-boomer-shooter-studio-than-sell-out-in-20-years-were-done-im-gonna-say-goodbye-shut-it-down/",
       "source": "PC Gamer",
-      "published": "Wed, 04 Nov 2026 18:00:00 +0000"
+      "published": "Wed, 04 Nov 2026 17:28:16 +0000"
     }
   ]
 }
