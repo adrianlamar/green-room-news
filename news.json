@@ -1,96 +1,6 @@
 {
-  "updated": "2026-11-06T18:49:02.703042+00:00",
+  "updated": "2026-11-06T19:50:19.052974+00:00",
   "articles": [
-    {
-      "title": "Best Buy's Ultimate Holiday Gift Guide for Consoles, Accessories, Games and More",
-      "url": "https://www.ign.com/articles/best-buy-ultimate-holiday-gamer-gift-guide-2026",
-      "source": "IGN",
-      "published": "Fri, 6 Nov 2026 18:01:29 +0000"
-    },
-    {
-      "title": "The Best Video Game Soundtracks Of 2026 (So Far)",
-      "url": "https://www.gamespot.com/articles/the-best-video-game-soundtracks-of-2026/1100-6538590/",
-      "source": "GameSpot",
-      "published": "Fri, 27 Mar 2026 14:41:00 +0000"
-    },
-    {
-      "title": "Skyrim's lead designer has 2 big asks of The Elder Scrolls 6: Sentinel, and only one of them is something most players have ever thought about",
-      "url": "https://www.pcgamer.com/games/the-elder-scrolls/skyrims-lead-designer-has-2-big-asks-of-the-elder-scrolls-6-sentinel-and-only-one-of-them-is-something-most-players-have-ever-thought-about/",
-      "source": "PC Gamer",
-      "published": "Fri, 06 Nov 2026 14:21:52 +0000"
-    },
-    {
-      "title": "GTA 6 Is Going All Out On Details You Might Never Even Notice",
-      "url": "https://www.gamespot.com/articles/gta-6-is-going-all-out-on-details-you-might-never-even-notice/",
-      "source": "GameSpot",
-      "published": "Fri, 06 Nov 2026 16:25:51 +0000"
-    },
-    {
-      "title": "Xbox Series X | X25 Special Edition Console – Invite Requests Are Up at Amazon",
-      "url": "https://www.ign.com/articles/xbox-series-x-x25-special-edition-console-invite-requests-are-up-at-amazon",
-      "source": "IGN",
-      "published": "Fri, 6 Nov 2026 18:03:36 +0000"
-    },
-    {
-      "title": "WoW: Forever takes 250,000 GB of memory to run, and I can't even joke about Sam Altman being jealous because that's almost nothing compared to the monolithic demands of AI",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-takes-250-000-gb-of-memory-to-run-and-i-cant-even-joke-about-sam-altman-being-jealous-because-thats-almost-nothing-compared-to-the-monolithic-demands-of-ai/",
-      "source": "PC Gamer",
-      "published": "Fri, 06 Nov 2026 15:50:34 +0000"
-    },
-    {
-      "title": "Mass Effect Is Getting A New Art Collection At A Difficult Time For Its Fans",
-      "url": "https://www.gamespot.com/articles/mass-effect-is-getting-a-new-art-collection-at-a-difficult-time-for-its-fans/",
-      "source": "GameSpot",
-      "published": "Fri, 06 Nov 2026 18:00:00 +0000"
-    },
-    {
-      "title": "\"Is there any accountability left in this world?\" Warren Spector pops off at EA executives and their massive payouts as BioWare shuts down",
-      "url": "https://www.eurogamer.net/bioware-closure-warren-spector-comments-accountability",
-      "source": "Eurogamer",
-      "published": "Fri, 06 Nov 2026 10:15:20 +0000"
-    },
-    {
-      "title": "Mass Effect-like RPG The Expanse: Osiris Reborn ropes in David Gaider, the original lead writer of Bioware's Dragon Age series",
-      "url": "https://www.eurogamer.net/mass-effect-expanse-rpg-david-gaider",
-      "source": "Eurogamer",
-      "published": "Fri, 06 Nov 2026 18:40:40 +0000"
-    },
-    {
-      "title": "Adding PvE to Arc Raiders 'isn't a difficult thing to do' but the question still stands how Embark can 'cater to the specific needs of the players'",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/adding-pve-to-arc-raiders-isnt-a-difficult-thing-to-do-but-the-question-still-stands-how-embark-can-cater-to-the-specific-needs-of-the-players/",
-      "source": "PC Gamer",
-      "published": "Fri, 06 Nov 2026 13:49:21 +0000"
-    },
-    {
-      "title": "There’s A New DMZ Map Hidden In MW4, And Here’s How To Find It",
-      "url": "https://www.gamespot.com/articles/theres-a-new-dmz-map-hidden-in-mw4-and-heres-how-to-find-it/",
-      "source": "GameSpot",
-      "published": "Fri, 06 Nov 2026 18:20:00 +0000"
-    },
-    {
-      "title": "Following BioWare's shock closure, a new documentary capturing its final moments is coming next year",
-      "url": "https://www.eurogamer.net/bioware-closure-documentary-release",
-      "source": "Eurogamer",
-      "published": "Fri, 06 Nov 2026 12:24:20 +0000"
-    },
-    {
-      "title": "Ratchet & Clank Game Shutting Down Before Ever Fully Launching",
-      "url": "https://www.gamespot.com/articles/ratchet-clank-game-shutting-down-before-ever-fully-launching/",
-      "source": "GameSpot",
-      "published": "Fri, 06 Nov 2026 16:09:00 +0000"
-    },
-    {
-      "title": "Epomaker HE75 V2 TMR review",
-      "url": "https://www.pcgamer.com/hardware/gaming-keyboards/epomaker-he75-v2-tmr-review/",
-      "source": "PC Gamer",
-      "published": "Fri, 06 Nov 2026 15:58:29 +0000"
-    },
-    {
-      "title": "Marvel Rivals: The Story So Far",
-      "url": "https://www.gamespot.com/videos/marvel-rivals-the-story-so-far/",
-      "source": "GameSpot",
-      "published": "Fri, 06 Nov 2026 17:00:00 +0000"
-    },
     {
       "title": "ENDIX, the Fully Free, Digital Gaming Expo, Is Now Live With More Than 50 Games, World Premieres, Exclusive Trailers, and More",
       "url": "https://www.ign.com/articles/endix-the-fully-free-digital-gaming-expo-is-now-live-with-more-than-50-games-world-premieres-exclusive-trailers-and-more",
@@ -98,58 +8,10 @@
       "published": "Fri, 6 Nov 2026 18:00:00 +0000"
     },
     {
-      "title": "Dead by Daylight Jumps to Positive Ratings After Steam Hides 'Off-Topic' Reviews Following BurntPeanut Backlash",
-      "url": "https://www.ign.com/articles/dead-by-daylight-jumps-to-positive-ratings-after-steam-hides-off-topic-reviews-following-burntpeanut-backlash",
-      "source": "IGN",
-      "published": "Fri, 6 Nov 2026 17:39:42 +0000"
-    },
-    {
-      "title": "A public petition to save BioWare has drawn enough signatures that the Canadian government will at least have to think about it: 'This is absolutely possible,' MP says",
-      "url": "https://www.pcgamer.com/games/mass-effect/a-public-petition-to-save-bioware-has-drawn-enough-signatures-that-the-canadian-government-will-at-least-have-to-think-about-it-this-is-absolutely-possible-mp-says/",
-      "source": "PC Gamer",
-      "published": "Fri, 06 Nov 2026 16:14:55 +0000"
-    },
-    {
-      "title": "David Gaider has been working on Owlcat's Expanse RPG: 'The Expanse has long been one of my favourite series, and so obviously I jumped at the opportunity to be involved'",
-      "url": "https://www.pcgamer.com/games/rpg/david-gaider-has-been-working-on-owlcats-expanse-rpg-the-expanse-has-long-been-one-of-my-favourite-series-and-so-obviously-i-jumped-at-the-opportunity-to-be-involved/",
-      "source": "PC Gamer",
-      "published": "Fri, 06 Nov 2026 15:53:01 +0000"
-    },
-    {
-      "title": "It's hard to meet women when I keep teleporting all the time",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/its-hard-to-meet-women-when-i-keep-teleporting-all-the-time/",
-      "source": "PC Gamer",
-      "published": "Fri, 06 Nov 2026 18:00:00 +0000"
-    },
-    {
-      "title": "Mass Effect Is Dead, But the Official Bioware Store Is Still Releasing New Merch for N7 Day",
-      "url": "https://www.ign.com/articles/mass-effect-is-dead-but-the-official-bioware-store-is-still-releasing-new-merch-for-n7-day",
-      "source": "IGN",
-      "published": "Fri, 6 Nov 2026 17:42:34 +0000"
-    },
-    {
-      "title": "Former Rockstar Games tech director thinks GTA 6 could be coming to PC sooner than you'd expect to curb AI clones",
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-pc-sooner-than-you-expect-curb-ai-clone",
-      "source": "Eurogamer",
-      "published": "Fri, 06 Nov 2026 12:02:40 +0000"
-    },
-    {
-      "title": "Dane Cook and Robert Bowling Announce Vicious Vocab, a Genre-Bending Word Game With a Big Twist",
-      "url": "https://www.ign.com/articles/dane-cook-and-robert-bowling-announce-vicious-vocab-a-genre-bending-word-game-with-a-big-twist",
-      "source": "IGN",
-      "published": "Fri, 6 Nov 2026 18:00:00 +0000"
-    },
-    {
-      "title": "Square Enix accidentally botches a Nier: Automata update, balloons required file size from 50GB to 366GB on PC",
-      "url": "https://www.eurogamer.net/square-enix-nier-automata-update-required-file-size-366gb",
-      "source": "Eurogamer",
-      "published": "Fri, 06 Nov 2026 12:28:10 +0000"
-    },
-    {
-      "title": "Bringing Bloodborne back is tricky because \"there's a lot of involved rights associated,\" according to former PlayStation boss",
-      "url": "https://www.eurogamer.net/bloodborne-involved-rights-former-playstation-boss",
-      "source": "Eurogamer",
-      "published": "Fri, 06 Nov 2026 17:49:40 +0000"
+      "title": "Looking at Xbox, You Can See Everything",
+      "url": "https://www.gamespot.com/articles/looking-at-xbox-you-can-see-everything/",
+      "source": "GameSpot",
+      "published": "Fri, 06 Nov 2026 19:01:20 +0000"
     },
     {
       "title": "In Charting the Unknown, Crimson Desert doubles down on its maximalism in audacious, faintly sinister style",
@@ -158,22 +20,160 @@
       "published": "Fri, 06 Nov 2026 12:32:20 +0000"
     },
     {
-      "title": "Marvel's Deadliest Assassins Cut Loose in Black Widow: Black, White & Red Room",
-      "url": "https://www.ign.com/articles/marvels-deadliest-assassins-cut-loose-in-black-widow-black-white-red-room",
-      "source": "IGN",
-      "published": "Fri, 6 Nov 2026 18:00:00 +0000"
+      "title": "Marvel Rivals: The Story So Far",
+      "url": "https://www.gamespot.com/videos/marvel-rivals-the-story-so-far/",
+      "source": "GameSpot",
+      "published": "Fri, 06 Nov 2026 17:00:00 +0000"
     },
     {
-      "title": "The Best Warzone Perks May Surprise You After The MW4 Overhaul",
-      "url": "https://www.gamespot.com/articles/the-best-warzone-perks-may-surprise-you-after-the-mw4-overhaul/",
+      "title": "Following BioWare's shock closure, a new documentary capturing its final moments is coming next year",
+      "url": "https://www.eurogamer.net/bioware-closure-documentary-release",
+      "source": "Eurogamer",
+      "published": "Fri, 06 Nov 2026 12:24:20 +0000"
+    },
+    {
+      "title": "Best Buy's Ultimate Holiday Gift Guide for Consoles, Accessories, Games and More",
+      "url": "https://www.ign.com/articles/best-buy-ultimate-holiday-gamer-gift-guide-2026",
+      "source": "IGN",
+      "published": "Fri, 6 Nov 2026 18:01:29 +0000"
+    },
+    {
+      "title": "Today’s Top Deals: Animatronic Pikachu, iBUYPOWER RTX 5060 Gaming PC, and 50% Off Criterion Collection",
+      "url": "https://www.ign.com/articles/best-deals-for-november-6-2026",
+      "source": "IGN",
+      "published": "Fri, 6 Nov 2026 18:40:00 +0000"
+    },
+    {
+      "title": "A public petition to save BioWare has drawn enough signatures that the Canadian government will at least have to think about it: 'This is absolutely possible,' MP says",
+      "url": "https://www.pcgamer.com/games/mass-effect/a-public-petition-to-save-bioware-has-drawn-enough-signatures-that-the-canadian-government-will-at-least-have-to-think-about-it-this-is-absolutely-possible-mp-says/",
+      "source": "PC Gamer",
+      "published": "Fri, 06 Nov 2026 16:14:55 +0000"
+    },
+    {
+      "title": "Mass Effect Is Getting A New Art Collection At A Difficult Time For Its Fans",
+      "url": "https://www.gamespot.com/articles/mass-effect-is-getting-a-new-art-collection-at-a-difficult-time-for-its-fans/",
       "source": "GameSpot",
-      "published": "Fri, 06 Nov 2026 17:12:07 +0000"
+      "published": "Fri, 06 Nov 2026 18:00:00 +0000"
+    },
+    {
+      "title": "Epomaker HE75 V2 TMR review",
+      "url": "https://www.pcgamer.com/hardware/gaming-keyboards/epomaker-he75-v2-tmr-review/",
+      "source": "PC Gamer",
+      "published": "Fri, 06 Nov 2026 15:58:29 +0000"
+    },
+    {
+      "title": "David Gaider has been working on Owlcat's Expanse RPG: 'The Expanse has long been one of my favourite series, and so obviously I jumped at the opportunity to be involved'",
+      "url": "https://www.pcgamer.com/games/rpg/david-gaider-has-been-working-on-owlcats-expanse-rpg-the-expanse-has-long-been-one-of-my-favourite-series-and-so-obviously-i-jumped-at-the-opportunity-to-be-involved/",
+      "source": "PC Gamer",
+      "published": "Fri, 06 Nov 2026 15:53:01 +0000"
+    },
+    {
+      "title": "Mass Effect-like RPG The Expanse: Osiris Reborn ropes in David Gaider, the original lead writer of Bioware's Dragon Age series",
+      "url": "https://www.eurogamer.net/mass-effect-expanse-rpg-david-gaider",
+      "source": "Eurogamer",
+      "published": "Fri, 06 Nov 2026 18:40:40 +0000"
+    },
+    {
+      "title": "WoW: Forever takes 250,000 GB of memory to run, and I can't even joke about Sam Altman being jealous because that's almost nothing compared to the monolithic demands of AI",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-takes-250-000-gb-of-memory-to-run-and-i-cant-even-joke-about-sam-altman-being-jealous-because-thats-almost-nothing-compared-to-the-monolithic-demands-of-ai/",
+      "source": "PC Gamer",
+      "published": "Fri, 06 Nov 2026 15:50:34 +0000"
+    },
+    {
+      "title": "Blizzard Reveals What Made It Finally Pull The Trigger on WoW Forever",
+      "url": "https://www.ign.com/articles/blizzard-reveals-what-made-it-finally-pull-the-trigger-on-wow-forever",
+      "source": "IGN",
+      "published": "Fri, 6 Nov 2026 18:47:50 +0000"
+    },
+    {
+      "title": "The mFish 4-in-1 Lighted USB Type-C Cable Is So Worth It for Less Than $7",
+      "url": "https://www.ign.com/articles/mfish-usb-cable-deal-november-2026",
+      "source": "IGN",
+      "published": "Fri, 6 Nov 2026 19:00:00 +0000"
+    },
+    {
+      "title": "Former Rockstar Games tech director thinks GTA 6 could be coming to PC sooner than you'd expect to curb AI clones",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-pc-sooner-than-you-expect-curb-ai-clone",
+      "source": "Eurogamer",
+      "published": "Fri, 06 Nov 2026 12:02:40 +0000"
+    },
+    {
+      "title": "It's hard to meet women when I keep teleporting all the time",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/its-hard-to-meet-women-when-i-keep-teleporting-all-the-time/",
+      "source": "PC Gamer",
+      "published": "Fri, 06 Nov 2026 18:00:00 +0000"
+    },
+    {
+      "title": "Donuts Beat AI: Nvidia Has Lost $1 Trillion+ In The Past Month, While Krispy Kreme Surges",
+      "url": "https://www.gamespot.com/articles/donuts-beat-ai-nvidia-has-lost-1-trillion-in-the-past-month-while-krispy-kreme-surges/",
+      "source": "GameSpot",
+      "published": "Fri, 06 Nov 2026 18:50:58 +0000"
+    },
+    {
+      "title": "Square Enix accidentally botches a Nier: Automata update, balloons required file size from 50GB to 366GB on PC",
+      "url": "https://www.eurogamer.net/square-enix-nier-automata-update-required-file-size-366gb",
+      "source": "Eurogamer",
+      "published": "Fri, 06 Nov 2026 12:28:10 +0000"
+    },
+    {
+      "title": "Adding PvE to Arc Raiders 'isn't a difficult thing to do' but the question still stands how Embark can 'cater to the specific needs of the players'",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/adding-pve-to-arc-raiders-isnt-a-difficult-thing-to-do-but-the-question-still-stands-how-embark-can-cater-to-the-specific-needs-of-the-players/",
+      "source": "PC Gamer",
+      "published": "Fri, 06 Nov 2026 13:49:21 +0000"
+    },
+    {
+      "title": "Bringing Bloodborne back is tricky because \"there's a lot of involved rights associated,\" according to former PlayStation boss",
+      "url": "https://www.eurogamer.net/bloodborne-involved-rights-former-playstation-boss",
+      "source": "Eurogamer",
+      "published": "Fri, 06 Nov 2026 17:49:40 +0000"
+    },
+    {
+      "title": "There’s A New DMZ Map Hidden In MW4, And Here’s How To Find It",
+      "url": "https://www.gamespot.com/articles/theres-a-new-dmz-map-hidden-in-mw4-and-heres-how-to-find-it/",
+      "source": "GameSpot",
+      "published": "Fri, 06 Nov 2026 18:20:00 +0000"
     },
     {
       "title": "All that stands between a hacker and admin privileges on some Linux distros is a 257-character long string of literally anything",
       "url": "https://www.pcgamer.com/software/linux/all-that-stands-between-a-hacker-and-admin-privileges-on-some-linux-distros-is-a-257-character-long-string-of-literally-anything/",
       "source": "PC Gamer",
       "published": "Fri, 06 Nov 2026 17:31:29 +0000"
+    },
+    {
+      "title": "Skyrim's lead designer has 2 big asks of The Elder Scrolls 6: Sentinel, and only one of them is something most players have ever thought about",
+      "url": "https://www.pcgamer.com/games/the-elder-scrolls/skyrims-lead-designer-has-2-big-asks-of-the-elder-scrolls-6-sentinel-and-only-one-of-them-is-something-most-players-have-ever-thought-about/",
+      "source": "PC Gamer",
+      "published": "Fri, 06 Nov 2026 14:21:52 +0000"
+    },
+    {
+      "title": "You Can Finally Drive A Dreamcast, Thanks To Sonic",
+      "url": "https://www.gamespot.com/articles/you-can-finally-drive-a-dreamcast-thanks-to-sonic/",
+      "source": "GameSpot",
+      "published": "Fri, 06 Nov 2026 18:42:41 +0000"
+    },
+    {
+      "title": "Dane Cook and Robert Bowling Announce Vicious Vocab, a Genre-Bending Word Game With a Big Twist",
+      "url": "https://www.ign.com/articles/dane-cook-and-robert-bowling-announce-vicious-vocab-a-genre-bending-word-game-with-a-big-twist",
+      "source": "IGN",
+      "published": "Fri, 6 Nov 2026 18:00:00 +0000"
+    },
+    {
+      "title": "The Lenovo Legion Tower 5i Has the Power for Gaming, Streaming, and Editing",
+      "url": "https://www.ign.com/articles/the-lenovo-legion-tower-5i-has-the-power-for-gaming-streaming-and-editing",
+      "source": "IGN",
+      "published": "Fri, 6 Nov 2026 18:31:17 +0000"
+    },
+    {
+      "title": "The Best Video Game Soundtracks Of 2026 (So Far)",
+      "url": "https://www.gamespot.com/articles/the-best-video-game-soundtracks-of-2026/1100-6538590/",
+      "source": "GameSpot",
+      "published": "Fri, 27 Mar 2026 14:41:00 +0000"
+    },
+    {
+      "title": "The Best Warzone Perks May Surprise You After The MW4 Overhaul",
+      "url": "https://www.gamespot.com/articles/the-best-warzone-perks-may-surprise-you-after-the-mw4-overhaul/",
+      "source": "GameSpot",
+      "published": "Fri, 06 Nov 2026 17:12:07 +0000"
     },
     {
       "title": "World of Warcraft: Forever hotfix puts a stop to super speedy flag carriers that were dominating PvP battlegrounds",
