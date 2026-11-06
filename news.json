@@ -1,11 +1,125 @@
 {
-  "updated": "2026-11-06T10:31:59.723913+00:00",
+  "updated": "2026-11-06T11:25:38.273996+00:00",
   "articles": [
+    {
+      "title": "Amazon's Black Friday Audible Deal Is Now Live: Pay $0.99 Per Month Plus Get $20 Credit",
+      "url": "https://www.ign.com/articles/amazon-early-black-friday-audible-deal-2026",
+      "source": "IGN",
+      "published": "Thu, 5 Nov 2026 23:40:00 +0000"
+    },
+    {
+      "title": "Nvidia, Micron, and other AI stocks take a dive after elections",
+      "url": "https://www.pcgamer.com/software/ai/nvidia-micron-and-other-ai-stocks-take-a-dive-after-elections/",
+      "source": "PC Gamer",
+      "published": "Thu, 05 Nov 2026 19:32:47 +0000"
+    },
+    {
+      "title": "Rockstar shares 38 new screenshots of Grand Theft Auto 6, showing off Vice City, Jason and Lucia, and much more",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-38-new-screenshots",
+      "source": "Eurogamer",
+      "published": "Thu, 05 Nov 2026 16:18:40 +0000"
+    },
+    {
+      "title": "Pilot Draws Incredible GTA 6 Mural With His Flight Path",
+      "url": "https://www.ign.com/articles/pilot-draws-incredible-gta-6-mural-with-flight-path",
+      "source": "IGN",
+      "published": "Fri, 6 Nov 2026 10:21:18 +0000"
+    },
+    {
+      "title": "EA's releasing a truckload of classic games on Steam, and 7 of them are remasters",
+      "url": "https://www.pcgamer.com/games/eas-releasing-a-truckload-of-classic-games-on-steam-and-7-of-them-are-remasters/",
+      "source": "PC Gamer",
+      "published": "Thu, 05 Nov 2026 18:30:00 +0000"
+    },
+    {
+      "title": "Animated John Wick Prequel Film in the Works Starring Keanu Reeves",
+      "url": "https://www.ign.com/articles/animated-john-wick-prequel-film-in-the-works-starring-keanu-reeves",
+      "source": "IGN",
+      "published": "Thu, 5 Nov 2026 23:23:17 +0000"
+    },
+    {
+      "title": "I have added parkour to GTA 5, and also accidentally turned on like 20 mods I forgot I'd installed",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-added-parkour-to-gta-5-and-also-accidentally-turned-on-like-20-mods-i-forgot-id-installed/",
+      "source": "PC Gamer",
+      "published": "Thu, 05 Nov 2026 18:00:00 +0000"
+    },
+    {
+      "title": "Nintendo says it isn't planning any more Switch 2 price hikes",
+      "url": "https://www.eurogamer.net/nintendo-switch-2-no-plans-for-more-price-hikes",
+      "source": "Eurogamer",
+      "published": "Thu, 05 Nov 2026 14:59:30 +0000"
+    },
+    {
+      "title": "Remakes and new games \"both have a place in the stable\" says Nintendo boss, buoyed by the success of Star Fox and Ocarina of Time",
+      "url": "https://www.eurogamer.net/remakes-and-new-games-both-have-a-place-in-the-stable-says-nintendo-boss-buoyed-by-the-success-of-star-fox-and-ocarina-of-time",
+      "source": "Eurogamer",
+      "published": "Fri, 06 Nov 2026 09:40:50 +0000"
+    },
+    {
+      "title": "Before Dark Souls there was King's Field, and five hours into brilliant homage Queen's Domain, it's already one of my favourite games this year",
+      "url": "https://www.eurogamer.net/queens-domain-now-playing",
+      "source": "Eurogamer",
+      "published": "Thu, 05 Nov 2026 13:24:20 +0000"
+    },
     {
       "title": "Warren Spector sounds even angrier about BioWare's closure as he recounts the massive salaries of EA execs: 'Is there ANY accountability left in this world?'",
       "url": "https://www.pcgamer.com/gaming-industry/warren-spector-sounds-even-angrier-about-biowares-closure-as-he-recounts-the-massive-salaries-of-ea-execs-is-there-any-accountability-left-in-this-world/",
       "source": "PC Gamer",
       "published": "Thu, 05 Nov 2026 22:20:18 +0000"
+    },
+    {
+      "title": "\"Is there any accountability left in this world?\" Warren Spector pops off at EA executives and their massive payouts as BioWare shuts down",
+      "url": "https://www.eurogamer.net/bioware-closure-warren-spector-comments-accountability",
+      "source": "Eurogamer",
+      "published": "Fri, 06 Nov 2026 10:15:20 +0000"
+    },
+    {
+      "title": "Nier: Automata Dev Working on Fix for Patch That Accidentally Bloated the Game Size to 366GB on PC",
+      "url": "https://www.ign.com/articles/nier-automata-dev-working-on-fix-patch-that-bloated-game-size-366gb",
+      "source": "IGN",
+      "published": "Fri, 6 Nov 2026 11:07:49 +0000"
+    },
+    {
+      "title": "After gobbling up EA, Saudi Arabia and private equity firm Silver Lake reportedly looking to buy Unity",
+      "url": "https://www.eurogamer.net/unity-game-engine-saudi-arabia-silver-lake",
+      "source": "Eurogamer",
+      "published": "Fri, 06 Nov 2026 10:00:50 +0000"
+    },
+    {
+      "title": "The Best Zombie Game Of 2026 Just Went From George Romero To Jason Voorhees",
+      "url": "https://www.gamespot.com/articles/the-best-zombie-game-of-2026-just-went-from-george-romero-to-jason-voorhees/",
+      "source": "GameSpot",
+      "published": "Thu, 05 Nov 2026 22:12:54 +0000"
+    },
+    {
+      "title": "Stellar Blade On Switch 2 Has One Fatal Flaw",
+      "url": "https://www.gamespot.com/videos/stellar-blade-on-switch-2-has-one-fatal-flaw/",
+      "source": "GameSpot",
+      "published": "Thu, 05 Nov 2026 20:00:00 +0000"
+    },
+    {
+      "title": "We Analyzed Every Official GTA 6 Screenshot Continued",
+      "url": "https://www.gamespot.com/videos/we-analyzed-every-official-gta-6-screenshot-continued/",
+      "source": "GameSpot",
+      "published": "Thu, 05 Nov 2026 23:07:32 +0000"
+    },
+    {
+      "title": "Amazon Reveals Free Uber Eats Delivery for Prime Members, Plus $20 Off Your First Two Orders",
+      "url": "https://www.ign.com/articles/amazon-reveals-free-uber-eats-delivery-for-prime-members-plus-20-off-your-first-two-orders",
+      "source": "IGN",
+      "published": "Thu, 5 Nov 2026 23:33:49 +0000"
+    },
+    {
+      "title": "Mass Effect petition has enough signatures for the Canadian Government to potentially save BioWare",
+      "url": "https://www.eurogamer.net/bioware-canada-house-of-commons-petition-save-mass-effect",
+      "source": "Eurogamer",
+      "published": "Thu, 05 Nov 2026 12:48:40 +0000"
+    },
+    {
+      "title": "Saudi Arabia owns EA, and according to a Reuters report, Unity is next",
+      "url": "https://www.pcgamer.com/gaming-industry/saudi-arabia-owns-ea-and-according-to-a-reuters-report-unity-is-next/",
+      "source": "PC Gamer",
+      "published": "Fri, 06 Nov 2026 05:27:40 +0000"
     },
     {
       "title": "Richard Garriott on the state of the games industry: 'The bells and whistles are no longer what's important'",
@@ -20,100 +134,10 @@
       "published": "Thu, 05 Nov 2026 20:25:46 +0000"
     },
     {
-      "title": "Nintendo says it isn't planning any more Switch 2 price hikes",
-      "url": "https://www.eurogamer.net/nintendo-switch-2-no-plans-for-more-price-hikes",
-      "source": "Eurogamer",
-      "published": "Thu, 05 Nov 2026 14:59:30 +0000"
-    },
-    {
-      "title": "Bill Skarsgård Explains Why Starring in Hideo Kojima’s Physint Is a ‘Big Deal’ for Him",
-      "url": "https://www.ign.com/articles/bill-skarsgrd-explains-why-starring-in-hideo-kojimas-physint-is-a-big-deal-for-him",
-      "source": "IGN",
-      "published": "Thu, 5 Nov 2026 22:45:44 +0000"
-    },
-    {
-      "title": "Amazon's Black Friday Audible Deal Is Now Live: Pay $0.99 Per Month Plus Get $20 Credit",
-      "url": "https://www.ign.com/articles/amazon-early-black-friday-audible-deal-2026",
-      "source": "IGN",
-      "published": "Thu, 5 Nov 2026 23:40:00 +0000"
-    },
-    {
-      "title": "After gobbling up EA, Saudi Arabia and private equity firm Silver Lake reportedly looking to buy Unity",
-      "url": "https://www.eurogamer.net/unity-game-engine-saudi-arabia-silver-lake",
-      "source": "Eurogamer",
-      "published": "Fri, 06 Nov 2026 10:00:50 +0000"
-    },
-    {
-      "title": "Saudi Arabia owns EA, and according to a Reuters report, Unity is next",
-      "url": "https://www.pcgamer.com/gaming-industry/saudi-arabia-owns-ea-and-according-to-a-reuters-report-unity-is-next/",
-      "source": "PC Gamer",
-      "published": "Fri, 06 Nov 2026 05:27:40 +0000"
-    },
-    {
-      "title": "World of Warcraft: Forever's seemingly stellar launch continues as it soars to the top of Twitch's most viewed games, beating out the likes of League of Legends and Zelda",
-      "url": "https://www.eurogamer.net/world-of-warcraft-forever-launch-twitch-most-viewed",
-      "source": "Eurogamer",
-      "published": "Thu, 05 Nov 2026 14:57:50 +0000"
-    },
-    {
-      "title": "Nvidia, Micron, and other AI stocks take a dive after elections",
-      "url": "https://www.pcgamer.com/software/ai/nvidia-micron-and-other-ai-stocks-take-a-dive-after-elections/",
-      "source": "PC Gamer",
-      "published": "Thu, 05 Nov 2026 19:32:47 +0000"
-    },
-    {
-      "title": "After Buying EA, Silver Lake and PIF Are Reportedly Now Seeking to Acquire Gaming Software Provider Unity",
-      "url": "https://www.ign.com/articles/after-buying-ea-silver-lake-and-pif-are-reportedly-now-seeking-to-acquire-gaming-software-provider-unity",
-      "source": "IGN",
-      "published": "Fri, 6 Nov 2026 05:41:38 +0000"
-    },
-    {
-      "title": "I have added parkour to GTA 5, and also accidentally turned on like 20 mods I forgot I'd installed",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-added-parkour-to-gta-5-and-also-accidentally-turned-on-like-20-mods-i-forgot-id-installed/",
-      "source": "PC Gamer",
-      "published": "Thu, 05 Nov 2026 18:00:00 +0000"
-    },
-    {
-      "title": "Spectrum Is Offering Free Internet Upgrades So People Can Download GTA 6 Faster",
-      "url": "https://www.ign.com/articles/spectrum-is-offering-free-internet-upgrades-so-people-can-download-gta-6-faster",
-      "source": "IGN",
-      "published": "Thu, 5 Nov 2026 23:00:08 +0000"
-    },
-    {
-      "title": "Stellar Blade On Switch 2 Has One Fatal Flaw",
-      "url": "https://www.gamespot.com/videos/stellar-blade-on-switch-2-has-one-fatal-flaw/",
-      "source": "GameSpot",
-      "published": "Thu, 05 Nov 2026 20:00:00 +0000"
-    },
-    {
-      "title": "EA's releasing a truckload of classic games on Steam, and 7 of them are remasters",
-      "url": "https://www.pcgamer.com/games/eas-releasing-a-truckload-of-classic-games-on-steam-and-7-of-them-are-remasters/",
-      "source": "PC Gamer",
-      "published": "Thu, 05 Nov 2026 18:30:00 +0000"
-    },
-    {
-      "title": "We Analyzed Every Official GTA 6 Screenshot Continued",
-      "url": "https://www.gamespot.com/videos/we-analyzed-every-official-gta-6-screenshot-continued/",
-      "source": "GameSpot",
-      "published": "Thu, 05 Nov 2026 23:07:32 +0000"
-    },
-    {
       "title": "Switch 2 Won’t Get Another Price Hike, At Least Not Soon, Nintendo Says",
       "url": "https://www.gamespot.com/articles/switch-2-wont-get-another-price-hike-at-least-not-soon-nintendo-says/",
       "source": "GameSpot",
       "published": "Thu, 05 Nov 2026 18:08:03 +0000"
-    },
-    {
-      "title": "Animated John Wick Prequel Film in the Works Starring Keanu Reeves",
-      "url": "https://www.ign.com/articles/animated-john-wick-prequel-film-in-the-works-starring-keanu-reeves",
-      "source": "IGN",
-      "published": "Thu, 5 Nov 2026 23:23:17 +0000"
-    },
-    {
-      "title": "The Best Zombie Game Of 2026 Just Went From George Romero To Jason Voorhees",
-      "url": "https://www.gamespot.com/articles/the-best-zombie-game-of-2026-just-went-from-george-romero-to-jason-voorhees/",
-      "source": "GameSpot",
-      "published": "Thu, 05 Nov 2026 22:12:54 +0000"
     },
     {
       "title": "Sam Altman is annoyed his DRAM comment was 'taken out of context'",
@@ -122,22 +146,10 @@
       "published": "Thu, 05 Nov 2026 20:34:00 +0000"
     },
     {
-      "title": "Before Dark Souls there was King's Field, and five hours into brilliant homage Queen's Domain, it's already one of my favourite games this year",
-      "url": "https://www.eurogamer.net/queens-domain-now-playing",
-      "source": "Eurogamer",
-      "published": "Thu, 05 Nov 2026 13:24:20 +0000"
-    },
-    {
-      "title": "All Dungeon Bosses No Damage – Ocarina Of Time Remake",
-      "url": "https://www.gamespot.com/videos/all-dungeon-bosses-no-damage-ocarina-of-time-remake/",
-      "source": "GameSpot",
-      "published": "Thu, 05 Nov 2026 18:00:00 +0000"
-    },
-    {
-      "title": "Rockstar shares 38 new screenshots of Grand Theft Auto 6, showing off Vice City, Jason and Lucia, and much more",
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-38-new-screenshots",
-      "source": "Eurogamer",
-      "published": "Thu, 05 Nov 2026 16:18:40 +0000"
+      "title": "Spectrum Is Offering Free Internet Upgrades So People Can Download GTA 6 Faster",
+      "url": "https://www.ign.com/articles/spectrum-is-offering-free-internet-upgrades-so-people-can-download-gta-6-faster",
+      "source": "IGN",
+      "published": "Thu, 5 Nov 2026 23:00:08 +0000"
     },
     {
       "title": "Xbox enters the 'faster PC launcher' arms race, its app loads faster now too",
@@ -146,16 +158,10 @@
       "published": "Thu, 05 Nov 2026 22:32:22 +0000"
     },
     {
-      "title": "Remakes and new games \"both have a place in the stable\" says Nintendo boss, buoyed by the success of Star Fox and Ocarina of Time",
-      "url": "https://www.eurogamer.net/remakes-and-new-games-both-have-a-place-in-the-stable-says-nintendo-boss-buoyed-by-the-success-of-star-fox-and-ocarina-of-time",
+      "title": "World of Warcraft: Forever's seemingly stellar launch continues as it soars to the top of Twitch's most viewed games, beating out the likes of League of Legends and Zelda",
+      "url": "https://www.eurogamer.net/world-of-warcraft-forever-launch-twitch-most-viewed",
       "source": "Eurogamer",
-      "published": "Fri, 06 Nov 2026 09:40:50 +0000"
-    },
-    {
-      "title": "Mass Effect petition has enough signatures for the Canadian Government to potentially save BioWare",
-      "url": "https://www.eurogamer.net/bioware-canada-house-of-commons-petition-save-mass-effect",
-      "source": "Eurogamer",
-      "published": "Thu, 05 Nov 2026 12:48:40 +0000"
+      "published": "Thu, 05 Nov 2026 14:57:50 +0000"
     },
     {
       "title": "Save 50% Off the Wolfbox Cordless Car Jump Starter and 24,000mAh Power Bank Ahead of Black Friday",
@@ -164,22 +170,16 @@
       "published": "Fri, 6 Nov 2026 01:40:00 +0000"
     },
     {
-      "title": "Buy Games On Prime? Your Membership Now Gets You Free Uber Eats Delivery, Too",
-      "url": "https://www.gamespot.com/articles/buy-games-on-prime-your-membership-now-gets-you-free-uber-eats-delivery-too/",
+      "title": "All Dungeon Bosses No Damage – Ocarina Of Time Remake",
+      "url": "https://www.gamespot.com/videos/all-dungeon-bosses-no-damage-ocarina-of-time-remake/",
       "source": "GameSpot",
-      "published": "Thu, 05 Nov 2026 20:03:32 +0000"
+      "published": "Thu, 05 Nov 2026 18:00:00 +0000"
     },
     {
-      "title": "Amazon Reveals Free Uber Eats Delivery for Prime Members, Plus $20 Off Your First Two Orders",
-      "url": "https://www.ign.com/articles/amazon-reveals-free-uber-eats-delivery-for-prime-members-plus-20-off-your-first-two-orders",
-      "source": "IGN",
-      "published": "Thu, 5 Nov 2026 23:33:49 +0000"
-    },
-    {
-      "title": "\"Is there any accountability left in this world?\" Warren Spector pops off at EA executives and their massive payouts as BioWare shuts down",
-      "url": "https://www.eurogamer.net/bioware-closure-warren-spector-comments-accountability",
-      "source": "Eurogamer",
-      "published": "Fri, 06 Nov 2026 10:15:20 +0000"
+      "title": "People Are Acting Weird As Hell During Fortnite’s Treasure Hunt",
+      "url": "https://www.gamespot.com/articles/people-are-acting-weird-as-hell-during-fortnites-treasure-hunt/",
+      "source": "GameSpot",
+      "published": "Fri, 06 Nov 2026 00:54:27 +0000"
     }
   ]
 }
