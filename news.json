@@ -1,47 +1,23 @@
 {
-  "updated": "2026-11-11T21:51:13.382731+00:00",
+  "updated": "2026-11-12T02:49:22.227169+00:00",
   "articles": [
     {
-      "title": "Got a Synology NAS? Time to check your updates, as two high-level vulnerabilities let ne’er-do-wells read and write files and conduct DDOS attacks",
-      "url": "https://www.pcgamer.com/hardware/storage/got-a-synology-nas-time-to-check-your-updates-as-two-high-level-vulnerabilities-let-neer-do-wells-read-and-write-files-and-conduct-ddos-attacks/",
+      "title": "This solo dev is building 'the most violent cozy farming game ever made' and lumberjacking has never looked cooler",
+      "url": "https://www.pcgamer.com/games/rpg/this-solo-dev-is-building-the-most-violent-cozy-farming-game-ever-made-and-lumberjacking-has-never-looked-cooler/",
       "source": "PC Gamer",
-      "published": "Wed, 11 Nov 2026 17:24:05 +0000"
+      "published": "Wed, 11 Nov 2026 22:38:37 +0000"
     },
     {
-      "title": "Steam’s Growing Review Backlog Has Cost Another Game Its Launch Date",
-      "url": "https://www.gamespot.com/articles/steam-growing-review-backlog-has-cost-another-game-its-launch-date/",
+      "title": "Monster Hunter Outlanders Review",
+      "url": "https://www.ign.com/articles/monster-hunter-outlanders-review",
+      "source": "IGN",
+      "published": "Thu, 12 Nov 2026 00:00:00 +0000"
+    },
+    {
+      "title": "Marvel Rivals Characters: Every Superhero And Supervillain Revealed So Far",
+      "url": "https://www.gamespot.com/gallery/marvel-rivals-characters-every-superhero-and-supervillain/2900-5216/",
       "source": "GameSpot",
-      "published": "Wed, 11 Nov 2026 17:09:14 +0000"
-    },
-    {
-      "title": "Nintendo Takes Down Switch Emulators and Mod Chip Firmware in Massive GitHub DMCA Sweep",
-      "url": "https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep",
-      "source": "IGN",
-      "published": "Wed, 11 Nov 2026 20:14:37 +0000"
-    },
-    {
-      "title": "Roblox Horror Hit Dandy's World Is Finally Leaving Alpha With a Massive 1.0 Update, New Game Mode, and More",
-      "url": "https://www.ign.com/articles/dandys-world-1-0-update",
-      "source": "IGN",
-      "published": "Wed, 11 Nov 2026 20:00:00 +0000"
-    },
-    {
-      "title": "World of Warcraft: Forever secret hunters have found the MMO's first hidden treasure",
-      "url": "https://www.eurogamer.net/world-of-warcraft-forever-secret-dawn-walker-sword",
-      "source": "Eurogamer",
-      "published": "Wed, 11 Nov 2026 12:15:50 +0000"
-    },
-    {
-      "title": "Exterminauts looks like another Helldivers 2, but it's really the Deep Rock Galactic sickos who should take notice",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/exterminauts-looks-like-another-helldivers-2-but-its-really-the-deep-rock-galactic-sickos-who-should-take-notice/",
-      "source": "PC Gamer",
-      "published": "Wed, 11 Nov 2026 19:09:00 +0000"
-    },
-    {
-      "title": "Amazon's Early Black Friday Manga Sale Includes Multiple Generations of Box Sets",
-      "url": "https://www.ign.com/articles/amazon-early-black-friday-manga-sale-2026",
-      "source": "IGN",
-      "published": "Wed, 11 Nov 2026 20:38:17 +0000"
+      "published": "Mon, 23 Mar 2026 10:53:00 +0000"
     },
     {
       "title": "Grand Theft Auto Has Broken So Much Ground, What Else Can GTA 6 Do?",
@@ -50,70 +26,22 @@
       "published": "Wed, 11 Nov 2026 21:00:00 +0000"
     },
     {
-      "title": "The Rings of Power Stars React to This Week's Big Season 3 Deaths",
-      "url": "https://www.ign.com/articles/the-rings-of-power-stars-react-to-this-weeks-big-season-3-deaths",
-      "source": "IGN",
-      "published": "Wed, 11 Nov 2026 20:45:23 +0000"
-    },
-    {
-      "title": "\"I wish hardware like the Xbox Series S wouldn't be released\" - former Tekken director Katsuhiro Harada trashes Microsoft's console in front of senior Xbox staff",
-      "url": "https://www.eurogamer.net/katsuhiro-harada-xbox-series-s-wish-it-wouldnt-release",
-      "source": "Eurogamer",
-      "published": "Wed, 11 Nov 2026 14:09:30 +0000"
-    },
-    {
-      "title": "Best Loadouts In Call Of Duty: Warzone For MW4 Season 1",
-      "url": "https://www.gamespot.com/articles/best-loadouts-in-call-of-duty-warzone-for-mw4-season-1/",
-      "source": "GameSpot",
-      "published": "Wed, 11 Nov 2026 16:14:25 +0000"
-    },
-    {
-      "title": "As of this week, PlayStation 5 has surpassed 100 million consoles sold",
-      "url": "https://www.eurogamer.net/playstation-5-100-million-sales-november-2026",
-      "source": "Eurogamer",
-      "published": "Wed, 11 Nov 2026 12:49:10 +0000"
-    },
-    {
-      "title": "Doom Meets Classic Disney In Mouse: P.I. For Hire, Now At Its Lowest Price Ever",
-      "url": "https://www.gamespot.com/articles/doom-meets-classic-disney-in-mouse-p-i-for-hire-now-at-its-lowest-price-ever/",
-      "source": "GameSpot",
-      "published": "Wed, 11 Nov 2026 15:00:00 +0000"
-    },
-    {
-      "title": "Ocarina Of Time Remake Blasts Off With 5 Million Sales In Four Days; Nintendo’s Top-Selling Switch 2 Games Revealed",
-      "url": "https://www.gamespot.com/gallery/nintendos-top-selling-switch-2-games-of-all-time/2900-7694/",
-      "source": "GameSpot",
-      "published": "Fri, 08 May 2026 14:37:00 +0000"
-    },
-    {
-      "title": "Crimson Desert wins 'PC Game of the Year' at the 2026 Golden Joystick Awards",
-      "url": "https://www.pcgamer.com/games/crimson-desert-wins-pc-game-of-the-year-at-the-2026-golden-joystick-awards/",
-      "source": "PC Gamer",
-      "published": "Wed, 11 Nov 2026 21:31:30 +0000"
-    },
-    {
-      "title": "Destroy All Humans remake developer goes independent, splits from THQ Nordic and parent company Embracer Group",
-      "url": "https://www.eurogamer.net/destroy-all-humans-independent-thq-embracer",
-      "source": "Eurogamer",
-      "published": "Wed, 11 Nov 2026 20:37:20 +0000"
-    },
-    {
-      "title": "Honkai Star Rail’s First Playable Aeon Isn’t A Damage God, And That’s A Good Thing",
-      "url": "https://www.gamespot.com/articles/honkai-star-rails-first-playable-aeon-isnt-a-damage-god-and-thats-a-good-thing/",
-      "source": "GameSpot",
-      "published": "Wed, 11 Nov 2026 16:21:20 +0000"
-    },
-    {
       "title": "The European Commission's new Digital Fairness Act could change monetisation in games forever - and not just in Europe",
       "url": "https://www.eurogamer.net/eu-digital-fairness-act-what-is-it-video-games",
       "source": "Eurogamer",
       "published": "Wed, 11 Nov 2026 17:25:50 +0000"
     },
     {
-      "title": "Hell Let Loose's original developers' Napoleonic-era extraction game, Hunger, gets December early access release, and an open beta this month",
-      "url": "https://www.eurogamer.net/hunger-extraction-napoleonic-era-early-access-date",
-      "source": "Eurogamer",
-      "published": "Wed, 11 Nov 2026 15:41:50 +0000"
+      "title": "Henry Cavill Is Open to Returning as Superman Once Again",
+      "url": "https://www.ign.com/articles/henry-cavill-is-open-to-returning-as-superman-once-again",
+      "source": "IGN",
+      "published": "Wed, 11 Nov 2026 22:46:53 +0000"
+    },
+    {
+      "title": "A Death Metal Guitarist Is So Into WoW Forever, He Took it Onstage With a Steam Deck",
+      "url": "https://www.ign.com/articles/a-death-metal-guitarist-is-so-into-wow-forever-he-took-it-onstage-with-a-steam-deck",
+      "source": "IGN",
+      "published": "Wed, 11 Nov 2026 22:46:28 +0000"
     },
     {
       "title": "Former id Software developers form their own employee-owned shooter studio in the wake of Microsoft's mass layoffs",
@@ -122,28 +50,10 @@
       "published": "Wed, 11 Nov 2026 20:09:58 +0000"
     },
     {
-      "title": "The 2026 55\" LG Evo C6 4K OLED TV Drops to Black Friday Pricing, Plus Get a Free Xbox Controller",
-      "url": "https://www.ign.com/articles/lg-evo-c6-4k-oled-tv-deal-free-xbox-controller-november-2026",
-      "source": "IGN",
-      "published": "Wed, 11 Nov 2026 21:15:00 +0000"
-    },
-    {
-      "title": "How Honkai Star Rail Took Inspiration From Sports Cars For Something Unexpected",
-      "url": "https://www.gamespot.com/articles/how-honkai-star-rail-took-inspiration-from-sports-cars-for-something-unexpected/",
-      "source": "GameSpot",
-      "published": "Wed, 11 Nov 2026 16:10:35 +0000"
-    },
-    {
-      "title": "Marvel Rivals' creative director addresses hate speech controversy and promises 'we've ramped up our disciplinary measures'",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-creative-director-addresses-hate-speech-controversy-and-promises-weve-ramped-up-our-disciplinary-measures/",
+      "title": "After cracking down on 'cheat' mods in Helldivers 2 and taking another Steam review beating, Arrowhead plans hotfix that should allow harmless cosmetics",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/after-cracking-down-on-cheat-mods-in-helldivers-2-and-taking-another-steam-review-beating-arrowhead-plans-hotfix-that-should-allow-harmless-cosmetics/",
       "source": "PC Gamer",
-      "published": "Wed, 11 Nov 2026 17:34:01 +0000"
-    },
-    {
-      "title": "Tanuki: Pon's Summer Review",
-      "url": "https://www.ign.com/articles/tanuki-pons-summer-review",
-      "source": "IGN",
-      "published": "Wed, 11 Nov 2026 20:36:35 +0000"
+      "published": "Wed, 11 Nov 2026 23:29:59 +0000"
     },
     {
       "title": "GTA 6 might be censored in Japan, if the game's smaller install size and lack of \"strong sexual content\" warning is anything to go by",
@@ -152,22 +62,16 @@
       "published": "Wed, 11 Nov 2026 18:17:10 +0000"
     },
     {
-      "title": "Ex-Tekken director savages Xbox Series S in front of senior Xbox staff: ‘feels like having to do extra work for a slightly weaker child’",
-      "url": "https://www.pcgamer.com/hardware/ex-tekken-director-savages-xbox-series-s-in-front-of-senior-xbox-staff-feels-like-having-to-do-extra-work-for-a-slightly-weaker-child/",
-      "source": "PC Gamer",
-      "published": "Wed, 11 Nov 2026 17:17:42 +0000"
+      "title": "World of Warcraft: Forever secret hunters have found the MMO's first hidden treasure",
+      "url": "https://www.eurogamer.net/world-of-warcraft-forever-secret-dawn-walker-sword",
+      "source": "Eurogamer",
+      "published": "Wed, 11 Nov 2026 12:15:50 +0000"
     },
     {
-      "title": "New GTA 6 Surprise Gameplay Seemingly Released in Yet Another Viral Marketing Stunt",
-      "url": "https://www.ign.com/articles/new-gta-6-surprise-gameplay-seemingly-released-in-yet-another-viral-marketing-stunt",
-      "source": "IGN",
-      "published": "Wed, 11 Nov 2026 20:49:53 +0000"
-    },
-    {
-      "title": "Bethesda shoots down Elder Scrolls 6: Sentinel announcement rumor on Skyrim's 15th anniversary",
-      "url": "https://www.pcgamer.com/games/the-elder-scrolls/bethesda-shoots-down-elder-scrolls-6-sentinel-announcement-rumor-on-skyrims-15th-anniversary/",
+      "title": "CD Projekt used AI to modify the voice of Geralt's Polish actor after a stroke left it significantly changed: 'This was a special case'",
+      "url": "https://www.pcgamer.com/games/the-witcher/cd-projekt-used-ai-to-modify-the-voice-of-geralts-polish-actor-after-a-stroke-left-it-significantly-changed-this-was-a-special-case/",
       "source": "PC Gamer",
-      "published": "Wed, 11 Nov 2026 20:13:02 +0000"
+      "published": "Thu, 12 Nov 2026 00:02:47 +0000"
     },
     {
       "title": "Don't expect more information on The Elder Scrolls 6: Sentinel \"for some time,\" Bethesda says",
@@ -176,10 +80,106 @@
       "published": "Wed, 11 Nov 2026 19:36:50 +0000"
     },
     {
-      "title": "Marvel Rivals Characters: Every Superhero And Supervillain Revealed So Far",
-      "url": "https://www.gamespot.com/gallery/marvel-rivals-characters-every-superhero-and-supervillain/2900-5216/",
+      "title": "Crimson Desert wins 'PC Game of the Year' at the 2026 Golden Joystick Awards",
+      "url": "https://www.pcgamer.com/games/crimson-desert-wins-pc-game-of-the-year-at-the-2026-golden-joystick-awards/",
+      "source": "PC Gamer",
+      "published": "Wed, 11 Nov 2026 21:31:30 +0000"
+    },
+    {
+      "title": "Constantine Director 'Hopeful' for Sequel After DC Studios Shakeup",
+      "url": "https://www.ign.com/articles/constantine-director-hopeful-for-sequel-after-dc-studios-shakeup",
+      "source": "IGN",
+      "published": "Thu, 12 Nov 2026 00:11:19 +0000"
+    },
+    {
+      "title": "AMC App Experiences Slowdown as Marvel Fans Rush to Buy Doomsday Tickets After VisionQuest Finale",
+      "url": "https://www.ign.com/articles/amc-app-crashes-as-marvel-fans-rush-to-buy-doomsday-tickets-after-visionquest-finale",
+      "source": "IGN",
+      "published": "Wed, 11 Nov 2026 23:22:21 +0000"
+    },
+    {
+      "title": "How Honkai Star Rail Took Inspiration From Sports Cars For Something Unexpected",
+      "url": "https://www.gamespot.com/articles/how-honkai-star-rail-took-inspiration-from-sports-cars-for-something-unexpected/",
       "source": "GameSpot",
-      "published": "Mon, 23 Mar 2026 10:53:00 +0000"
+      "published": "Wed, 11 Nov 2026 16:10:35 +0000"
+    },
+    {
+      "title": "Doom Meets Classic Disney In Mouse: P.I. For Hire, Now At Its Lowest Price Ever",
+      "url": "https://www.gamespot.com/articles/doom-meets-classic-disney-in-mouse-p-i-for-hire-now-at-its-lowest-price-ever/",
+      "source": "GameSpot",
+      "published": "Wed, 11 Nov 2026 15:00:00 +0000"
+    },
+    {
+      "title": "As of this week, PlayStation 5 has surpassed 100 million consoles sold",
+      "url": "https://www.eurogamer.net/playstation-5-100-million-sales-november-2026",
+      "source": "Eurogamer",
+      "published": "Wed, 11 Nov 2026 12:49:10 +0000"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang allegedly had a second affair with another Nvidia exec",
+      "url": "https://www.pcgamer.com/software/ai/nvidia-ceo-jensen-huang-allegedly-had-a-second-affair-with-another-nvidia-exec/",
+      "source": "PC Gamer",
+      "published": "Wed, 11 Nov 2026 23:25:39 +0000"
+    },
+    {
+      "title": "Honkai Star Rail’s First Playable Aeon Isn’t A Damage God, And That’s A Good Thing",
+      "url": "https://www.gamespot.com/articles/honkai-star-rails-first-playable-aeon-isnt-a-damage-god-and-thats-a-good-thing/",
+      "source": "GameSpot",
+      "published": "Wed, 11 Nov 2026 16:21:20 +0000"
+    },
+    {
+      "title": "The 2026 LEGO Star Wars Advent Calendar Is Discounted at Target After Amazon Sells Out",
+      "url": "https://www.ign.com/articles/2026-lego-star-wars-advent-stock-update-black-friday",
+      "source": "IGN",
+      "published": "Wed, 11 Nov 2026 23:44:11 +0000"
+    },
+    {
+      "title": "Steam’s Growing Review Backlog Has Cost Another Game Its Launch Date",
+      "url": "https://www.gamespot.com/articles/steam-growing-review-backlog-has-cost-another-game-its-launch-date/",
+      "source": "GameSpot",
+      "published": "Wed, 11 Nov 2026 17:09:14 +0000"
+    },
+    {
+      "title": "\"I wish hardware like the Xbox Series S wouldn't be released\" - former Tekken director Katsuhiro Harada trashes Microsoft's console in front of senior Xbox staff",
+      "url": "https://www.eurogamer.net/katsuhiro-harada-xbox-series-s-wish-it-wouldnt-release",
+      "source": "Eurogamer",
+      "published": "Wed, 11 Nov 2026 14:09:30 +0000"
+    },
+    {
+      "title": "Ocarina Of Time Remake Blasts Off With 5 Million Sales In Four Days; Nintendo’s Top-Selling Switch 2 Games Revealed",
+      "url": "https://www.gamespot.com/gallery/nintendos-top-selling-switch-2-games-of-all-time/2900-7694/",
+      "source": "GameSpot",
+      "published": "Fri, 08 May 2026 14:37:00 +0000"
+    },
+    {
+      "title": "Hell Let Loose's original developers' Napoleonic-era extraction game, Hunger, gets December early access release, and an open beta this month",
+      "url": "https://www.eurogamer.net/hunger-extraction-napoleonic-era-early-access-date",
+      "source": "Eurogamer",
+      "published": "Wed, 11 Nov 2026 15:41:50 +0000"
+    },
+    {
+      "title": "Bethesda shoots down Elder Scrolls 6: Sentinel announcement rumor on Skyrim's 15th anniversary",
+      "url": "https://www.pcgamer.com/games/the-elder-scrolls/bethesda-shoots-down-elder-scrolls-6-sentinel-announcement-rumor-on-skyrims-15th-anniversary/",
+      "source": "PC Gamer",
+      "published": "Wed, 11 Nov 2026 20:13:02 +0000"
+    },
+    {
+      "title": "Best Loadouts In Call Of Duty: Warzone For MW4 Season 1",
+      "url": "https://www.gamespot.com/articles/best-loadouts-in-call-of-duty-warzone-for-mw4-season-1/",
+      "source": "GameSpot",
+      "published": "Wed, 11 Nov 2026 16:14:25 +0000"
+    },
+    {
+      "title": "Marvel 1943: Rise of Hydra Is Reportedly 'Close to Done,' Though at the Cost of Cutting Back on Content and Length",
+      "url": "https://www.ign.com/articles/marvel-1943-rise-of-hydra-is-reportedly-close-to-done-though-at-the-cost-of-cutting-back-on-content-and-length",
+      "source": "IGN",
+      "published": "Wed, 11 Nov 2026 23:27:23 +0000"
+    },
+    {
+      "title": "Nvidia Board Is Preparing to Potentially Oust CEO Jensen Huang",
+      "url": "https://www.ign.com/articles/nvidia-board-is-preparing-to-potentially-oust-ceo-jensen-huang",
+      "source": "IGN",
+      "published": "Wed, 11 Nov 2026 23:20:22 +0000"
     }
   ]
 }
