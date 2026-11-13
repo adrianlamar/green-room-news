@@ -1,155 +1,11 @@
 {
-  "updated": "2026-11-13T00:06:25.708251+00:00",
+  "updated": "2026-11-13T06:30:08.033827+00:00",
   "articles": [
-    {
-      "title": "New Doom Game Seemingly Announced In The Weirdest Way After Half The Studio Was Laid Off",
-      "url": "https://www.gamespot.com/articles/new-doom-game-seemingly-announced-in-the-weirdest-way-after-half-the-studio-was-laid-off/",
-      "source": "GameSpot",
-      "published": "Thu, 12 Nov 2026 21:07:28 +0000"
-    },
-    {
-      "title": "Doom Developer id Software Confirms Work on New Game, Will Be Directed by Hugo Martin",
-      "url": "https://www.ign.com/articles/doom-developer-id-software-confirms-work-on-new-game-will-be-directed-by-hugo-martin",
-      "source": "IGN",
-      "published": "Thu, 12 Nov 2026 20:00:25 +0000"
-    },
     {
       "title": "Xbox CEO looks to the future as Microsoft's console turns 25: 'A single person will soon be able to wield capabilities that once required entire nations'",
       "url": "https://www.pcgamer.com/software/ai/xbox-ceo-looks-to-the-future-as-microsofts-console-turns-25-a-single-person-will-soon-be-able-to-wield-capabilities-that-once-required-entire-nations/",
       "source": "PC Gamer",
       "published": "Thu, 12 Nov 2026 18:29:49 +0000"
-    },
-    {
-      "title": "‘Maybe We’ve Gone a Step Too Far’ — Ocarina of Time Remake Producer Reveals the Game's ReDeads Were Originally Supposed to Be Even Scarier",
-      "url": "https://www.ign.com/articles/maybe-weve-gone-a-step-too-far-ocarina-of-time-remake-producer-reveals-the-games-redeads-were-originally-supposed-to-be-even-scarier",
-      "source": "IGN",
-      "published": "Thu, 12 Nov 2026 20:02:51 +0000"
-    },
-    {
-      "title": "Grand Theft Auto VI (GTA 6) Everything To Know",
-      "url": "https://www.gamespot.com/videos/grand-theft-auto-vi-gta-6-everything-to-know/",
-      "source": "GameSpot",
-      "published": "Thu, 12 Nov 2026 22:00:00 +0000"
-    },
-    {
-      "title": "Valheim Is Getting a Comic Book Series, and It Looks Badass",
-      "url": "https://www.ign.com/articles/valheim-is-getting-a-comic-book-series-and-it-looks-badass",
-      "source": "IGN",
-      "published": "Thu, 12 Nov 2026 20:20:41 +0000"
-    },
-    {
-      "title": "Disney Teases “Major Announcements” For The Game Awards",
-      "url": "https://www.gamespot.com/articles/disney-teases-major-announcements-for-the-game-awards/",
-      "source": "GameSpot",
-      "published": "Thu, 12 Nov 2026 19:10:03 +0000"
-    },
-    {
-      "title": "Now Jensen's gone, Intel’s trouble finding a steady CEO should serve as cautionary tale to Nvidia’s board",
-      "url": "https://www.pcgamer.com/hardware/now-jensens-gone-intels-trouble-finding-a-steady-ceo-should-serve-as-cautionary-tale-to-nvidias-board/",
-      "source": "PC Gamer",
-      "published": "Thu, 12 Nov 2026 17:50:22 +0000"
-    },
-    {
-      "title": "World of Warcraft: Forever players in Australia and New Zealand are struggling to get sunlight, and not for the usual MMO reasons",
-      "url": "https://www.eurogamer.net/world-of-warcraft-forever-oceania-sunlight",
-      "source": "Eurogamer",
-      "published": "Thu, 12 Nov 2026 16:30:00 +0000"
-    },
-    {
-      "title": "My Trip Down Xbox Memory Lane Should Be Celebratory, But Instead It’s Just Depressing",
-      "url": "https://www.gamespot.com/articles/my-trip-down-xbox-memory-lane-should-be-celebratory-but-instead-its-just-depressing/",
-      "source": "GameSpot",
-      "published": "Thu, 12 Nov 2026 20:53:34 +0000"
-    },
-    {
-      "title": "Paradox boss Frederik Wester stepping down after several tumultuous years for the Cities Skylines and Stellaris publisher",
-      "url": "https://www.eurogamer.net/paradox-ceo-frederik-wester-stepping-down",
-      "source": "Eurogamer",
-      "published": "Thu, 12 Nov 2026 13:22:00 +0000"
-    },
-    {
-      "title": "Palworld developer Pocketpair gives employees time off for 'a 5-day business trip in Vice City when GTA 6 launches'",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/palworld-developer-pocketpair-gives-employees-time-off-for-a-5-day-business-trip-in-vice-city-when-gta-6-launches/",
-      "source": "PC Gamer",
-      "published": "Thu, 12 Nov 2026 22:08:48 +0000"
-    },
-    {
-      "title": "Everyone is Franklin in GTA 5 now",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/everyone-is-franklin-in-gta-5-now/",
-      "source": "PC Gamer",
-      "published": "Thu, 12 Nov 2026 18:00:00 +0000"
-    },
-    {
-      "title": "After days of controversy, Nvidia CEO Jensen Huang has resigned",
-      "url": "https://www.eurogamer.net/nvidia-ceo-jensen-huang-resigns",
-      "source": "Eurogamer",
-      "published": "Thu, 12 Nov 2026 15:07:20 +0000"
-    },
-    {
-      "title": "South Korean game rating board almost blocked GTA 6's release, fearing its 'out-of-context genital nudity' would 'disrupt social order'",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/south-korean-game-rating-board-almost-blocked-gta-6s-release-fearing-its-out-of-context-genital-nudity-would-disrupt-social-order/",
-      "source": "PC Gamer",
-      "published": "Thu, 12 Nov 2026 19:06:41 +0000"
-    },
-    {
-      "title": "The Witcher 3 uses gen-AI to enhance Geralt's Polish voice following actor's stroke - \"I do think this is one of those ways where you can use AI ethically\"",
-      "url": "https://www.eurogamer.net/cd-projekt-red-geralt-gen-ai-voice-polish-jacek-rozenek",
-      "source": "Eurogamer",
-      "published": "Thu, 12 Nov 2026 14:26:10 +0000"
-    },
-    {
-      "title": "After two weeks of multiplayer downtime, Dark Souls 2 & 3's mysterious server \"issue\" has been fixed, so it no longer feels so lonely online",
-      "url": "https://www.eurogamer.net/dark-souls-2-3-servers-back-online",
-      "source": "Eurogamer",
-      "published": "Thu, 12 Nov 2026 14:24:50 +0000"
-    },
-    {
-      "title": "Paradox Interactive is getting a new boss as Fredrik Wester steps down for the second time",
-      "url": "https://www.pcgamer.com/gaming-industry/paradox-interactive-is-getting-a-new-boss-as-fredrik-wester-steps-down-for-the-second-time/",
-      "source": "PC Gamer",
-      "published": "Thu, 12 Nov 2026 19:52:19 +0000"
-    },
-    {
-      "title": "Save $200 Off the Latest 2026 MacBook Air With New Apple M5 Processor for Black Friday",
-      "url": "https://www.ign.com/articles/2026-apple-macbook-air-laptop-deal-november-2026",
-      "source": "IGN",
-      "published": "Thu, 12 Nov 2026 23:00:00 +0000"
-    },
-    {
-      "title": "Will a Grand Theft Auto game ever be set outside of America? Rockstar offers a small glimmer of hope",
-      "url": "https://www.eurogamer.net/grand-theft-auto-gta-non-american-setting-rockstar",
-      "source": "Eurogamer",
-      "published": "Thu, 12 Nov 2026 12:39:20 +0000"
-    },
-    {
-      "title": "Games Will Have A Physical Footprint Forever, Take-Two Boss Says, But It’ll Be “Very Small”",
-      "url": "https://www.gamespot.com/articles/games-will-have-a-physical-footprint-forever-take-two-boss-says-but-itll-be-very-small/",
-      "source": "GameSpot",
-      "published": "Thu, 12 Nov 2026 20:12:18 +0000"
-    },
-    {
-      "title": "Fable – 4 Minutes Of New Questing Gameplay",
-      "url": "https://www.gamespot.com/videos/fable-4-minutes-of-new-questing-gameplay/",
-      "source": "GameSpot",
-      "published": "Thu, 12 Nov 2026 19:35:40 +0000"
-    },
-    {
-      "title": "Skydance Owning Both Warner Bros. and Paramount Could Open the Door to a Future of Crossover Slop",
-      "url": "https://www.ign.com/articles/skydance-owning-both-warner-bros-and-paramount-could-open-the-door-to-a-future-of-crossover-slop",
-      "source": "IGN",
-      "published": "Thu, 12 Nov 2026 22:51:29 +0000"
-    },
-    {
-      "title": "The 3.96lb Lenovo Yoga 7i 16\" 2-in-1 Convertible Laptop and Tablet Hybrid Drops to $650 for Black Friday",
-      "url": "https://www.ign.com/articles/lenovo-yoga-7-convertible-laptop-deal-november-2026",
-      "source": "IGN",
-      "published": "Thu, 12 Nov 2026 20:30:00 +0000"
-    },
-    {
-      "title": "Doom studio id Software confirms it's working on a new game",
-      "url": "https://www.pcgamer.com/games/fps/doom-studio-id-software-confirms-its-working-on-a-new-game/",
-      "source": "PC Gamer",
-      "published": "Thu, 12 Nov 2026 21:10:04 +0000"
     },
     {
       "title": "New 4-minute Fable gameplay trailer shows a game that doesn't look much like Fable",
@@ -158,16 +14,154 @@
       "published": "Thu, 12 Nov 2026 22:43:21 +0000"
     },
     {
-      "title": "Former Nvidia CEO Jensen Huang Reportedly Had Third Affair With Another Employee",
-      "url": "https://www.ign.com/articles/former-nvidia-ceo-jensen-huang-reportedly-had-third-affair-with-another-employee",
-      "source": "IGN",
-      "published": "Thu, 12 Nov 2026 22:21:24 +0000"
+      "title": "Paradox boss Frederik Wester stepping down after several tumultuous years for the Cities Skylines and Stellaris publisher",
+      "url": "https://www.eurogamer.net/paradox-ceo-frederik-wester-stepping-down",
+      "source": "Eurogamer",
+      "published": "Thu, 12 Nov 2026 13:22:00 +0000"
     },
     {
-      "title": "Fable Drops Four Minutes of New Gameplay",
-      "url": "https://www.ign.com/articles/fable-drops-four-minutes-of-new-gameplay",
+      "title": "Wolfenstein 3 is in production at MachineGames",
+      "url": "https://www.pcgamer.com/games/fps/wolfenstein-3-is-in-production-at-machinegames/",
+      "source": "PC Gamer",
+      "published": "Fri, 13 Nov 2026 01:35:32 +0000"
+    },
+    {
+      "title": "Doom studio id Software confirms it's working on a new game",
+      "url": "https://www.pcgamer.com/games/fps/doom-studio-id-software-confirms-its-working-on-a-new-game/",
+      "source": "PC Gamer",
+      "published": "Thu, 12 Nov 2026 21:10:04 +0000"
+    },
+    {
+      "title": "Grand Theft Auto VI (GTA 6) Everything To Know",
+      "url": "https://www.gamespot.com/videos/grand-theft-auto-vi-gta-6-everything-to-know/",
+      "source": "GameSpot",
+      "published": "Thu, 12 Nov 2026 22:00:00 +0000"
+    },
+    {
+      "title": "Xbox boss seemingly champions gen-AI development as she celebrates 25 years of Xbox: \"A small team will be able to build worlds that today demand hundreds of developers\"",
+      "url": "https://www.eurogamer.net/microsoft-xbox-gen-ai-asha-sharma-memo",
+      "source": "Eurogamer",
+      "published": "Thu, 12 Nov 2026 17:32:20 +0000"
+    },
+    {
+      "title": "Everyone is Franklin in GTA 5 now",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/everyone-is-franklin-in-gta-5-now/",
+      "source": "PC Gamer",
+      "published": "Thu, 12 Nov 2026 18:00:00 +0000"
+    },
+    {
+      "title": "Will a Grand Theft Auto game ever be set outside of America? Rockstar offers a small glimmer of hope",
+      "url": "https://www.eurogamer.net/grand-theft-auto-gta-non-american-setting-rockstar",
+      "source": "Eurogamer",
+      "published": "Thu, 12 Nov 2026 12:39:20 +0000"
+    },
+    {
+      "title": "The Witcher 3 uses gen-AI to enhance Geralt's Polish voice following actor's stroke - \"I do think this is one of those ways where you can use AI ethically\"",
+      "url": "https://www.eurogamer.net/cd-projekt-red-geralt-gen-ai-voice-polish-jacek-rozenek",
+      "source": "Eurogamer",
+      "published": "Thu, 12 Nov 2026 14:26:10 +0000"
+    },
+    {
+      "title": "After days of controversy, Nvidia CEO Jensen Huang has resigned",
+      "url": "https://www.eurogamer.net/nvidia-ceo-jensen-huang-resigns",
+      "source": "Eurogamer",
+      "published": "Thu, 12 Nov 2026 15:07:20 +0000"
+    },
+    {
+      "title": "A PlayStation 5 Compatible SSD With Heatsink Dropped to Possibly the Lowest Price We'll See for Black Friday",
+      "url": "https://www.ign.com/articles/ps5-ssd-deal-november-2026",
       "source": "IGN",
-      "published": "Thu, 12 Nov 2026 20:16:03 +0000"
+      "published": "Thu, 12 Nov 2026 23:20:00 +0000"
+    },
+    {
+      "title": "Paradox Interactive is getting a new boss as Fredrik Wester steps down for the second time",
+      "url": "https://www.pcgamer.com/gaming-industry/paradox-interactive-is-getting-a-new-boss-as-fredrik-wester-steps-down-for-the-second-time/",
+      "source": "PC Gamer",
+      "published": "Thu, 12 Nov 2026 19:52:19 +0000"
+    },
+    {
+      "title": "South Korean game rating board almost blocked GTA 6's release, fearing its 'out-of-context genital nudity' would 'disrupt social order'",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/south-korean-game-rating-board-almost-blocked-gta-6s-release-fearing-its-out-of-context-genital-nudity-would-disrupt-social-order/",
+      "source": "PC Gamer",
+      "published": "Thu, 12 Nov 2026 19:06:41 +0000"
+    },
+    {
+      "title": "The Dungeon Crawler Carl Books and Graphic Novels Are on Sale Before Black Friday",
+      "url": "https://www.ign.com/articles/the-dungeon-crawler-carl-books-sale-black-friday-2026",
+      "source": "IGN",
+      "published": "Thu, 12 Nov 2026 23:31:07 +0000"
+    },
+    {
+      "title": "As low-effort AI slop continues to flood Steam, yet more developers announce game delays caused by Valve's growing approval backlog",
+      "url": "https://www.eurogamer.net/steam-game-submission-review-backlog-ai-slop-approval-delays",
+      "source": "Eurogamer",
+      "published": "Thu, 12 Nov 2026 16:06:20 +0000"
+    },
+    {
+      "title": "Wolfenstein 3 Confirmed to Be in Development at MachineGames",
+      "url": "https://www.ign.com/articles/wolfenstein-3-confirmed-to-be-in-development-at-machinegames",
+      "source": "IGN",
+      "published": "Fri, 13 Nov 2026 00:01:13 +0000"
+    },
+    {
+      "title": "Palworld developer Pocketpair gives employees time off for 'a 5-day business trip in Vice City when GTA 6 launches'",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/palworld-developer-pocketpair-gives-employees-time-off-for-a-5-day-business-trip-in-vice-city-when-gta-6-launches/",
+      "source": "PC Gamer",
+      "published": "Thu, 12 Nov 2026 22:08:48 +0000"
+    },
+    {
+      "title": "The He Who Fights With Monsters Hardcover Books Are on Sale Before Black Friday",
+      "url": "https://www.ign.com/articles/the-he-who-fights-with-monsters-hardcover-book-sale-black-friday-2026",
+      "source": "IGN",
+      "published": "Fri, 13 Nov 2026 00:38:21 +0000"
+    },
+    {
+      "title": "Save $200 Off the Latest 2026 MacBook Air With New Apple M5 Processor for Black Friday",
+      "url": "https://www.ign.com/articles/2026-apple-macbook-air-laptop-deal-november-2026",
+      "source": "IGN",
+      "published": "Thu, 12 Nov 2026 23:00:00 +0000"
+    },
+    {
+      "title": "World of Warcraft: Forever players in Australia and New Zealand are struggling to get sunlight, and not for the usual MMO reasons",
+      "url": "https://www.eurogamer.net/world-of-warcraft-forever-oceania-sunlight",
+      "source": "Eurogamer",
+      "published": "Thu, 12 Nov 2026 16:30:00 +0000"
+    },
+    {
+      "title": "After two weeks of multiplayer downtime, Dark Souls 2 & 3's mysterious server \"issue\" has been fixed, so it no longer feels so lonely online",
+      "url": "https://www.eurogamer.net/dark-souls-2-3-servers-back-online",
+      "source": "Eurogamer",
+      "published": "Thu, 12 Nov 2026 14:24:50 +0000"
+    },
+    {
+      "title": "GTA 6's Burger Shot Restaurant Is Expanding Across Florida With Real Meals Inspired by the Game",
+      "url": "https://www.ign.com/articles/gta-6s-burger-shot-restaurant-is-expanding-across-florida-with-real-meals-inspired-by-the-game",
+      "source": "IGN",
+      "published": "Fri, 13 Nov 2026 00:44:45 +0000"
+    },
+    {
+      "title": "Skydance Owning Both Warner Bros. and Paramount Could Open the Door to a Future of Crossover Slop",
+      "url": "https://www.ign.com/articles/skydance-owning-both-warner-bros-and-paramount-could-open-the-door-to-a-future-of-crossover-slop",
+      "source": "IGN",
+      "published": "Thu, 12 Nov 2026 22:51:29 +0000"
+    },
+    {
+      "title": "Fable – 4 Minutes Of New Questing Gameplay",
+      "url": "https://www.gamespot.com/videos/fable-4-minutes-of-new-questing-gameplay/",
+      "source": "GameSpot",
+      "published": "Thu, 12 Nov 2026 19:35:40 +0000"
+    },
+    {
+      "title": "Disney Teases “Major Announcements” For The Game Awards",
+      "url": "https://www.gamespot.com/articles/disney-teases-major-announcements-for-the-game-awards/",
+      "source": "GameSpot",
+      "published": "Thu, 12 Nov 2026 19:10:03 +0000"
+    },
+    {
+      "title": "Games Will Have A Physical Footprint Forever, Take-Two Boss Says, But It’ll Be “Very Small”",
+      "url": "https://www.gamespot.com/articles/games-will-have-a-physical-footprint-forever-take-two-boss-says-but-itll-be-very-small/",
+      "source": "GameSpot",
+      "published": "Thu, 12 Nov 2026 20:12:18 +0000"
     },
     {
       "title": "Candy Crush Is Celebrating Xbox’s 25th Anniversary With Halo, Fallout, And Doom Crossovers, Including Remixed Music",
@@ -176,10 +170,16 @@
       "published": "Thu, 12 Nov 2026 22:00:00 +0000"
     },
     {
-      "title": "As low-effort AI slop continues to flood Steam, yet more developers announce game delays caused by Valve's growing approval backlog",
-      "url": "https://www.eurogamer.net/steam-game-submission-review-backlog-ai-slop-approval-delays",
-      "source": "Eurogamer",
-      "published": "Thu, 12 Nov 2026 16:06:20 +0000"
+      "title": "Former Nvidia CEO Jensen Huang Reportedly Had Third Affair With Another Employee",
+      "url": "https://www.ign.com/articles/former-nvidia-ceo-jensen-huang-reportedly-had-third-affair-with-another-employee",
+      "source": "IGN",
+      "published": "Thu, 12 Nov 2026 22:21:24 +0000"
+    },
+    {
+      "title": "My Trip Down Xbox Memory Lane Should Be Celebratory, But Instead It’s Just Depressing",
+      "url": "https://www.gamespot.com/articles/my-trip-down-xbox-memory-lane-should-be-celebratory-but-instead-its-just-depressing/",
+      "source": "GameSpot",
+      "published": "Thu, 12 Nov 2026 20:53:34 +0000"
     }
   ]
 }
